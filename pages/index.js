@@ -15,28 +15,28 @@ export default function Home() {
         <h1 className={styles.title}>
          <a href="https://en.wikipedia.org/wiki/1_Timothy_1">1 Timothy</a>
         </h1>
-        <div className={styles.flex}>
-           
+        <div className={styles.hero}>
+       <Image 
+                                src="/pexels-photo-4200823.webp"
+                                alt="Jesus teaching"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+                          
+    <a href="https://the-holy-bible.vercel.app/">
+            <button className={styles.button}> HOME </button>
+       </a>
 
-<a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
-            <a href="https://index-olive-two.vercel.app/">
-            <button className={styles.code}>
-                INDEX
-            </button>
-            </a>
-        </div>
-        <p className={styles.description}>
-        
-          <code className={styles.publisher}>&darr; Scroll &darr;</code>
-        </p>
-
-
-        <p className={styles.h2}>
-        <span className={styles.span}> &darr; Romans 1:16 &rarr; </span>
-          For I am not ashamed of the  gospel, because it is the power
-          of God that brings salvation to everyone who believes. First the Jew & then the Gentile
-        </p>
-
+         <a href="#PayPalButton">
+            <button className={styles.button}>CONTRIBUTE </button>
+        </a> 
+         <a href="https://first-corinthians.vercel.app/">
+            <button className={styles.button}>PREV </button>
+       </a>           
+        <a href="https://galatians.vercel.app/">
+            <button className={styles.button}>NEXT > </button>
+       </a>           
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Chapter 1 &rarr;</h2>
@@ -161,6 +161,7 @@ Grace be with you all.
             </p>
           </div>
         </div>
+</div>
       </main>
 
       <footer className={styles.footer}>
