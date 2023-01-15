@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-         <a href="https://en.wikipedia.org/wiki/1_Timothy_1">1 Timothy</a>
+         <a href="https://en.wikipedia.org/wiki/1_Timothy_1">I Timothy</a>
         </h1>
         <div className={styles.hero}>
        <Image 
@@ -31,10 +31,10 @@ export default function Home() {
          <a href="#PayPalButton">
             <button className={styles.button}>CONTRIBUTE </button>
         </a> 
-         <a href="https://first-corinthians.vercel.app/">
+         <a href="https://second-thessalonians.vercel.app/">
             <button className={styles.button}>PREV </button>
        </a>           
-        <a href="https://galatians.vercel.app/">
+        <a href="https://second-timothy.vercel.app/">
             <button className={styles.button}>NEXT > </button>
        </a>           
         <div className={styles.grid}>
