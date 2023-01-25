@@ -17,13 +17,13 @@ export default function Home() {
         </h1>
         <div className={styles.hero}>
        <Image 
-                                src="/pexels-photo-4200823.webp"
+                                src="/jesus-as-shepherd_24381-1007.webp"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
                                 priority
                               />
-                          
+              <div className={styles.nav}>
     <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}> HOME </button>
        </a>
@@ -37,6 +37,7 @@ export default function Home() {
         <a href="https://second-timothy.vercel.app/">
             <button className={styles.button}>NEXT > </button>
        </a>           
+            </div>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Chapter 1 &rarr;</h2>
