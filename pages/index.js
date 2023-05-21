@@ -24,7 +24,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/power-of-proverbs.png"
+                                src="/proverbs.jpeg"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
