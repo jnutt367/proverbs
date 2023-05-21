@@ -69,7 +69,18 @@
   top: 10px;
 }
 
-
+.parables {
+    display: grid;
+    text-align: center;
+    color: white;
+    position: relative;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 25px;
+    top: -15px;
+    font-family: Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-weight: 200;
+}
 .image {
     margin-top: -50px;
     padding-left: 100px;
