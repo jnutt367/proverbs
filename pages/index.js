@@ -30,7 +30,8 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
-          </div>   
+          </div>  
+<p className={styles.parables}>"For understanding proverbs & parables, sayings & riddles of the wise. The fear of the Lord is the beginning of knowledge"</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Gab04dPs_uA" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   <div className={styles.nav}>           
       <a href="https://second-thessalonians.vercel.app/">
              <Image 
