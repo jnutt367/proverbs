@@ -65,27 +65,90 @@ export default function Home() {
          
                </div>
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <div href="https://nextjs.org/docs" className={styles.card}>
             <h2 className={styles.chapter}> Proverbs I &darr;</h2>
-            <p>1 Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,
+            <p>
+1 The proverbs of Solomon son of David, king of Israel:
 
-2 To Timothy my true son in the faith:
+2 for gaining wisdom and instruction;
+    for understanding words of insight;
+3 for receiving instruction in prudent behavior,
+    doing what is right and just and fair;
+4 for giving prudence to those who are simple,[a]
+    knowledge and discretion to the young—
+5 let the wise listen and add to their learning,
+    and let the discerning get guidance—
+6 for understanding proverbs and parables,
+    the sayings and riddles of the wise.
 
-Grace, mercy and peace from God the Father and Christ Jesus our Lord.
+7 The fear of the Lord is the beginning of knowledge,
+    but fools despise wisdom and instruction.
 
-Timothy Charged to Oppose False Teachers
-3 As I urged you when I went into Macedonia, stay there in Ephesus so that you may command certain people not to teach false doctrines any longer 4 or to devote themselves to myths and endless genealogies. Such things promote controversial speculations rather than advancing God’s work—which is by faith. 5 The goal of this command is love, which comes from a pure heart and a good conscience and a sincere faith. 6 Some have departed from these and have turned to meaningless talk. 7 They want to be teachers of the law, but they do not know what they are talking about or what they so confidently affirm.
+Prologue: Exhortations to Embrace Wisdom
+Warning Against the Invitation of Sinful Men
+8 Listen, my son, to your father’s instruction
+    and do not forsake your mother’s teaching.
+9 They are a garland to grace your head
+    and a chain to adorn your neck.
 
-8 We know that the law is good if one uses it properly. 9 We also know that the law is made not for the righteous but for lawbreakers and rebels, the ungodly and sinful, the unholy and irreligious, for those who kill their fathers or mothers, for murderers, 10 for the sexually immoral, for those practicing homosexuality, for slave traders and liars and perjurers—and for whatever else is contrary to the sound doctrine 11 that conforms to the gospel concerning the glory of the blessed God, which he entrusted to me.
+10 My son, if sinful men entice you,
+    do not give in to them.
+11 If they say, “Come along with us;
+    let’s lie in wait for innocent blood,
+    let’s ambush some harmless soul;
+12 let’s swallow them alive, like the grave,
+    and whole, like those who go down to the pit;
+13 we will get all sorts of valuable things
+    and fill our houses with plunder;
+14 cast lots with us;
+    we will all share the loot”—
+15 my son, do not go along with them,
+    do not set foot on their paths;
+16 for their feet rush into evil,
+    they are swift to shed blood.
+17 How useless to spread a net
+    where every bird can see it!
+18 These men lie in wait for their own blood;
+    they ambush only themselves!
+19 Such are the paths of all who go after ill-gotten gain;
+    it takes away the life of those who get it.
 
-The Lord’s Grace to Paul
-12 I thank Christ Jesus our Lord, who has given me strength, that he considered me trustworthy, appointing me to his service. 13 Even though I was once a blasphemer and a persecutor and a violent man, I was shown mercy because I acted in ignorance and unbelief. 14 The grace of our Lord was poured out on me abundantly, along with the faith and love that are in Christ Jesus.
+Wisdom’s Rebuke
+20 Out in the open wisdom calls aloud,
+    she raises her voice in the public square;
+21 on top of the wall she cries out,
+    at the city gate she makes her speech:
 
-15 Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save sinners—of whom I am the worst. 16 But for that very reason I was shown mercy so that in me, the worst of sinners, Christ Jesus might display his immense patience as an example for those who would believe in him and receive eternal life. 17 Now to the King eternal, immortal, invisible, the only God, be honor and glory for ever and ever. Amen.
+22 “How long will you who are simple love your simple ways?
+    How long will mockers delight in mockery
+    and fools hate knowledge?
+23 Repent at my rebuke!
+    Then I will pour out my thoughts to you,
+    I will make known to you my teachings.
+24 But since you refuse to listen when I call
+    and no one pays attention when I stretch out my hand,
+25 since you disregard all my advice
+    and do not accept my rebuke,
+26 I in turn will laugh when disaster strikes you;
+    I will mock when calamity overtakes you—
+27 when calamity overtakes you like a storm,
+    when disaster sweeps over you like a whirlwind,
+    when distress and trouble overwhelm you.
 
-The Charge to Timothy Renewed
-18 Timothy, my son, I am giving you this command in keeping with the prophecies once made about you, so that by recalling them you may fight the battle well, 19 holding on to faith and a good conscience, which some have rejected and so have suffered shipwreck with regard to the faith. 20 Among them are Hymenaeus and Alexander, whom I have handed over to Satan to be taught not to blaspheme.</p>
-          </a>
+28 “Then they will call to me but I will not answer;
+    they will look for me but will not find me,
+29 since they hated knowledge
+    and did not choose to fear the Lord.
+30 Since they would not accept my advice
+    and spurned my rebuke,
+31 they will eat the fruit of their ways
+    and be filled with the fruit of their schemes.
+32 For the waywardness of the simple will kill them,
+    and the complacency of fools will destroy them;
+33 but whoever listens to me will live in safety
+    and be at ease, without fear of harm.”  
+  </p>
+  </div>
 
           <div className={styles.card}>
             <h2 className={styles.chapter}> Proverbs II &darr;</h2>
@@ -95,7 +158,7 @@ The Charge to Timothy Renewed
 
 8 Therefore I want the men everywhere to pray, lifting up holy hands without anger or disputing. 9 I also want the women to dress modestly, with decency and propriety, adorning themselves, not with elaborate hairstyles or gold or pearls or expensive clothes, 10 but with good deeds, appropriate for women who profess to worship God.
 
-11 A woman[a] should learn in quietness and full submission. 12 I do not permit a woman to teach or to assume authority over a man;[b] she must be quiet. 13 For Adam was formed first, then Eve. 14 And Adam was not the one deceived; it was the woman who was deceived and became a sinner. 15 But women[c] will be saved through childbearing—if they continue in faith, love and holiness with propriety.
+11 A woman should learn in quietness and full submission. 12 I do not permit a woman to teach or to assume authority over a man; she must be quiet. 13 For Adam was formed first, then Eve. 14 And Adam was not the one deceived; it was the woman who was deceived and became a sinner. 15 But women[c] will be saved through childbearing—if they continue in faith, love and holiness with propriety.
             </p>
           </div>
 
