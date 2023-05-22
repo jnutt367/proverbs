@@ -249,11 +249,11 @@
 }
 
 .grid {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     background-color: #ED7014;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
     max-width: 2000px;
 }
 
