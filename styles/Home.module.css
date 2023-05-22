@@ -403,6 +403,10 @@
         padding-left: 200px;
         padding-right: 200px;     
     }
+     .grid {
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+    }
 }
    
 
@@ -415,10 +419,7 @@
         padding: 0;
         border: none;
     }
-    .grid {
-     display: grid;
-     grid-template-columns: 1fr 1fr 1fr;
-    }
+   
     .holy {
          display: block;
          padding: 0;
