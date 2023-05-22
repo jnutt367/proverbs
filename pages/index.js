@@ -372,57 +372,59 @@ export default function Home() {
           >
             <h2 className={styles.chapter}> Proverbs V &darr;</h2>
             <p>
-                                     Warning Against Adultery
-                           My son, pay attention to my wisdom,
-                              turn your ear to my words of insight,
-                          2 that you may maintain discretion
-                              and your lips may preserve knowledge.
-                          3 For the lips of the adulterous woman drip honey,
-                              and her speech is smoother than oil;
-                          4 but in the end she is bitter as gall,
-                              sharp as a double-edged sword.
-                          5 Her feet go down to death;
-                              her steps lead straight to the grave.
-                          6 She gives no thought to the way of life;
-                              her paths wander aimlessly, but she does not know it.
+                                                                  Warning Against Adultery
+                                 My son, pay attention to my wisdom,
+                                    turn your ear to my words of insight,
+                                2 that you may maintain discretion
+                                    and your lips may preserve knowledge.
+                                3 For the lips of the adulterous woman drip honey,
+                                    and her speech is smoother than oil;
+                                4 but in the end she is bitter as gall,
+                                    sharp as a double-edged sword.
+                                5 Her feet go down to death;
+                                    her steps lead straight to the grave.
+                                6 She gives no thought to the way of life;
+                                    her paths wander aimlessly, but she does not know it.
 
-                          7 Now then, my sons, listen to me;
-                              do not turn aside from what I say.
-                          8 Keep to a path far from her,
-                              do not go near the door of her house,
-                          9 lest you lose your honor to others
-                              and your dignity[a] to one who is cruel,
-                          10 lest strangers feast on your wealth
-                              and your toil enrich the house of another.
-                          11 At the end of your life you will groan,
-                              when your flesh and body are spent.
-                          12 You will say, “How I hated discipline!
-                              How my heart spurned correction!
-                          13 I would not obey my teachers
-                              or turn my ear to my instructors.
-                          14 And I was soon in serious trouble
-                              in the assembly of God’s people.”
+                                7 Now then, my sons, listen to me;
+                                    do not turn aside from what I say.
+                                8 Keep to a path far from her,
+                                    do not go near the door of her house,
+                                9 lest you lose your honor to others
+                                    and your dignity[a] to one who is cruel,
+                                10 lest strangers feast on your wealth
+                                    and your toil enrich the house of another.
+                                11 At the end of your life you will groan,
+                                    when your flesh and body are spent.
+                                12 You will say, “How I hated discipline!
+                                    How my heart spurned correction!
+                                13 I would not obey my teachers
+                                    or turn my ear to my instructors.
+                                14 And I was soon in serious trouble
+                                    in the assembly of God’s people.”
 
-                          15 Drink water from your own cistern,
-                              running water from your own well.
-                          16 Should your springs overflow in the streets,
-                              your streams of water in the public squares?
-                          17 Let them be yours alone,
-                              never to be shared with strangers.
-                          18 May your fountain be blessed,
-                              and may you rejoice in the wife of your youth.
-                          19 A loving doe, a graceful deer—
-                              may her breasts satisfy you always,
-                              may you ever be intoxicated with her love.
-                          20 Why, my son, be intoxicated with another man’s wife?
-                              Why embrace the bosom of a wayward woman?
+                                15 Drink water from your own cistern,
+                                    running water from your own well.
+                                16 Should your springs overflow in the streets,
+                                    your streams of water in the public squares?
+                                17 Let them be yours alone,
+                                    never to be shared with strangers.
+                                18 May your fountain be blessed,
+                                    and may you rejoice in the wife of your youth.
+                                19 A loving doe, a graceful deer—
+                                    may her breasts satisfy you always,
+                                    may you ever be intoxicated with her love.
+                                20 Why, my son, be intoxicated with another man’s wife?
+                                    Why embrace the bosom of a wayward woman?
 
-                          21 For your ways are in full view of the Lord,
-                              and he examines all your paths.
-                          22 The evil deeds of the wicked ensnare them;
-                              the cords of their sins hold them fast.
-                          23 For lack of discipline they will die,
-                              led astray by their own great folly.
+                                21 For your ways are in full view of the Lord,
+                                    and he examines all your paths.
+                                22 The evil deeds of the wicked ensnare them;
+                                    the cords of their sins hold them fast.
+                                23 For lack of discipline they will die,
+                                    led astray by their own great folly.
+
+
       </p>
           </div>
 
@@ -521,6 +523,437 @@ export default function Home() {
                                     he will refuse a bribe, however great it is.
             </p>
           </div>
+                                    
+                 <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs VII &darr;</h2>
+            <p>
+                                  Warning Against the Adulterous Woman
+                                  7 My son, keep my words
+                                      and store up my commands within you.
+                                  2 Keep my commands and you will live;
+                                      guard my teachings as the apple of your eye.
+                                  3 Bind them on your fingers;
+                                      write them on the tablet of your heart.
+                                  4 Say to wisdom, “You are my sister,”
+                                      and to insight, “You are my relative.”
+                                  5 They will keep you from the adulterous woman,
+                                      from the wayward woman with her seductive words.
+
+                                  6 At the window of my house
+                                      I looked down through the lattice.
+                                  7 I saw among the simple,
+                                      I noticed among the young men,
+                                      a youth who had no sense.
+                                  8 He was going down the street near her corner,
+                                      walking along in the direction of her house
+                                  9 at twilight, as the day was fading,
+                                      as the dark of night set in.
+
+                                  10 Then out came a woman to meet him,
+                                      dressed like a prostitute and with crafty intent.
+                                  11 (She is unruly and defiant,
+                                      her feet never stay at home;
+                                  12 now in the street, now in the squares,
+                                      at every corner she lurks.)
+                                  13 She took hold of him and kissed him
+                                      and with a brazen face she said:
+
+                                  14 “Today I fulfilled my vows,
+                                      and I have food from my fellowship offering at home.
+                                  15 So I came out to meet you;
+                                      I looked for you and have found you!
+                                  16 I have covered my bed
+                                      with colored linens from Egypt.
+                                  17 I have perfumed my bed
+                                      with myrrh, aloes and cinnamon.
+                                  18 Come, let’s drink deeply of love till morning;
+                                      let’s enjoy ourselves with love!
+                                  19 My husband is not at home;
+                                      he has gone on a long journey.
+                                  20 He took his purse filled with money
+                                      and will not be home till full moon.”
+
+                                  21 With persuasive words she led him astray;
+                                      she seduced him with her smooth talk.
+                                  22 All at once he followed her
+                                      like an ox going to the slaughter,
+                                  like a deer[a] stepping into a noose[b]
+                                  23     till an arrow pierces his liver,
+                                  like a bird darting into a snare,
+                                      little knowing it will cost him his life.
+
+                                  24 Now then, my sons, listen to me;
+                                      pay attention to what I say.
+                                  25 Do not let your heart turn to her ways
+                                      or stray into her paths.
+                                  26 Many are the victims she has brought down;
+                                      her slain are a mighty throng.
+                                  27 Her house is a highway to the grave,
+                                      leading down to the chambers of death.
+            </p>
+          </div>                       
+                                    
+                     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs VIII &darr;</h2>
+            <p>
+                                          Wisdom’s Call
+                                          8 Does not wisdom call out?
+                                              Does not understanding raise her voice?
+                                          2 At the highest point along the way,
+                                              where the paths meet, she takes her stand;
+                                          3 beside the gate leading into the city,
+                                              at the entrance, she cries aloud:
+                                          4 “To you, O people, I call out;
+                                              I raise my voice to all mankind.
+                                          5 You who are simple, gain prudence;
+                                              you who are foolish, set your hearts on it.[a]
+                                          6 Listen, for I have trustworthy things to say;
+                                              I open my lips to speak what is right.
+                                          7 My mouth speaks what is true,
+                                              for my lips detest wickedness.
+                                          8 All the words of my mouth are just;
+                                              none of them is crooked or perverse.
+                                          9 To the discerning all of them are right;
+                                              they are upright to those who have found knowledge.
+                                          10 Choose my instruction instead of silver,
+                                              knowledge rather than choice gold,
+                                          11 for wisdom is more precious than rubies,
+                                              and nothing you desire can compare with her.
+
+                                          12 “I, wisdom, dwell together with prudence;
+                                              I possess knowledge and discretion.
+                                          13 To fear the Lord is to hate evil;
+                                              I hate pride and arrogance,
+                                              evil behavior and perverse speech.
+                                          14 Counsel and sound judgment are mine;
+                                              I have insight, I have power.
+                                          15 By me kings reign
+                                              and rulers issue decrees that are just;
+                                          16 by me princes govern,
+                                              and nobles—all who rule on earth.[b]
+                                          17 I love those who love me,
+                                              and those who seek me find me.
+                                          18 With me are riches and honor,
+                                              enduring wealth and prosperity.
+                                          19 My fruit is better than fine gold;
+                                              what I yield surpasses choice silver.
+                                          20 I walk in the way of righteousness,
+                                              along the paths of justice,
+                                          21 bestowing a rich inheritance on those who love me
+                                              and making their treasuries full.
+
+                                          22 “The Lord brought me forth as the first of his works,[c][d]
+                                              before his deeds of old;
+                                          23 I was formed long ages ago,
+                                              at the very beginning, when the world came to be.
+                                          24 When there were no watery depths, I was given birth,
+                                              when there were no springs overflowing with water;
+                                          25 before the mountains were settled in place,
+                                              before the hills, I was given birth,
+                                          26 before he made the world or its fields
+                                              or any of the dust of the earth.
+                                          27 I was there when he set the heavens in place,
+                                              when he marked out the horizon on the face of the deep,
+                                          28 when he established the clouds above
+                                              and fixed securely the fountains of the deep,
+                                          29 when he gave the sea its boundary
+                                              so the waters would not overstep his command,
+                                          and when he marked out the foundations of the earth.
+                                          30     Then I was constantly[e] at his side.
+                                          I was filled with delight day after day,
+                                              rejoicing always in his presence,
+                                          31 rejoicing in his whole world
+                                              and delighting in mankind.
+
+                                          32 “Now then, my children, listen to me;
+                                              blessed are those who keep my ways.
+                                          33 Listen to my instruction and be wise;
+                                              do not disregard it.
+                                          34 Blessed are those who listen to me,
+                                              watching daily at my doors,
+                                              waiting at my doorway.
+                                          35 For those who find me find life
+                                              and receive favor from the Lord.
+                                          36 But those who fail to find me harm themselves;
+                                              all who hate me love death.”
+            </p>
+          </div>                           
+                                    
+                   <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs IX &darr;</h2>
+            <p>
+                                                 Invitations of Wisdom and Folly
+                        9 Wisdom has built her house;
+                            she has set up[a] its seven pillars.
+                        2 She has prepared her meat and mixed her wine;
+                            she has also set her table.
+                        3 She has sent out her servants, and she calls
+                            from the highest point of the city,
+                        4     “Let all who are simple come to my house!”
+                        To those who have no sense she says,
+                        5     “Come, eat my food
+                            and drink the wine I have mixed.
+                        6 Leave your simple ways and you will live;
+                            walk in the way of insight.”
+
+                        7 Whoever corrects a mocker invites insults;
+                            whoever rebukes the wicked incurs abuse.
+                        8 Do not rebuke mockers or they will hate you;
+                            rebuke the wise and they will love you.
+                        9 Instruct the wise and they will be wiser still;
+                            teach the righteous and they will add to their learning.
+
+                        10 The fear of the Lord is the beginning of wisdom,
+                            and knowledge of the Holy One is understanding.
+                        11 For through wisdom[b] your days will be many,
+                            and years will be added to your life.
+                        12 If you are wise, your wisdom will reward you;
+                            if you are a mocker, you alone will suffer.
+
+                        13 Folly is an unruly woman;
+                            she is simple and knows nothing.
+                        14 She sits at the door of her house,
+                            on a seat at the highest point of the city,
+                        15 calling out to those who pass by,
+                            who go straight on their way,
+                        16     “Let all who are simple come to my house!”
+                        To those who have no sense she says,
+                        17     “Stolen water is sweet;
+                            food eaten in secret is delicious!”
+                        18 But little do they know that the dead are there,
+                            that her guests are deep in the realm of the dead. 
+            </p>
+          </div>                             
+                   
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs X &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XI &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XII &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XIII &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XIV &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XV &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XVI &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XVII &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XVII &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XVIII &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XIX &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XX &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXI &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXII &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXIII &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXIV &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXV &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXVI &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXVII &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXVIII &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>       
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXIX &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>  
+      <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXX &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>  
+            
+
+         <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXXI &darr;</h2>
+            <p>
+                          
+            </p>
+          </div>  
         </div>
 </div>
       </main>
