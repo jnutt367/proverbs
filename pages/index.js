@@ -33,32 +33,32 @@ export default function Home() {
           </div>  
 <p className={styles.parables}>"For understanding proverbs & parables, sayings & riddles of the wise. The fear of the Lord is the beginning of knowledge"</p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Gab04dPs_uA" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   <div className={styles.nav}>           
-      <a href="https://second-thessalonians.vercel.app/">
+      <a href="https://mypsalms.vercel.app/">
              <Image 
                                 src="/chevron-left.svg"
                                 alt="left"
-                                 height={25}
+                                 height={75}
                                 width={25}
                                 priority
                               />
        </a>
 
-         <a href="#PayPalButton">
+         <a href="https://the-word-of-god.vercel.app/#testimony">
             <Image 
                                 src="/chevron-down.svg"
                                 alt="down"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
         </a> 
-         <a href="https://second-timothy.vercel.app/">
+         <a href="https://jesusparables.vercel.app/">
            <Image 
                                 src="/chevron-right.svg"
                                 alt="right"
-                                 height={25}
-                                width={25}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
