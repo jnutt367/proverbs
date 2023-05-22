@@ -305,39 +305,125 @@ export default function Home() {
           >
              <h2 className={styles.chapter}> Proverbs IV &darr;</h2>
             <p>
-            4 The Spirit clearly says that in later times some will abandon the faith and follow deceiving spirits and things taught by demons. 2 Such teachings come through hypocritical liars, whose consciences have been seared as with a hot iron. 3 They forbid people to marry and order them to abstain from certain foods, which God created to be received with thanksgiving by those who believe and who know the truth. 4 For everything God created is good, and nothing is to be rejected if it is received with thanksgiving, 5 because it is consecrated by the word of God and prayer.
+                                               Get Wisdom at Any Cost
+                                    4 Listen, my sons, to a father’s instruction;
+                                        pay attention and gain understanding.
+                                    2 I give you sound learning,
+                                        so do not forsake my teaching.
+                                    3 For I too was a son to my father,
+                                        still tender, and cherished by my mother.
+                                    4 Then he taught me, and he said to me,
+                                        “Take hold of my words with all your heart;
+                                        keep my commands, and you will live.
+                                    5 Get wisdom, get understanding;
+                                        do not forget my words or turn away from them.
+                                    6 Do not forsake wisdom, and she will protect you;
+                                        love her, and she will watch over you.
+                                    7 The beginning of wisdom is this: Get[a] wisdom.
+                                        Though it cost all you have,[b] get understanding.
+                                    8 Cherish her, and she will exalt you;
+                                        embrace her, and she will honor you.
+                                    9 She will give you a garland to grace your head
+                                        and present you with a glorious crown.”
 
-6 If you point these things out to the brothers and sisters,[a] you will be a good minister of Christ Jesus, nourished on the truths of the faith and of the good teaching that you have followed. 7 Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly. 8 For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. 9 This is a trustworthy saying that deserves full acceptance. 10 That is why we labor and strive, because we have put our hope in the living God, who is the Savior of all people, and especially of those who believe.
+                                    10 Listen, my son, accept what I say,
+                                        and the years of your life will be many.
+                                    11 I instruct you in the way of wisdom
+                                        and lead you along straight paths.
+                                    12 When you walk, your steps will not be hampered;
+                                        when you run, you will not stumble.
+                                    13 Hold on to instruction, do not let it go;
+                                        guard it well, for it is your life.
+                                    14 Do not set foot on the path of the wicked
+                                        or walk in the way of evildoers.
+                                    15 Avoid it, do not travel on it;
+                                        turn from it and go on your way.
+                                    16 For they cannot rest until they do evil;
+                                        they are robbed of sleep till they make someone stumble.
+                                    17 They eat the bread of wickedness
+                                        and drink the wine of violence.
 
-11 Command and teach these things. 12 Don’t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity. 13 Until I come, devote yourself to the public reading of Scripture, to preaching and to teaching. 14 Do not neglect your gift, which was given you through prophecy when the body of elders laid their hands on you.
+                                    18 The path of the righteous is like the morning sun,
+                                        shining ever brighter till the full light of day.
+                                    19 But the way of the wicked is like deep darkness;
+                                        they do not know what makes them stumble.
 
-15 Be diligent in these matters; give yourself wholly to them, so that everyone may see your progress. 16 Watch your life and doctrine closely. Persevere in them, because if you do, you will save both yourself and your hearers.
-            </p>
+                                    20 My son, pay attention to what I say;
+                                        turn your ear to my words.
+                                    21 Do not let them out of your sight,
+                                        keep them within your heart;
+                                    22 for they are life to those who find them
+                                        and health to one’s whole body.
+                                    23 Above all else, guard your heart,
+                                        for everything you do flows from it.
+                                    24 Keep your mouth free of perversity;
+                                        keep corrupt talk far from your lips.
+                                    25 Let your eyes look straight ahead;
+                                        fix your gaze directly before you.
+                                    26 Give careful thought to the[c] paths for your feet
+                                        and be steadfast in all your ways.
+                                    27 Do not turn to the right or the left;
+                                        keep your foot from evil.   
+
+      </p>
           </div>
           <div
             className={styles.card}
           >
             <h2 className={styles.chapter}> Proverbs V &darr;</h2>
             <p>
-            Widows, Elders and Slaves
-5 Do not rebuke an older man harshly, but exhort him as if he were your father. Treat younger men as brothers, 2 older women as mothers, and younger women as sisters, with absolute purity.
+                                     Warning Against Adultery
+                           My son, pay attention to my wisdom,
+                              turn your ear to my words of insight,
+                          2 that you may maintain discretion
+                              and your lips may preserve knowledge.
+                          3 For the lips of the adulterous woman drip honey,
+                              and her speech is smoother than oil;
+                          4 but in the end she is bitter as gall,
+                              sharp as a double-edged sword.
+                          5 Her feet go down to death;
+                              her steps lead straight to the grave.
+                          6 She gives no thought to the way of life;
+                              her paths wander aimlessly, but she does not know it.
 
-3 Give proper recognition to those widows who are really in need. 4 But if a widow has children or grandchildren, these should learn first of all to put their religion into practice by caring for their own family and so repaying their parents and grandparents, for this is pleasing to God. 5 The widow who is really in need and left all alone puts her hope in God and continues night and day to pray and to ask God for help. 6 But the widow who lives for pleasure is dead even while she lives. 7 Give the people these instructions, so that no one may be open to blame. 8 Anyone who does not provide for their relatives, and especially for their own household, has denied the faith and is worse than an unbeliever.
+                          7 Now then, my sons, listen to me;
+                              do not turn aside from what I say.
+                          8 Keep to a path far from her,
+                              do not go near the door of her house,
+                          9 lest you lose your honor to others
+                              and your dignity[a] to one who is cruel,
+                          10 lest strangers feast on your wealth
+                              and your toil enrich the house of another.
+                          11 At the end of your life you will groan,
+                              when your flesh and body are spent.
+                          12 You will say, “How I hated discipline!
+                              How my heart spurned correction!
+                          13 I would not obey my teachers
+                              or turn my ear to my instructors.
+                          14 And I was soon in serious trouble
+                              in the assembly of God’s people.”
 
-9 No widow may be put on the list of widows unless she is over sixty, has been faithful to her husband, 10 and is well known for her good deeds, such as bringing up children, showing hospitality, washing the feet of the Lord’s people, helping those in trouble and devoting herself to all kinds of good deeds.
+                          15 Drink water from your own cistern,
+                              running water from your own well.
+                          16 Should your springs overflow in the streets,
+                              your streams of water in the public squares?
+                          17 Let them be yours alone,
+                              never to be shared with strangers.
+                          18 May your fountain be blessed,
+                              and may you rejoice in the wife of your youth.
+                          19 A loving doe, a graceful deer—
+                              may her breasts satisfy you always,
+                              may you ever be intoxicated with her love.
+                          20 Why, my son, be intoxicated with another man’s wife?
+                              Why embrace the bosom of a wayward woman?
 
-11 As for younger widows, do not put them on such a list. For when their sensual desires overcome their dedication to Christ, they want to marry. 12 Thus they bring judgment on themselves, because they have broken their first pledge. 13 Besides, they get into the habit of being idle and going about from house to house. And not only do they become idlers, but also busybodies who talk nonsense, saying things they ought not to. 14 So I counsel younger widows to marry, to have children, to manage their homes and to give the enemy no opportunity for slander. 15 Some have in fact already turned away to follow Satan.
-
-16 If any woman who is a believer has widows in her care, she should continue to help them and not let the church be burdened with them, so that the church can help those widows who are really in need.
-
-17 The elders who direct the affairs of the church well are worthy of double honor, especially those whose work is preaching and teaching. 18 For Scripture says, “Do not muzzle an ox while it is treading out the grain,”[a] and “The worker deserves his wages.”[b] 19 Do not entertain an accusation against an elder unless it is brought by two or three witnesses. 20 But those elders who are sinning you are to reprove before everyone, so that the others may take warning. 21 I charge you, in the sight of God and Christ Jesus and the elect angels, to keep these instructions without partiality, and to do nothing out of favoritism.
-
-22 Do not be hasty in the laying on of hands, and do not share in the sins of others. Keep yourself pure.
-
-23 Stop drinking only water, and use a little wine because of your stomach and your frequent illnesses.
-
-24 The sins of some are obvious, reaching the place of judgment ahead of them; the sins of others trail behind them. 25 In the same way, good deeds are obvious, and even those that are not obvious cannot remain hidden forever.
-            </p>
+                          21 For your ways are in full view of the Lord,
+                              and he examines all your paths.
+                          22 The evil deeds of the wicked ensnare them;
+                              the cords of their sins hold them fast.
+                          23 For lack of discipline they will die,
+                              led astray by their own great folly.
+      </p>
           </div>
 
           <div
@@ -345,23 +431,94 @@ export default function Home() {
           >
          <h2 className={styles.chapter}> Proverbs VI &darr;</h2>
             <p>
-            6 All who are under the yoke of slavery should consider their masters worthy of full respect, so that God’s name and our teaching may not be slandered. 2 Those who have believing masters should not show them disrespect just because they are fellow believers. Instead, they should serve them even better because their masters are dear to them as fellow believers and are devoted to the welfare[a] of their slaves.
+                                            Warnings Against Folly
+                                6 My son, if you have put up security for your neighbor,
+                                    if you have shaken hands in pledge for a stranger,
+                                2 you have been trapped by what you said,
+                                    ensnared by the words of your mouth.
+                                3 So do this, my son, to free yourself,
+                                    since you have fallen into your neighbor’s hands:
+                                Go—to the point of exhaustion—[a]
+                                    and give your neighbor no rest!
+                                4 Allow no sleep to your eyes,
+                                    no slumber to your eyelids.
+                                5 Free yourself, like a gazelle from the hand of the hunter,
+                                    like a bird from the snare of the fowler.
 
-False Teachers and the Love of Money
-These are the things you are to teach and insist on. 3 If anyone teaches otherwise and does not agree to the sound instruction of our Lord Jesus Christ and to godly teaching, 4 they are conceited and understand nothing. They have an unhealthy interest in controversies and quarrels about words that result in envy, strife, malicious talk, evil suspicions 5 and constant friction between people of corrupt mind, who have been robbed of the truth and who think that godliness is a means to financial gain.
+                                6 Go to the ant, you sluggard;
+                                    consider its ways and be wise!
+                                7 It has no commander,
+                                    no overseer or ruler,
+                                8 yet it stores its provisions in summer
+                                    and gathers its food at harvest.
 
-6 But godliness with contentment is great gain. 7 For we brought nothing into the world, and we can take nothing out of it. 8 But if we have food and clothing, we will be content with that. 9 Those who want to get rich fall into temptation and a trap and into many foolish and harmful desires that plunge people into ruin and destruction. 10 For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs.
+                                9 How long will you lie there, you sluggard?
+                                    When will you get up from your sleep?
+                                10 A little sleep, a little slumber,
+                                    a little folding of the hands to rest—
+                                11 and poverty will come on you like a thief
+                                    and scarcity like an armed man.
 
-Final Charge to Timothy
-11 But you, man of God, flee from all this, and pursue righteousness, godliness, faith, love, endurance and gentleness. 12 Fight the good fight of the faith. Take hold of the eternal life to which you were called when you made your good confession in the presence of many witnesses. 13 In the sight of God, who gives life to everything, and of Christ Jesus, who while testifying before Pontius Pilate made the good confession, I charge you 14 to keep this command without spot or blame until the appearing of our Lord Jesus Christ, 15 which God will bring about in his own time—God, the blessed and only Ruler, the King of kings and Lord of lords, 16 who alone is immortal and who lives in unapproachable light, whom no one has seen or can see. To him be honor and might forever. Amen.
+                                12 A troublemaker and a villain,
+                                    who goes about with a corrupt mouth,
+                                13     who winks maliciously with his eye,
+                                    signals with his feet
+                                    and motions with his fingers,
+                                14     who plots evil with deceit in his heart—
+                                    he always stirs up conflict.
+                                15 Therefore disaster will overtake him in an instant;
+                                    he will suddenly be destroyed—without remedy.
 
-17 Command those who are rich in this present world not to be arrogant nor to put their hope in wealth, which is so uncertain, but to put their hope in God, who richly provides us with everything for our enjoyment. 18 Command them to do good, to be rich in good deeds, and to be generous and willing to share. 19 In this way they will lay up treasure for themselves as a firm foundation for the coming age, so that they may take hold of the life that is truly life.
+                                16 There are six things the Lord hates,
+                                    seven that are detestable to him:
+                                17         haughty eyes,
+                                        a lying tongue,
+                                        hands that shed innocent blood,
+                                18         a heart that devises wicked schemes,
+                                        feet that are quick to rush into evil,
+                                19         a false witness who pours out lies
+                                        and a person who stirs up conflict in the community.
 
-20 Timothy, guard what has been entrusted to your care. Turn away from godless chatter and the opposing ideas of what is falsely called knowledge, 21 which some have professed and in so doing have departed from the faith.
+                                Warning Against Adultery
+                                20 My son, keep your father’s command
+                                    and do not forsake your mother’s teaching.
+                                21 Bind them always on your heart;
+                                    fasten them around your neck.
+                                22 When you walk, they will guide you;
+                                    when you sleep, they will watch over you;
+                                    when you awake, they will speak to you.
+                                23 For this command is a lamp,
+                                    this teaching is a light,
+                                and correction and instruction
+                                    are the way to life,
+                                24 keeping you from your neighbor’s wife,
+                                    from the smooth talk of a wayward woman.
 
-Grace be with you all.
+                                25 Do not lust in your heart after her beauty
+                                    or let her captivate you with her eyes.
 
+                                26 For a prostitute can be had for a loaf of bread,
+                                    but another man’s wife preys on your very life.
+                                27 Can a man scoop fire into his lap
+                                    without his clothes being burned?
+                                28 Can a man walk on hot coals
+                                    without his feet being scorched?
+                                29 So is he who sleeps with another man’s wife;
+                                    no one who touches her will go unpunished.
 
+                                30 People do not despise a thief if he steals
+                                    to satisfy his hunger when he is starving.
+                                31 Yet if he is caught, he must pay sevenfold,
+                                    though it costs him all the wealth of his house.
+                                32 But a man who commits adultery has no sense;
+                                    whoever does so destroys himself.
+                                33 Blows and disgrace are his lot,
+                                    and his shame will never be wiped away.
+
+                                34 For jealousy arouses a husband’s fury,
+                                    and he will show no mercy when he takes revenge.
+                                35 He will not accept any compensation;
+                                    he will refuse a bribe, however great it is.
             </p>
           </div>
         </div>
