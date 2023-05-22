@@ -249,8 +249,8 @@
 }
 
 .grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    flex-wrap: wrap;
     background-color: #ED7014;
     align-items: center;
     justify-content: center;
@@ -414,6 +414,10 @@
     .image {
         padding: 0;
         border: none;
+    }
+    .grid {
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
     }
     .holy {
          display: block;
