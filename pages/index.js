@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>PROVERBS</title>
+        <title>PROVERBS, The WORD of GOD Risen</title>
         <meta name="description" content="Proverbs" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -14,9 +14,9 @@ export default function Home() {
       <main className={styles.main}>
         
         <div className={styles.hero}>
-             <h2 className={styles.holy}>THE HOLY</h2>
+             <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
