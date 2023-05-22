@@ -250,7 +250,7 @@
 
 .grid {
     display: flex;
-    background-color: #89CFF0;
+    background-color: #ED7014;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
@@ -303,7 +303,7 @@
     font-family: monospace;
 }
 .chapter {
-    background-color: #ED7014;
+    background-color: #89CFF0;
     color: black;
     opacity: 1;
     position: sticky;
