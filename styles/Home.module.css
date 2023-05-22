@@ -250,10 +250,11 @@
 
 .grid {
     display: flex;
+    background-color: #89CFF0;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    max-width: 1400px;
+    max-width: 2000px;
 }
 
 .h2 {
