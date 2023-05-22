@@ -2843,7 +2843,7 @@ export default function Home() {
           >
          <h2 className={styles.chapter}> Proverbs Closing Statement</h2>
             <p>
-               So, I put on Proverbs in order to get motivated to code out tje rest pf poroverbs and WOULDNT YA KNOW IT... HE gave me the energy to do the rest of the build!!! Praise God now 
+               So, I put on Proverbs in order to get motivated to code out the rest of proverbs and WOULDNT YA KNOW IT... HE gave me the energy to do the whole build!!! Praise God now 
 I must get it styled correctly...ENJOY!           
             </p>
           </div>  
