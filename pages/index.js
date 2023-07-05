@@ -24,8 +24,8 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/proverbs.jpeg"
-                                alt="Jesus teaching"
+                                src="/proverbs.png"
+                                alt="Scrools and writing gear"
                                 height={900}
                                 width={2000}
                                 priority
