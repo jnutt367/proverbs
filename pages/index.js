@@ -2854,6 +2854,7 @@ I must get it styled correctly...ENJOY!
           </div>  
         </div>
 </div>
+  </div>
       </main>
 
       <footer className={styles.footer}>
