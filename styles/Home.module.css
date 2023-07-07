@@ -8,7 +8,7 @@
 
 .container {
   background-color:black;
-  opacity: 0.6;
+  opacity: 0.9;
   width: 100%;
   display: grid;
   align-items: center;
@@ -327,7 +327,7 @@
 }
 
 .card {
-    background-image: url(/risen_48.png);
+    background-image: url(/proverbs.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
