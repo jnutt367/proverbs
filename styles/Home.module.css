@@ -7,7 +7,7 @@
 */
 
 .container {
-  background-color: black;
+  background-color: blue;
   width: 100%;
   display: grid;
   align-items: center;
@@ -213,8 +213,8 @@
 .title {
   color: white;
   position: sticky; 
-  background-color: black;
-  opacity: 0.5;
+  background-color: skyblue;
+  opacity: 0.85;
   padding-top: 40px;
   z-index: 2;
   top: -30px;
@@ -272,6 +272,7 @@
 
 .nav {
     background-color: skyblue;
+    color: blue;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -294,7 +295,7 @@
 
 .grid {
     background-color: skyblue;
-    color: black;
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -325,7 +326,7 @@
 }
 
 .card {
-    background-image: url(/risen_24.png);
+    background-image: url(/risen_48.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
@@ -347,15 +348,14 @@
     border-radius: 15px 50px 30px;
     overflow: hidden;
     text-decoration: none;
-    border: 3px solid #eaeaea;
+    border: 3px solid transparent;
     transition: color 0.15s ease, border-color 0.7s ease;
     font-family: monospace;
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
     background-color: skyblue;
-    color: white;
-    opacity: 0.8;
+    color: black;
     opacity: 1;
     position: sticky;
     z-index: 1;
@@ -375,7 +375,7 @@
     color: black;
     opacity: 1;
     border: 6px solid white;
-    background-image: url(/paper.jpg);
+    background-image: url(/paper.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
@@ -405,11 +405,7 @@
 .card p:hover {
     font-weight: 900;
 }
-.chapter:hover,
-.chapter:active,
-.chapter:focus {
-       color: white;
-}
+
 .logo {
     height: 1em;
     margin-left: 0.5rem;
@@ -434,7 +430,9 @@
         width: 100%;
         flex-direction: column;
     }
-   
+   .card {
+       width: 100%;
+   }
 }
 
 @media (max-width: 769px) {
@@ -463,7 +461,7 @@
     }
    
         .grid {
-        grid-template-columns: 450px 450px 450px;
+        grid-template-columns: 200px 200px 200px 200px;
         
     }
     .iframe {
