@@ -2851,8 +2851,15 @@ export default function Home() {
          <h2 className={styles.chapter}> Proverbs Closing Statement</h2>
             <p>
                So, I put on Proverbs in order to get motivated to code out the rest of proverbs and WOULDNT YA KNOW IT... HE gave me the energy to do the whole build!!! Praise God now 
-I must get it styled correctly...ENJOY!           
+I must get it styled correctly...ENJOY!    
+
+  
             </p>
+
+  <p>
+  And now...It is finished! Enjoy the new styles everyone & let me know what you think!! I am always seeking feedback. Hallelujah! Praise be to the Lord! I Jason, write this letter with my own hand
+  and as an imitator of Paul, who was an imitator of Christ Jesus, May the grace of our Lord jesus Chrsit be with you all!
+  </p>
           </div>  
         </div>
     </div>
