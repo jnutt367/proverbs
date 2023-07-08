@@ -44,16 +44,15 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://the-word-of-god.vercel.app/#testimony">
-            <Image 
-                                src="/chevron-down.svg"
-                                alt="down"
-                                 height={75}
+       <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+              <Image className={styles.arrow}
+                                src="/youtube-logo-png-hd-21.png"
+                                alt="youtube-icon"
+                                height={75}
                                 width={75}
                                 priority
-                              />
-           
-        </a> 
+                              /> 
+       </a>
          <a href="https://jesusparables.vercel.app/">
            <Image 
                                 src="/chevron-right.svg"
@@ -2853,22 +2852,10 @@ I must get it styled correctly...ENJOY!
             </p>
           </div>  
         </div>
-</div>
+
   </div>
       </main>
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
     </div>
   )
 }
