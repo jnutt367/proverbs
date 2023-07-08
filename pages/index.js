@@ -49,10 +49,10 @@ export default function Home() {
 
        <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
               <Image 
-                                src="/me_enter_through_the_narrow_gate.webp"
+                                src="/me_dumbfounded.webp"
                                 alt="me_saying_hi.webp"
                                 height={75}
-                                width={75}
+                                width={125}
                                 priority
                               /> 
        </a>
