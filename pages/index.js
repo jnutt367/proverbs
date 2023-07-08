@@ -48,7 +48,7 @@ export default function Home() {
        </a>
 
        <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
-              <Image className={styles.arrow}
+              <Image 
                                 src="/me_saying_hi.webp"
                                 alt="me_saying_hi.webp"
                                 height={75}
