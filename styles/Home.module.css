@@ -7,8 +7,7 @@
 */
 
 .container {
-  background-color:black;
-  opacity: 0.9;
+  background-color: black;
   width: 100%;
   display: grid;
   align-items: center;
@@ -214,8 +213,8 @@
 .title {
   color: white;
   position: sticky; 
-  background-color: skyblue;
-  opacity: 0.85;
+  background-color: black;
+  opacity: 0.5;
   padding-top: 40px;
   z-index: 2;
   top: -30px;
@@ -272,8 +271,7 @@
 }
 
 .nav {
-    background-color: skyblue;
-    color: blue;
+    background-color: #ADD8E6;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -295,7 +293,7 @@
 }
 
 .grid {
-    background-color: skyblue;
+    background-color: #ADD8E6;
     color: black;
     display: flex;
     align-items: center;
@@ -327,7 +325,7 @@
 }
 
 .card {
-    background-image: url(/proverbs.png);
+    background-image: url(/risen_24.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
@@ -349,14 +347,15 @@
     border-radius: 15px 50px 30px;
     overflow: hidden;
     text-decoration: none;
-    border: 3px solid transparent;
+    border: 3px solid #eaeaea;
     transition: color 0.15s ease, border-color 0.7s ease;
     font-family: monospace;
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color: skyblue;
-    color: black;
+    background-color: black;
+    color: white;
+    opacity: 0.8;
     opacity: 1;
     position: sticky;
     z-index: 1;
@@ -376,7 +375,7 @@
     color: black;
     opacity: 1;
     border: 6px solid white;
-    background-image: url(/paper.jpeg);
+    background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
@@ -406,7 +405,11 @@
 .card p:hover {
     font-weight: 900;
 }
-
+.chapter:hover,
+.chapter:active,
+.chapter:focus {
+       color: white;
+}
 .logo {
     height: 1em;
     margin-left: 0.5rem;
@@ -431,9 +434,7 @@
         width: 100%;
         flex-direction: column;
     }
-   .card {
-       width: 100%;
-   }
+   
 }
 
 @media (max-width: 769px) {
@@ -461,7 +462,7 @@
         margin-right: 100px;      
     }
    
-.grid {
+        .grid {
         grid-template-columns: 200px 200px 200px;
         
     }
