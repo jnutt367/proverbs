@@ -2858,7 +2858,7 @@ I must get it styled correctly...ENJOY!
 
   <p>
   And now...It is finished! Enjoy the new styles everyone & let me know what you think!! I am always seeking feedback. Hallelujah! Praise be to the Lord! I Jason, write this letter with my own hand
-  and as an imitator of Paul, who was an imitator of Christ Jesus, May the grace of our Lord jesus Chrsit be with you all!
+  and as an imitator of Paul, who was an imitator of Christ Jesus, May the grace of our Lord Jesus Christ be with you all!
   </p>
           </div>  
         </div>
