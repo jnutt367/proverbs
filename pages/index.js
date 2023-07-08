@@ -37,31 +37,31 @@ export default function Home() {
                                   </p>
              
                                   <div className={styles.nav}>
-                                  <a href="https://mypsalms.vercel.app/">
+                                  <a href="https://jesusparables.vercel.app/">
              <Image 
-                                src="/chevron-left.svg"
+                                src="/previous.webp"
                                 alt="left"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
 
        <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
               <Image 
-                                src="/me_wise_thinking.webp"
+                                src="/upward_pointing.webp"
                                 alt="me thinking"
                                 height={75}
-                                width={125}
+                                width={90}
                                 priority
                               /> 
        </a>
          <a href="https://jesusparables.vercel.app/">
            <Image 
-                                src="/chevron-right.svg"
+                                src="/next.webp"
                                 alt="right"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
            
