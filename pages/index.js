@@ -71,7 +71,7 @@ export default function Home() {
 
       <div className={styles.iframe}>                     
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Gab04dPs_uA" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-                                
+                                  </div>             
         <div className={styles.grid}>
           <div href="https://nextjs.org/docs" className={styles.card}>
             <h2 className={styles.chapter}> Proverbs I &darr;</h2>
