@@ -296,7 +296,7 @@
 
 .grid {
     background-color: skyblue;
-    color: white;
+    color: black;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -461,8 +461,8 @@
         margin-right: 100px;      
     }
    
-        .grid {
-        grid-template-columns: 200px 200px 200px 200px;
+.grid {
+        grid-template-columns: 200px 200px 200px;
         
     }
     .iframe {
