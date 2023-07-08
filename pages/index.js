@@ -47,7 +47,7 @@ export default function Home() {
                               />
        </a>
 
-       <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+       <a href="https://the-word-of-god.vercel.app/">
               <Image 
                                 src="/upward_pointing.webp"
                                 alt="me thinking"
