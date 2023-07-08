@@ -56,7 +56,7 @@ export default function Home() {
                                 priority
                               /> 
        </a>
-         <a href="https://jesusparables.vercel.app/">
+         <a href="https://matthew-coral.vercel.app/">
            <Image 
                                 src="/next.webp"
                                 alt="right"
