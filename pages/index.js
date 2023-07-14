@@ -2866,11 +2866,11 @@ I must get it styled correctly...ENJOY!
 
     
       <h1 className={styles.title}>
-       PROVERBS
+       ECCLESIASTES
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/proverbs.png"
+                                src="/ecclesiastes.png"
                                 alt="Scrools and writing gear"
                                 height={900}
                                 width={2000}
@@ -2879,7 +2879,7 @@ I must get it styled correctly...ENJOY!
           </div>
                            
                                 <p className={styles.parables}>
-          "For understanding proverbs & parables, sayings & riddles of the wise. The fear of the Lord is the beginning of knowledge"
+          "Without God", the teacheer says, "everything is meaningless ("Hevel")"
                                   </p>
              
                                   <div className={styles.nav}>
@@ -2923,197 +2923,103 @@ I must get it styled correctly...ENJOY!
                                    <div
             className={styles.card}
           >
-         <h2 className={styles.chapter}> Proverbs XXIX &darr;</h2>
+         <h2 className={styles.chapter}> Ecclesiastes Chapter I</h2>
             <p>
-                                                          Whoever remains stiff-necked after many rebukes
-                                                              will suddenly be destroyed—without remedy.
+                                                     Everything Is Meaningless
+1 The words of the Teacher,[a] son of David, king in Jerusalem:
 
-                                                          2 When the righteous thrive, the people rejoice;
-                                                              when the wicked rule, the people groan.
+2 “Meaningless! Meaningless!”
+    says the Teacher.
+“Utterly meaningless!
+    Everything is meaningless.”
 
-                                                          3 A man who loves wisdom brings joy to his father,
-                                                              but a companion of prostitutes squanders his wealth.
+3 What do people gain from all their labors
+    at which they toil under the sun?
+4 Generations come and generations go,
+    but the earth remains forever.
+5 The sun rises and the sun sets,
+    and hurries back to where it rises.
+6 The wind blows to the south
+    and turns to the north;
+round and round it goes,
+    ever returning on its course.
+7 All streams flow into the sea,
+    yet the sea is never full.
+To the place the streams come from,
+    there they return again.
+8 All things are wearisome,
+    more than one can say.
+The eye never has enough of seeing,
+    nor the ear its fill of hearing.
+9 What has been will be again,
+    what has been done will be done again;
+    there is nothing new under the sun.
+10 Is there anything of which one can say,
+    “Look! This is something new”?
+It was here already, long ago;
+    it was here before our time.
+11 No one remembers the former generations,
+    and even those yet to come
+will not be remembered
+    by those who follow them.
 
-                                                          4 By justice a king gives a country stability,
-                                                              but those who are greedy for[a] bribes tear it down.
+Wisdom Is Meaningless
+12 I, the Teacher, was king over Israel in Jerusalem. 13 I applied my mind to study and to explore by wisdom all that is done under the heavens. What a heavy burden God has laid on mankind! 14 I have seen all the things that are done under the sun; all of them are meaningless, a chasing after the wind.
 
-                                                          5 Those who flatter their neighbors
-                                                              are spreading nets for their feet.
+15 What is crooked cannot be straightened;
+    what is lacking cannot be counted.
 
-                                                          6 Evildoers are snared by their own sin,
-                                                              but the righteous shout for joy and are glad.
+16 I said to myself, “Look, I have increased in wisdom more than anyone who has ruled over Jerusalem before me; I have experienced much of wisdom and knowledge.” 17 Then I applied myself to the understanding of wisdom, and also of madness and folly, but I learned that this, too, is a chasing after the wind.
 
-                                                          7 The righteous care about justice for the poor,
-                                                              but the wicked have no such concern.
-
-                                                          8 Mockers stir up a city,
-                                                              but the wise turn away anger.
-
-                                                          9 If a wise person goes to court with a fool,
-                                                              the fool rages and scoffs, and there is no peace.
-
-                                                          10 The bloodthirsty hate a person of integrity
-                                                              and seek to kill the upright.
-
-                                                          11 Fools give full vent to their rage,
-                                                              but the wise bring calm in the end.
-
-                                                          12 If a ruler listens to lies,
-                                                              all his officials become wicked.
-
-                                                          13 The poor and the oppressor have this in common:
-                                                              The Lord gives sight to the eyes of both.
-
-                                                          14 If a king judges the poor with fairness,
-                                                              his throne will be established forever.
-
-                                                          15 A rod and a reprimand impart wisdom,
-                                                              but a child left undisciplined disgraces its mother.
-
-                                                          16 When the wicked thrive, so does sin,
-                                                              but the righteous will see their downfall.
-
-                                                          17 Discipline your children, and they will give you peace;
-                                                              they will bring you the delights you desire.
-
-                                                          18 Where there is no revelation, people cast off restraint;
-                                                              but blessed is the one who heeds wisdom’s instruction.
-
-                                                          19 Servants cannot be corrected by mere words;
-                                                              though they understand, they will not respond.
-
-                                                          20 Do you see someone who speaks in haste?
-                                                              There is more hope for a fool than for them.
-
-                                                          21 A servant pampered from youth
-                                                              will turn out to be insolent.
-
-                                                          22 An angry person stirs up conflict,
-                                                              and a hot-tempered person commits many sins.
-
-                                                          23 Pride brings a person low,
-                                                              but the lowly in spirit gain honor.
-
-                                                          24 The accomplices of thieves are their own enemies;
-                                                              they are put under oath and dare not testify.
-
-                                                          25 Fear of man will prove to be a snare,
-                                                              but whoever trusts in the Lord is kept safe.
-
-                                                          26 Many seek an audience with a ruler,
-                                                              but it is from the Lord that one gets justice.
-
-                                                          27 The righteous detest the dishonest;
-                                                              the wicked detest the upright.
+18 For with much wisdom comes much sorrow;
+    the more knowledge, the more grief.
             </p>
           </div>       
      <div
             className={styles.card}
           >
-         <h2 className={styles.chapter}> Proverbs XXX &darr;</h2>
+         <h2 className={styles.chapter}>  Ecclesiastes Chapter II</h2>
             <p>
-                                        The sayings of Agur son of Jakeh—an inspired utterance.
+                                      Pleasures Are Meaningless
+2 I said to myself, “Come now, I will test you with pleasure to find out what is good.” But that also proved to be meaningless. 2 “Laughter,” I said, “is madness. And what does pleasure accomplish?” 3 I tried cheering myself with wine, and embracing folly—my mind still guiding me with wisdom. I wanted to see what was good for people to do under the heavens during the few days of their lives.
 
-                                        This man’s utterance to Ithiel:
+4 I undertook great projects: I built houses for myself and planted vineyards. 5 I made gardens and parks and planted all kinds of fruit trees in them. 6 I made reservoirs to water groves of flourishing trees. 7 I bought male and female slaves and had other slaves who were born in my house. I also owned more herds and flocks than anyone in Jerusalem before me. 8 I amassed silver and gold for myself, and the treasure of kings and provinces. I acquired male and female singers, and a harem[a] as well—the delights of a man’s heart. 9 I became greater by far than anyone in Jerusalem before me. In all this my wisdom stayed with me.
 
-                                        “I am weary, God,
-                                            but I can prevail.[a]
-                                        2 Surely I am only a brute, not a man;
-                                            I do not have human understanding.
-                                        3 I have not learned wisdom,
-                                            nor have I attained to the knowledge of the Holy One.
-                                        4 Who has gone up to heaven and come down?
-                                            Whose hands have gathered up the wind?
-                                        Who has wrapped up the waters in a cloak?
-                                            Who has established all the ends of the earth?
-                                        What is his name, and what is the name of his son?
-                                            Surely you know!
+10 I denied myself nothing my eyes desired;
+    I refused my heart no pleasure.
+My heart took delight in all my labor,
+    and this was the reward for all my toil.
+11 Yet when I surveyed all that my hands had done
+    and what I had toiled to achieve,
+everything was meaningless, a chasing after the wind;
+    nothing was gained under the sun.
 
-                                        5 “Every word of God is flawless;
-                                            he is a shield to those who take refuge in him.
-                                        6 Do not add to his words,
-                                            or he will rebuke you and prove you a liar.
+Wisdom and Folly Are Meaningless
+12 Then I turned my thoughts to consider wisdom,
+    and also madness and folly.
+What more can the king’s successor do
+    than what has already been done?
+13 I saw that wisdom is better than folly,
+    just as light is better than darkness.
+14 The wise have eyes in their heads,
+    while the fool walks in the darkness;
+but I came to realize
+    that the same fate overtakes them both.
 
-                                        7 “Two things I ask of you, Lord;
-                                            do not refuse me before I die:
-                                        8 Keep falsehood and lies far from me;
-                                            give me neither poverty nor riches,
-                                            but give me only my daily bread.
-                                        9 Otherwise, I may have too much and disown you
-                                            and say, ‘Who is the Lord?’
-                                        Or I may become poor and steal,
-                                            and so dishonor the name of my God.
+15 Then I said to myself,
 
-                                        10 “Do not slander a servant to their master,
-                                            or they will curse you, and you will pay for it.
+“The fate of the fool will overtake me also.
+    What then do I gain by being wise?”
+I said to myself,
+    “This too is meaningless.”
+16 For the wise, like the fool, will not be long remembered;
+    the days have already come when both have been forgotten.
+Like the fool, the wise too must die!
 
-                                        11 “There are those who curse their fathers
-                                            and do not bless their mothers;
-                                        12 those who are pure in their own eyes
-                                            and yet are not cleansed of their filth;
-                                        13 those whose eyes are ever so haughty,
-                                            whose glances are so disdainful;
-                                        14 those whose teeth are swords
-                                            and whose jaws are set with knives
-                                        to devour the poor from the earth
-                                            and the needy from among mankind.
+Toil Is Meaningless
+17 So I hated life, because the work that is done under the sun was grievous to me. All of it is meaningless, a chasing after the wind. 18 I hated all the things I had toiled for under the sun, because I must leave them to the one who comes after me. 19 And who knows whether that person will be wise or foolish? Yet they will have control over all the fruit of my toil into which I have poured my effort and skill under the sun. This too is meaningless. 20 So my heart began to despair over all my toilsome labor under the sun. 21 For a person may labor with wisdom, knowledge and skill, and then they must leave all they own to another who has not toiled for it. This too is meaningless and a great misfortune. 22 What do people get for all the toil and anxious striving with which they labor under the sun? 23 All their days their work is grief and pain; even at night their minds do not rest. This too is meaningless.
 
-                                        15 “The leech has two daughters.
-                                            ‘Give! Give!’ they cry.
-
-                                        “There are three things that are never satisfied,
-                                            four that never say, ‘Enough!’:
-                                        16 the grave, the barren womb,
-                                            land, which is never satisfied with water,
-                                            and fire, which never says, ‘Enough!’
-
-                                        17 “The eye that mocks a father,
-                                            that scorns an aged mother,
-                                        will be pecked out by the ravens of the valley,
-                                            will be eaten by the vultures.
-
-                                        18 “There are three things that are too amazing for me,
-                                            four that I do not understand:
-                                        19 the way of an eagle in the sky,
-                                            the way of a snake on a rock,
-                                        the way of a ship on the high seas,
-                                            and the way of a man with a young woman.
-
-                                        20 “This is the way of an adulterous woman:
-                                            She eats and wipes her mouth
-                                            and says, ‘I’ve done nothing wrong.’
-
-                                        21 “Under three things the earth trembles,
-                                            under four it cannot bear up:
-                                        22 a servant who becomes king,
-                                            a godless fool who gets plenty to eat,
-                                        23 a contemptible woman who gets married,
-                                            and a servant who displaces her mistress.
-
-                                        24 “Four things on earth are small,
-                                            yet they are extremely wise:
-                                        25 Ants are creatures of little strength,
-                                            yet they store up their food in the summer;
-                                        26 hyraxes are creatures of little power,
-                                            yet they make their home in the crags;
-                                        27 locusts have no king,
-                                            yet they advance together in ranks;
-                                        28 a lizard can be caught with the hand,
-                                            yet it is found in kings’ palaces.
-
-                                        29 “There are three things that are stately in their stride,
-                                            four that move with stately bearing:
-                                        30 a lion, mighty among beasts,
-                                            who retreats before nothing;
-                                        31 a strutting rooster, a he-goat,
-                                            and a king secure against revolt.[b]
-
-                                        32 “If you play the fool and exalt yourself,
-                                            or if you plan evil,
-                                            clap your hand over your mouth!
-                                        33 For as churning cream produces butter,
-                                            and as twisting the nose produces blood,
-                                            so stirring up anger produces strife.”
+24 A person can do nothing better than to eat and drink and find satisfaction in their own toil. This too, I see, is from the hand of God, 25 for without him, who can eat or find enjoyment? 26 To the person who pleases him, God gives wisdom, knowledge and happiness, but to the sinner he gives the task of gathering and storing up wealth to hand it over to the one who pleases God. This too is meaningless, a chasing after the wind.
             </p>
           </div>  
                                           
