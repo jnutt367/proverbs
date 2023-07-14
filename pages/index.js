@@ -2867,6 +2867,11 @@ I must get it styled correctly...ENJOY!
     
         </div>
 
+                              
+                                  </div>
+
+
+
     <div>
       <h1 id="meaningless" className={styles.ecclesiastes}>
        ECCLESIASTES
@@ -3027,8 +3032,13 @@ Toil Is Meaningless
           </div>  
                                           
                                           </div>
-</div>                                  
-                                  </div>
+</div>    
+
+
+
+
+
+    
  
       </main>
 
