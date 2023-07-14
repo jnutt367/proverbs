@@ -2868,7 +2868,7 @@ I must get it styled correctly...ENJOY!
         </div>
 
     
-      <h1 className={styles.ecclesiastes}>
+      <h1 id="meaningless" className={styles.ecclesiastes}>
        ECCLESIASTES
         </h1>
          <div  className={styles.image}>
@@ -2881,7 +2881,7 @@ I must get it styled correctly...ENJOY!
                               />
           </div>
                            
-                                <p id="meaningless" className={styles.parables}>
+                                <p className={styles.parables}>
           "Without God", the teacher says, "everything is meaningless ("Hevel")"
                                   </p>
              
