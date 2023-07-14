@@ -2865,7 +2865,7 @@ I must get it styled correctly...ENJOY!
         </div>
 
     
-      <h1 className={styles.title}>
+      <h1 style="opacity:1;" className={styles.title}>
        ECCLESIASTES
         </h1>
          <div  className={styles.image}>
