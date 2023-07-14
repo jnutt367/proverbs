@@ -2861,8 +2861,266 @@ I must get it styled correctly...ENJOY!
   and as an imitator of Paul, who was an imitator of Christ Jesus, May the grace of our Lord Jesus Christ be with you all!
   </p>
           </div>  
+    
         </div>
-    </div>
+
+    
+      <h1 className={styles.title}>
+       PROVERBS
+        </h1>
+         <div  className={styles.image}>
+       <Image 
+                                src="/proverbs.png"
+                                alt="Scrools and writing gear"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+          </div>
+                           
+                                <p className={styles.parables}>
+          "For understanding proverbs & parables, sayings & riddles of the wise. The fear of the Lord is the beginning of knowledge"
+                                  </p>
+             
+                                  <div className={styles.nav}>
+                                  <a href="https://jesusparables.vercel.app/">
+             <Image 
+                                src="/previous.webp"
+                                alt="left"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+       <a href="https://the-word-of-god.vercel.app/">
+              <Image 
+                                src="/upward_pointing.webp"
+                                alt="me thinking"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+         <a href="https://matthew-coral.vercel.app/">
+           <Image 
+                                src="/next.webp"
+                                alt="right"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+
+      <div className={styles.iframe}>                     
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/Gab04dPs_uA?autoplay=1&mute=1" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+                                  </div>             
+        <div className={styles.grid}>
+
+                                   <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXIX &darr;</h2>
+            <p>
+                                                          Whoever remains stiff-necked after many rebukes
+                                                              will suddenly be destroyed—without remedy.
+
+                                                          2 When the righteous thrive, the people rejoice;
+                                                              when the wicked rule, the people groan.
+
+                                                          3 A man who loves wisdom brings joy to his father,
+                                                              but a companion of prostitutes squanders his wealth.
+
+                                                          4 By justice a king gives a country stability,
+                                                              but those who are greedy for[a] bribes tear it down.
+
+                                                          5 Those who flatter their neighbors
+                                                              are spreading nets for their feet.
+
+                                                          6 Evildoers are snared by their own sin,
+                                                              but the righteous shout for joy and are glad.
+
+                                                          7 The righteous care about justice for the poor,
+                                                              but the wicked have no such concern.
+
+                                                          8 Mockers stir up a city,
+                                                              but the wise turn away anger.
+
+                                                          9 If a wise person goes to court with a fool,
+                                                              the fool rages and scoffs, and there is no peace.
+
+                                                          10 The bloodthirsty hate a person of integrity
+                                                              and seek to kill the upright.
+
+                                                          11 Fools give full vent to their rage,
+                                                              but the wise bring calm in the end.
+
+                                                          12 If a ruler listens to lies,
+                                                              all his officials become wicked.
+
+                                                          13 The poor and the oppressor have this in common:
+                                                              The Lord gives sight to the eyes of both.
+
+                                                          14 If a king judges the poor with fairness,
+                                                              his throne will be established forever.
+
+                                                          15 A rod and a reprimand impart wisdom,
+                                                              but a child left undisciplined disgraces its mother.
+
+                                                          16 When the wicked thrive, so does sin,
+                                                              but the righteous will see their downfall.
+
+                                                          17 Discipline your children, and they will give you peace;
+                                                              they will bring you the delights you desire.
+
+                                                          18 Where there is no revelation, people cast off restraint;
+                                                              but blessed is the one who heeds wisdom’s instruction.
+
+                                                          19 Servants cannot be corrected by mere words;
+                                                              though they understand, they will not respond.
+
+                                                          20 Do you see someone who speaks in haste?
+                                                              There is more hope for a fool than for them.
+
+                                                          21 A servant pampered from youth
+                                                              will turn out to be insolent.
+
+                                                          22 An angry person stirs up conflict,
+                                                              and a hot-tempered person commits many sins.
+
+                                                          23 Pride brings a person low,
+                                                              but the lowly in spirit gain honor.
+
+                                                          24 The accomplices of thieves are their own enemies;
+                                                              they are put under oath and dare not testify.
+
+                                                          25 Fear of man will prove to be a snare,
+                                                              but whoever trusts in the Lord is kept safe.
+
+                                                          26 Many seek an audience with a ruler,
+                                                              but it is from the Lord that one gets justice.
+
+                                                          27 The righteous detest the dishonest;
+                                                              the wicked detest the upright.
+            </p>
+          </div>       
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXX &darr;</h2>
+            <p>
+                                        The sayings of Agur son of Jakeh—an inspired utterance.
+
+                                        This man’s utterance to Ithiel:
+
+                                        “I am weary, God,
+                                            but I can prevail.[a]
+                                        2 Surely I am only a brute, not a man;
+                                            I do not have human understanding.
+                                        3 I have not learned wisdom,
+                                            nor have I attained to the knowledge of the Holy One.
+                                        4 Who has gone up to heaven and come down?
+                                            Whose hands have gathered up the wind?
+                                        Who has wrapped up the waters in a cloak?
+                                            Who has established all the ends of the earth?
+                                        What is his name, and what is the name of his son?
+                                            Surely you know!
+
+                                        5 “Every word of God is flawless;
+                                            he is a shield to those who take refuge in him.
+                                        6 Do not add to his words,
+                                            or he will rebuke you and prove you a liar.
+
+                                        7 “Two things I ask of you, Lord;
+                                            do not refuse me before I die:
+                                        8 Keep falsehood and lies far from me;
+                                            give me neither poverty nor riches,
+                                            but give me only my daily bread.
+                                        9 Otherwise, I may have too much and disown you
+                                            and say, ‘Who is the Lord?’
+                                        Or I may become poor and steal,
+                                            and so dishonor the name of my God.
+
+                                        10 “Do not slander a servant to their master,
+                                            or they will curse you, and you will pay for it.
+
+                                        11 “There are those who curse their fathers
+                                            and do not bless their mothers;
+                                        12 those who are pure in their own eyes
+                                            and yet are not cleansed of their filth;
+                                        13 those whose eyes are ever so haughty,
+                                            whose glances are so disdainful;
+                                        14 those whose teeth are swords
+                                            and whose jaws are set with knives
+                                        to devour the poor from the earth
+                                            and the needy from among mankind.
+
+                                        15 “The leech has two daughters.
+                                            ‘Give! Give!’ they cry.
+
+                                        “There are three things that are never satisfied,
+                                            four that never say, ‘Enough!’:
+                                        16 the grave, the barren womb,
+                                            land, which is never satisfied with water,
+                                            and fire, which never says, ‘Enough!’
+
+                                        17 “The eye that mocks a father,
+                                            that scorns an aged mother,
+                                        will be pecked out by the ravens of the valley,
+                                            will be eaten by the vultures.
+
+                                        18 “There are three things that are too amazing for me,
+                                            four that I do not understand:
+                                        19 the way of an eagle in the sky,
+                                            the way of a snake on a rock,
+                                        the way of a ship on the high seas,
+                                            and the way of a man with a young woman.
+
+                                        20 “This is the way of an adulterous woman:
+                                            She eats and wipes her mouth
+                                            and says, ‘I’ve done nothing wrong.’
+
+                                        21 “Under three things the earth trembles,
+                                            under four it cannot bear up:
+                                        22 a servant who becomes king,
+                                            a godless fool who gets plenty to eat,
+                                        23 a contemptible woman who gets married,
+                                            and a servant who displaces her mistress.
+
+                                        24 “Four things on earth are small,
+                                            yet they are extremely wise:
+                                        25 Ants are creatures of little strength,
+                                            yet they store up their food in the summer;
+                                        26 hyraxes are creatures of little power,
+                                            yet they make their home in the crags;
+                                        27 locusts have no king,
+                                            yet they advance together in ranks;
+                                        28 a lizard can be caught with the hand,
+                                            yet it is found in kings’ palaces.
+
+                                        29 “There are three things that are stately in their stride,
+                                            four that move with stately bearing:
+                                        30 a lion, mighty among beasts,
+                                            who retreats before nothing;
+                                        31 a strutting rooster, a he-goat,
+                                            and a king secure against revolt.[b]
+
+                                        32 “If you play the fool and exalt yourself,
+                                            or if you plan evil,
+                                            clap your hand over your mouth!
+                                        33 For as churning cream produces butter,
+                                            and as twisting the nose produces blood,
+                                            so stirring up anger produces strife.”
+            </p>
+          </div>  
+                                          
+                                          </div>
+
+                                  
+                                  </div>
  
       </main>
 
