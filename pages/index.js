@@ -2860,6 +2860,9 @@ I must get it styled correctly...ENJOY!
   And now...It is finished! Enjoy the new styles everyone & let me know what you think!! I am always seeking feedback. Hallelujah! Praise be to the Lord! I Jason, write this letter with my own hand
   and as an imitator of Paul, who was an imitator of Christ Jesus, May the grace of our Lord Jesus Christ be with you all!
   </p>
+    <p>
+    Keep scrolling down for the continuation of God's wisdom literature...Here is Ecclesiastes, the wise old teacher
+    </p>
           </div>  
     
         </div>
@@ -2879,7 +2882,7 @@ I must get it styled correctly...ENJOY!
           </div>
                            
                                 <p className={styles.parables}>
-          "Without God", the teacheer says, "everything is meaningless ("Hevel")"
+          "Without God", the teacher says, "everything is meaningless ("Hevel")"
                                   </p>
              
                                   <div className={styles.nav}>
@@ -2916,7 +2919,7 @@ I must get it styled correctly...ENJOY!
                </div>
 
       <div className={styles.iframe}>                     
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/Gab04dPs_uA?autoplay=1&mute=1" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+                <iframe width="100%" height="400" src="https://www.youtube.com/embed/VeUiuSK81-0?autplay=1&mute=1" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>             
         <div className={styles.grid}>
 
