@@ -374,7 +374,6 @@
 .chapter {
     background-color: black;
     color: white;
-    opacity: 0.8;
     opacity: 1;
     position: sticky;
     z-index: 1;
@@ -391,7 +390,7 @@
 .card:focus,
 .card:active {
     display: inline;
-    color: white;
+    color: black;
     opacity: 1;
     border: 6px solid white;
     background-image: url(/paper.jpeg);
@@ -410,7 +409,7 @@
 }
 
 .card h2:hover {
-    color: black;
+    color: silver;
 }
 
 .card p {
