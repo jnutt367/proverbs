@@ -391,7 +391,7 @@
 .card:focus,
 .card:active {
     display: inline;
-    color: black;
+    color: white;
     opacity: 1;
     border: 6px solid white;
     background-image: url(/paper.jpeg);
@@ -427,7 +427,7 @@
 .chapter:hover,
 .chapter:active,
 .chapter:focus {
-       color: white;
+       color: grey;
 }
 .logo {
     height: 1em;
