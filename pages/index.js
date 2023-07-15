@@ -2887,7 +2887,7 @@ I must get it styled correctly...ENJOY!
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/proverbs.png"
+                                src="/ecclesiastes.png"
                                 alt="Scrools and writing gear"
                                 height={900}
                                 width={2000}
@@ -2896,7 +2896,7 @@ I must get it styled correctly...ENJOY!
           </div>
                            
                                 <p className={styles.parables}>
-          "For understanding proverbs & parables, sayings & riddles of the wise. The fear of the Lord is the beginning of knowledge"
+          The "teacher" looks at wisdom, pleasure, work, power, riches, regilgion & more. All of which are meaningless if we are not living for God
                                   </p>
              
                                   <div className={styles.nav}>
@@ -2933,7 +2933,8 @@ I must get it styled correctly...ENJOY!
                </div>
 
       <div className={styles.iframe}>                     
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/Gab04dPs_uA?autoplay=1&mute=1" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+              <iframe width="100%" height="450" src="https://www.youtube.com/embed/VeUiuSK81-0" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                  
                                   </div>             
         <div className={styles.grid}>
                                     <div
@@ -2996,7 +2997,7 @@ Wisdom Is Meaningless
      <div
             className={styles.card}
           >
-         <h2 className={styles.chapter}> Proverbs XXII &darr;</h2>
+         <h2 className={styles.chapter}>  Ecclesiastes CH II</h2>
             <p>
 Pleasures Are Meaningless
 2 I said to myself, “Come now, I will test you with pleasure to find out what is good.” But that also proved to be meaningless. 2 “Laughter,” I said, “is madness. And what does pleasure accomplish?” 3 I tried cheering myself with wine, and embracing folly—my mind still guiding me with wisdom. I wanted to see what was good for people to do under the heavens during the few days of their lives.
@@ -3045,7 +3046,7 @@ Toil Is Meaningless
      <div
             className={styles.card}
           >
-         <h2 className={styles.chapter}> Proverbs XXIII &darr;</h2>
+         <h2 className={styles.chapter}> Ecclesiastes CH III</h2>
             <p>
 A Time for Everything
 3 There is a time for everything,
@@ -3090,7 +3091,66 @@ for there will be a time for every activity,
 
 
             </p>
-          </div>                                         
+          </div>    
+   <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Ecclesiastes CH IV</h2>
+            <p>
+Oppression, Toil, Friendlessness
+4 Again I looked and saw all the oppression that was taking place under the sun:
+
+I saw the tears of the oppressed—
+    and they have no comforter;
+power was on the side of their oppressors—
+    and they have no comforter.
+2 And I declared that the dead,
+    who had already died,
+are happier than the living,
+    who are still alive.
+3 But better than both
+    is the one who has never been born,
+who has not seen the evil
+    that is done under the sun.
+
+4 And I saw that all toil and all achievement spring from one person’s envy of another. This too is meaningless, a chasing after the wind.
+
+5 Fools fold their hands
+    and ruin themselves.
+6 Better one handful with tranquillity
+    than two handfuls with toil
+    and chasing after the wind.
+
+7 Again I saw something meaningless under the sun:
+
+8 There was a man all alone;
+    he had neither son nor brother.
+There was no end to his toil,
+    yet his eyes were not content with his wealth.
+“For whom am I toiling,” he asked,
+    “and why am I depriving myself of enjoyment?”
+This too is meaningless—
+    a miserable business!
+
+9 Two are better than one,
+    because they have a good return for their labor:
+10 If either of them falls down,
+    one can help the other up.
+But pity anyone who falls
+    and has no one to help them up.
+11 Also, if two lie down together, they will keep warm.
+    But how can one keep warm alone?
+12 Though one may be overpowered,
+    two can defend themselves.
+A cord of three strands is not quickly broken.
+
+Advancement Is Meaningless
+13 Better a poor but wise youth than an old but foolish king who no longer knows how to heed a warning. 14 The youth may have come from prison to the kingship, or he may have been born in poverty within his kingdom. 15 I saw that all who lived and walked under the sun followed the youth, the king’s successor. 16 There was no end to all the people who were before them. But those who came later were not pleased with the successor. This too is meaningless, a chasing after the wind.    
+  
+  </p>
+          </div>    
+
+  
                                   
                                   
                                   </div>
