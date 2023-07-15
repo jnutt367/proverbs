@@ -2877,7 +2877,7 @@ I must get it styled correctly...ENJOY!
       <main className={styles.main}>
         
         <div className={styles.hero}>
-             <h2 className={styles.holy}>THE WORD</h2>
+             <h2 id="ecclesiastes" className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
                     <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
