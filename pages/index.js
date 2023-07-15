@@ -2871,6 +2871,244 @@ I must get it styled correctly...ENJOY!
                                   </div>
       </main>
 
+
+
+
+      <main className={styles.main}>
+        
+        <div className={styles.hero}>
+             <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+       ECCLESIASTES
+        </h1>
+         <div  className={styles.image}>
+       <Image 
+                                src="/proverbs.png"
+                                alt="Scrools and writing gear"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+          </div>
+                           
+                                <p className={styles.parables}>
+          "For understanding proverbs & parables, sayings & riddles of the wise. The fear of the Lord is the beginning of knowledge"
+                                  </p>
+             
+                                  <div className={styles.nav}>
+                                  <a href="https://jesusparables.vercel.app/">
+             <Image 
+                                src="/previous.webp"
+                                alt="left"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+       <a href="https://the-word-of-god.vercel.app/">
+              <Image 
+                                src="/upward_pointing.webp"
+                                alt="me thinking"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+         <a href="https://matthew-coral.vercel.app/">
+           <Image 
+                                src="/next.webp"
+                                alt="right"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+
+      <div className={styles.iframe}>                     
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/Gab04dPs_uA?autoplay=1&mute=1" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+                                  </div>             
+        <div className={styles.grid}>
+                                    <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Ecclesiastes CH I</h2>
+            <p>
+Everything Is Meaningless
+1 The words of the Teacher,[a] son of David, king in Jerusalem:
+
+2 “Meaningless! Meaningless!”
+    says the Teacher.
+“Utterly meaningless!
+    Everything is meaningless.”
+
+3 What do people gain from all their labors
+    at which they toil under the sun?
+4 Generations come and generations go,
+    but the earth remains forever.
+5 The sun rises and the sun sets,
+    and hurries back to where it rises.
+6 The wind blows to the south
+    and turns to the north;
+round and round it goes,
+    ever returning on its course.
+7 All streams flow into the sea,
+    yet the sea is never full.
+To the place the streams come from,
+    there they return again.
+8 All things are wearisome,
+    more than one can say.
+The eye never has enough of seeing,
+    nor the ear its fill of hearing.
+9 What has been will be again,
+    what has been done will be done again;
+    there is nothing new under the sun.
+10 Is there anything of which one can say,
+    “Look! This is something new”?
+It was here already, long ago;
+    it was here before our time.
+11 No one remembers the former generations,
+    and even those yet to come
+will not be remembered
+    by those who follow them.
+
+Wisdom Is Meaningless
+12 I, the Teacher, was king over Israel in Jerusalem. 13 I applied my mind to study and to explore by wisdom all that is done under the heavens. What a heavy burden God has laid on mankind! 14 I have seen all the things that are done under the sun; all of them are meaningless, a chasing after the wind.
+
+15 What is crooked cannot be straightened;
+    what is lacking cannot be counted.
+
+16 I said to myself, “Look, I have increased in wisdom more than anyone who has ruled over Jerusalem before me; I have experienced much of wisdom and knowledge.” 17 Then I applied myself to the understanding of wisdom, and also of madness and folly, but I learned that this, too, is a chasing after the wind.
+
+18 For with much wisdom comes much sorrow;
+    the more knowledge, the more grief.
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXII &darr;</h2>
+            <p>
+Pleasures Are Meaningless
+2 I said to myself, “Come now, I will test you with pleasure to find out what is good.” But that also proved to be meaningless. 2 “Laughter,” I said, “is madness. And what does pleasure accomplish?” 3 I tried cheering myself with wine, and embracing folly—my mind still guiding me with wisdom. I wanted to see what was good for people to do under the heavens during the few days of their lives.
+
+4 I undertook great projects: I built houses for myself and planted vineyards. 5 I made gardens and parks and planted all kinds of fruit trees in them. 6 I made reservoirs to water groves of flourishing trees. 7 I bought male and female slaves and had other slaves who were born in my house. I also owned more herds and flocks than anyone in Jerusalem before me. 8 I amassed silver and gold for myself, and the treasure of kings and provinces. I acquired male and female singers, and a harem[a] as well—the delights of a man’s heart. 9 I became greater by far than anyone in Jerusalem before me. In all this my wisdom stayed with me.
+
+10 I denied myself nothing my eyes desired;
+    I refused my heart no pleasure.
+My heart took delight in all my labor,
+    and this was the reward for all my toil.
+11 Yet when I surveyed all that my hands had done
+    and what I had toiled to achieve,
+everything was meaningless, a chasing after the wind;
+    nothing was gained under the sun.
+
+Wisdom and Folly Are Meaningless
+12 Then I turned my thoughts to consider wisdom,
+    and also madness and folly.
+What more can the king’s successor do
+    than what has already been done?
+13 I saw that wisdom is better than folly,
+    just as light is better than darkness.
+14 The wise have eyes in their heads,
+    while the fool walks in the darkness;
+but I came to realize
+    that the same fate overtakes them both.
+
+15 Then I said to myself,
+
+“The fate of the fool will overtake me also.
+    What then do I gain by being wise?”
+I said to myself,
+    “This too is meaningless.”
+16 For the wise, like the fool, will not be long remembered;
+    the days have already come when both have been forgotten.
+Like the fool, the wise too must die!
+
+Toil Is Meaningless
+17 So I hated life, because the work that is done under the sun was grievous to me. All of it is meaningless, a chasing after the wind. 18 I hated all the things I had toiled for under the sun, because I must leave them to the one who comes after me. 19 And who knows whether that person will be wise or foolish? Yet they will have control over all the fruit of my toil into which I have poured my effort and skill under the sun. This too is meaningless. 20 So my heart began to despair over all my toilsome labor under the sun. 21 For a person may labor with wisdom, knowledge and skill, and then they must leave all they own to another who has not toiled for it. This too is meaningless and a great misfortune. 22 What do people get for all the toil and anxious striving with which they labor under the sun? 23 All their days their work is grief and pain; even at night their minds do not rest. This too is meaningless.
+
+24 A person can do nothing better than to eat and drink and find satisfaction in their own toil. This too, I see, is from the hand of God, 25 for without him, who can eat or find enjoyment? 26 To the person who pleases him, God gives wisdom, knowledge and happiness, but to the sinner he gives the task of gathering and storing up wealth to hand it over to the one who pleases God. This too is meaningless, a chasing after the wind.
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs XXIII &darr;</h2>
+            <p>
+A Time for Everything
+3 There is a time for everything,
+    and a season for every activity under the heavens:
+
+2     a time to be born and a time to die,
+    a time to plant and a time to uproot,
+3     a time to kill and a time to heal,
+    a time to tear down and a time to build,
+4     a time to weep and a time to laugh,
+    a time to mourn and a time to dance,
+5     a time to scatter stones and a time to gather them,
+    a time to embrace and a time to refrain from embracing,
+6     a time to search and a time to give up,
+    a time to keep and a time to throw away,
+7     a time to tear and a time to mend,
+    a time to be silent and a time to speak,
+8     a time to love and a time to hate,
+    a time for war and a time for peace.
+
+9 What do workers gain from their toil? 10 I have seen the burden God has laid on the human race. 11 He has made everything beautiful in its time. He has also set eternity in the human heart; yet[a] no one can fathom what God has done from beginning to end. 12 I know that there is nothing better for people than to be happy and to do good while they live. 13 That each of them may eat and drink, and find satisfaction in all their toil—this is the gift of God. 14 I know that everything God does will endure forever; nothing can be added to it and nothing taken from it. God does it so that people will fear him.
+
+15 Whatever is has already been,
+    and what will be has been before;
+    and God will call the past to account.[b]
+
+16 And I saw something else under the sun:
+
+In the place of judgment—wickedness was there,
+    in the place of justice—wickedness was there.
+
+17 I said to myself,
+
+“God will bring into judgment
+    both the righteous and the wicked,
+for there will be a time for every activity,
+    a time to judge every deed.”
+
+18 I also said to myself, “As for humans, God tests them so that they may see that they are like the animals. 19 Surely the fate of human beings is like that of the animals; the same fate awaits them both: As one dies, so dies the other. All have the same breath[c]; humans have no advantage over animals. Everything is meaningless. 20 All go to the same place; all come from dust, and to dust all return. 21 Who knows if the human spirit rises upward and if the spirit of the animal goes down into the earth?”
+
+22 So I saw that there is nothing better for a person than to enjoy their work, because that is their lot. For who can bring them to see what will happen after them?
+
+
+            </p>
+          </div>                                         
+                                  
+                                  
+                                  </div>
+  </div>
+  </main>
+
+
+    
+
+
+
+
+
+
+    
+
+
+    
     </div>
   )
 }
