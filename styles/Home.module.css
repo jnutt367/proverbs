@@ -282,7 +282,7 @@
 }
 
 .nav {
-    background-color: #ADD8E6;
+    background-color: #3b2763;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -312,7 +312,7 @@
 }
 
 .grid {
-    background-color: #ADD8E6;
+    background-color: #3b2763;
     color: black;
     display: flex;
     align-items: center;
