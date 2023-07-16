@@ -2899,7 +2899,7 @@ I must get it styled correctly...ENJOY!
           The "teacher" looks at wisdom, pleasure, work, power, riches, regilgion & more. All of which are meaningless if we are not living for God
                                   </p>
              
-                                  <div className={styles.nav}>
+                                  <div className={styles.secondnav}>
                                   <a href="https://jesusparables.vercel.app/">
              <Image 
                                 src="/previous.webp"
@@ -2936,7 +2936,7 @@ I must get it styled correctly...ENJOY!
               <iframe width="100%" height="450" src="https://www.youtube.com/embed/VeUiuSK81-0" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                                   </div>             
-        <div className={styles.grid}>
+        <div className={styles.secondgrid}>
                                     <div
             className={styles.chapt}
           >
