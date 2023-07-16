@@ -2933,7 +2933,7 @@ I must get it styled correctly...ENJOY!
                </div>
 
       <div className={styles.iframe}>                     
-              <iframe width="100%" height="450" src="https://www.youtube.com/embed/VeUiuSK81-0" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <iframe width="100%" height="315" src="https://www.youtube.com/embed/VeUiuSK81-0" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                                   </div>             
         <div className={styles.secondgrid}>
@@ -3687,7 +3687,7 @@ Fear God and keep his commandments,
                </div>
 
       <div className={styles.iframe}>                     
-              <iframe width="100%" height="450" src="https://www.youtube.com/embed/VeUiuSK81-0" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/GswSg2ohqmA" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                                   </div>             
         <div className={styles.secondgrid}>
