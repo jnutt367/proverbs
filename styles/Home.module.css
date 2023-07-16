@@ -299,8 +299,15 @@
     justify-content: space-around;
     position: sticky;    
 }
-
-
+.thirdnav {
+    background-color:  #333232;
+    opacity: 1;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: sticky;    
+}
 .nav a:hover {
     scale: 1.1;
     background-color: black;
@@ -316,6 +323,15 @@
     border: 2px dotted whitesmoke;
     border-radius: 50%;
 }
+
+.thirdnav a:hover {
+    scale: 1.1;
+    background-color: black;
+    opacity: 0.9;
+    border: 2px dotted whitesmoke;
+    border-radius: 50%;
+}
+
 .button {
     color: white;
     height: 30px;
@@ -345,6 +361,18 @@
     justify-content: center;
     flex-wrap: wrap;    
 }
+
+.thirdgrid {
+    background-color: #333232;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;    
+}
+
+
+
 .h2 {
     background-image: none;
     opacity: 0.9;
@@ -455,6 +483,23 @@
     padding-bottom: 5px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
+
+.thirdchapter {
+    background-color:#333232;
+    color: white;
+    opacity: 1;
+    position: sticky;
+    z-index: 1;
+    width: 100%;
+    text-align: center;
+    top: 0px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;    
+}
+
+
 
 .card:hover,
 .card:focus,
