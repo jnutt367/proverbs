@@ -3565,7 +3565,7 @@ but know that for all these things
 
 
  <div
-            className={styles.card-2}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH XII</h2>
             <p>
