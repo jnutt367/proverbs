@@ -291,23 +291,7 @@
     position: sticky;
 }
 
-.nav2 {
-    background-color: #023020;
-    opacity: 1;
-    padding: 5px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    position: sticky;
 
-}
-.nav2 a:hover {
-    scale: 1.1;
-    background-color: black;
-    opacity: 0.9;
-    border: 2px dotted whitesmoke;
-    border-radius: 50%;
-}
 .nav a:hover {
     scale: 1.1;
     background-color: black;
@@ -336,14 +320,7 @@
     justify-content: center;
     flex-wrap: wrap;
 }
-.grid2 {
-    background-color: #023020;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-}
+
 
 .h2 {
     background-image: none;
