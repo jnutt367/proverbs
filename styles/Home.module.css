@@ -282,7 +282,7 @@
 }
 
 .nav {
-    background-color: #3b2763;
+    background-color: #AA336A;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -291,7 +291,7 @@
     position: sticky;
 }
 .secondnav {
-    background-color: #AA336A;
+    background-color: grey;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -330,7 +330,7 @@
 }
 
 .grid {
-    background-color: #3b2763;
+    background-color: #AA336A;
     color: black;
     display: flex;
     align-items: center;
@@ -338,7 +338,7 @@
     flex-wrap: wrap;
 }
 .secondgrid {
-    background-color: #AA336A;
+    background-color: grey;
     color: black;
     display: flex;
     align-items: center;
@@ -428,7 +428,7 @@
 
 
 .chapter {
-    background-color: black;
+    background-color: inherit;
     color: white;
     opacity: 1;
     position: sticky;
@@ -457,21 +457,9 @@
     overflow: scroll;
     font-family: monospace;
 }
-.chapt:hover,
-.chapt:focus,
-.chapt:active {
-    display: inline;
-    color: black;
-    opacity: 1;
-    border: 6px solid white;
-    background-image: url(/paper.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    cursor: all-scroll;
-    background-color: white;
-    overflow: scroll;
-    font-family: monospace;
-}.card h2 {
+
+
+.card h2 {
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
