@@ -429,7 +429,7 @@
 
 .chapter {
     background-color: inherit;
-    color: white;
+    color: black                         ;
     opacity: 1;
     position: sticky;
     z-index: 1;
