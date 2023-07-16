@@ -480,10 +480,20 @@
 .card p:hover {
     font-weight: 900;
 }
-.chapter:hover,
-.chapter:active,
-.chapter:focus {
-       color: grey;
+.chapt:hover,
+.chapt:active,
+.chapt:focus {
+    display: inline;
+    color: black;
+    opacity: 1;
+    border: 6px solid white;
+    background-image: url(/paper.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: all-scroll;
+    background-color: white;
+    overflow: scroll;
+    font-family: monospace;
 }
 .logo {
     height: 1em;
