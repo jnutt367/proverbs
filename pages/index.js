@@ -4594,7 +4594,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles..thirdchapter}> Job Chapter XXXV</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXXV</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
