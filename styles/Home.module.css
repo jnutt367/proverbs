@@ -374,7 +374,7 @@
     box-shadow: lightblue 0px 5px 15px;
 }
 
-.card-2 {
+.chapt {
     background-image: url(/ecclesiastes_cards.png);
     background-repeat: no-repeat;
     background-position: center;
@@ -553,4 +553,10 @@
         margin-right: 0;
         margin-left: 0;
     }
+    .chapt {
+         margin-right: 0;
+        margin-left: 0;
+    }
+
+
 }
