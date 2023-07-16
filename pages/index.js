@@ -3696,7 +3696,41 @@ Fear God and keep his commandments,
           >
          <h2 className={styles.secondchapter}> Job Chapter I</h2>
             <p>
-Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
+Prologue
+1 In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil. 2 He had seven sons and three daughters, 3 and he owned seven thousand sheep, three thousand camels, five hundred yoke of oxen and five hundred donkeys, and had a large number of servants. He was the greatest man among all the people of the East.
+
+4 His sons used to hold feasts in their homes on their birthdays, and they would invite their three sisters to eat and drink with them. 5 When a period of feasting had run its course, Job would make arrangements for them to be purified. Early in the morning he would sacrifice a burnt offering for each of them, thinking, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s regular custom.
+
+6 One day the angels[a] came to present themselves before the Lord, and Satan[b] also came with them. 7 The Lord said to Satan, “Where have you come from?”
+
+Satan answered the Lord, “From roaming throughout the earth, going back and forth on it.”
+
+8 Then the Lord said to Satan, “Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil.”
+
+9 “Does Job fear God for nothing?” Satan replied. 10 “Have you not put a hedge around him and his household and everything he has? You have blessed the work of his hands, so that his flocks and herds are spread throughout the land. 11 But now stretch out your hand and strike everything he has, and he will surely curse you to your face.”
+
+12 The Lord said to Satan, “Very well, then, everything he has is in your power, but on the man himself do not lay a finger.”
+
+Then Satan went out from the presence of the Lord.
+
+13 One day when Job’s sons and daughters were feasting and drinking wine at the oldest brother’s house, 14 a messenger came to Job and said, “The oxen were plowing and the donkeys were grazing nearby, 15 and the Sabeans attacked and made off with them. They put the servants to the sword, and I am the only one who has escaped to tell you!”
+
+16 While he was still speaking, another messenger came and said, “The fire of God fell from the heavens and burned up the sheep and the servants, and I am the only one who has escaped to tell you!”
+
+17 While he was still speaking, another messenger came and said, “The Chaldeans formed three raiding parties and swept down on your camels and made off with them. They put the servants to the sword, and I am the only one who has escaped to tell you!”
+
+18 While he was still speaking, yet another messenger came and said, “Your sons and daughters were feasting and drinking wine at the oldest brother’s house, 19 when suddenly a mighty wind swept in from the desert and struck the four corners of the house. It collapsed on them and they are dead, and I am the only one who has escaped to tell you!”
+
+20 At this, Job got up and tore his robe and shaved his head. Then he fell to the ground in worship 21 and said:
+
+“Naked I came from my mother’s womb,
+    and naked I will depart.[c]
+The Lord gave and the Lord has taken away;
+    may the name of the Lord be praised.”
+
+22 In all this, Job did not sin by charging God with wrongdoing.
+
+
             </p>
           </div>       
 
@@ -3706,8 +3740,27 @@ Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volut
           >
          <h2 className={styles.secondchapter}>  Job Chapter II</h2>
             <p>
-Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
-            </p>
+2 On another day the angels[a] came to present themselves before the Lord, and Satan also came with them to present himself before him. 2 And the Lord said to Satan, “Where have you come from?”
+
+Satan answered the Lord, “From roaming throughout the earth, going back and forth on it.”
+
+3 Then the Lord said to Satan, “Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil. And he still maintains his integrity, though you incited me against him to ruin him without any reason.”
+
+4 “Skin for skin!” Satan replied. “A man will give all he has for his own life. 5 But now stretch out your hand and strike his flesh and bones, and he will surely curse you to your face.”
+
+6 The Lord said to Satan, “Very well, then, he is in your hands; but you must spare his life.”
+
+7 So Satan went out from the presence of the Lord and afflicted Job with painful sores from the soles of his feet to the crown of his head. 8 Then Job took a piece of broken pottery and scraped himself with it as he sat among the ashes.
+
+9 His wife said to him, “Are you still maintaining your integrity? Curse God and die!”
+
+10 He replied, “You are talking like a foolish[b] woman. Shall we accept good from God, and not trouble?”
+
+In all this, Job did not sin in what he said.
+
+11 When Job’s three friends, Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite, heard about all the troubles that had come upon him, they set out from their homes and met together by agreement to go and sympathize with him and comfort him. 12 When they saw him from a distance, they could hardly recognize him; they began to weep aloud, and they tore their robes and sprinkled dust on their heads. 13 Then they sat on the ground with him for seven days and seven nights. No one said a word to him, because they saw how great his suffering was.    
+  
+  </p>
           </div>       
 
 
@@ -3716,56 +3769,473 @@ Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volut
           >
          <h2 className={styles.secondchapter}> Job Chapter III</h2>
             <p>
-Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
-            </p>
+Job Speaks
+3 After this, Job opened his mouth and cursed the day of his birth. 2 He said:
+
+3 “May the day of my birth perish,
+    and the night that said, ‘A boy is conceived!’
+4 That day—may it turn to darkness;
+    may God above not care about it;
+    may no light shine on it.
+5 May gloom and utter darkness claim it once more;
+    may a cloud settle over it;
+    may blackness overwhelm it.
+6 That night—may thick darkness seize it;
+    may it not be included among the days of the year
+    nor be entered in any of the months.
+7 May that night be barren;
+    may no shout of joy be heard in it.
+8 May those who curse days[a] curse that day,
+    those who are ready to rouse Leviathan.
+9 May its morning stars become dark;
+    may it wait for daylight in vain
+    and not see the first rays of dawn,
+10 for it did not shut the doors of the womb on me
+    to hide trouble from my eyes.
+
+11 “Why did I not perish at birth,
+    and die as I came from the womb?
+12 Why were there knees to receive me
+    and breasts that I might be nursed?
+13 For now I would be lying down in peace;
+    I would be asleep and at rest
+14 with kings and rulers of the earth,
+    who built for themselves places now lying in ruins,
+15 with princes who had gold,
+    who filled their houses with silver.
+16 Or why was I not hidden away in the ground like a stillborn child,
+    like an infant who never saw the light of day?
+17 There the wicked cease from turmoil,
+    and there the weary are at rest.
+18 Captives also enjoy their ease;
+    they no longer hear the slave driver’s shout.
+19 The small and the great are there,
+    and the slaves are freed from their owners.
+
+20 “Why is light given to those in misery,
+    and life to the bitter of soul,
+21 to those who long for death that does not come,
+    who search for it more than for hidden treasure,
+22 who are filled with gladness
+    and rejoice when they reach the grave?
+23 Why is life given to a man
+    whose way is hidden,
+    whom God has hedged in?
+24 For sighing has become my daily food;
+    my groans pour out like water.
+25 What I feared has come upon me;
+    what I dreaded has happened to me.
+26 I have no peace, no quietness;
+    I have no rest, but only turmoil.”
+      </p>
           </div>    
-   <div
+  
+
+ <div
             className={styles.chapt}
           >
          <h2 className={styles.secondchapter}> Job Chapter IV</h2>
             <p>
-Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
+Eliphaz
+4 Then Eliphaz the Temanite replied:
+
+2 “If someone ventures a word with you, will you be impatient?
+    But who can keep from speaking?
+3 Think how you have instructed many,
+    how you have strengthened feeble hands.
+4 Your words have supported those who stumbled;
+    you have strengthened faltering knees.
+5 But now trouble comes to you, and you are discouraged;
+    it strikes you, and you are dismayed.
+6 Should not your piety be your confidence
+    and your blameless ways your hope?
+
+7 “Consider now: Who, being innocent, has ever perished?
+    Where were the upright ever destroyed?
+8 As I have observed, those who plow evil
+    and those who sow trouble reap it.
+9 At the breath of God they perish;
+    at the blast of his anger they are no more.
+10 The lions may roar and growl,
+    yet the teeth of the great lions are broken.
+11 The lion perishes for lack of prey,
+    and the cubs of the lioness are scattered.
+
+12 “A word was secretly brought to me,
+    my ears caught a whisper of it.
+13 Amid disquieting dreams in the night,
+    when deep sleep falls on people,
+14 fear and trembling seized me
+    and made all my bones shake.
+15 A spirit glided past my face,
+    and the hair on my body stood on end.
+16 It stopped,
+    but I could not tell what it was.
+A form stood before my eyes,
+    and I heard a hushed voice:
+17 ‘Can a mortal be more righteous than God?
+    Can even a strong man be more pure than his Maker?
+18 If God places no trust in his servants,
+    if he charges his angels with error,
+19 how much more those who live in houses of clay,
+    whose foundations are in the dust,
+    who are crushed more readily than a moth!
+20 Between dawn and dusk they are broken to pieces;
+    unnoticed, they perish forever.
+21 Are not the cords of their tent pulled up,
+    so that they die without wisdom?’
+  
   </p>
-          </div>    
-
-
- <div
+          </div>          
+                 <div
             className={styles.chapt}
           >
          <h2 className={styles.secondchapter}> Job Chapter V</h2>
             <p>
-Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
-              </p>
-              </div>    
+5 “Call if you will, but who will answer you?
+    To which of the holy ones will you turn?
+2 Resentment kills a fool,
+    and envy slays the simple.
+3 I myself have seen a fool taking root,
+    but suddenly his house was cursed.
+4 His children are far from safety,
+    crushed in court without a defender.
+5 The hungry consume his harvest,
+    taking it even from among thorns,
+    and the thirsty pant after his wealth.
+6 For hardship does not spring from the soil,
+    nor does trouble sprout from the ground.
+7 Yet man is born to trouble
+    as surely as sparks fly upward.
+
+8 “But if I were you, I would appeal to God;
+    I would lay my cause before him.
+9 He performs wonders that cannot be fathomed,
+    miracles that cannot be counted.
+10 He provides rain for the earth;
+    he sends water on the countryside.
+11 The lowly he sets on high,
+    and those who mourn are lifted to safety.
+12 He thwarts the plans of the crafty,
+    so that their hands achieve no success.
+13 He catches the wise in their craftiness,
+    and the schemes of the wily are swept away.
+14 Darkness comes upon them in the daytime;
+    at noon they grope as in the night.
+15 He saves the needy from the sword in their mouth;
+    he saves them from the clutches of the powerful.
+16 So the poor have hope,
+    and injustice shuts its mouth.
+
+17 “Blessed is the one whom God corrects;
+    so do not despise the discipline of the Almighty.[a]
+18 For he wounds, but he also binds up;
+    he injures, but his hands also heal.
+19 From six calamities he will rescue you;
+    in seven no harm will touch you.
+20 In famine he will deliver you from death,
+    and in battle from the stroke of the sword.
+21 You will be protected from the lash of the tongue,
+    and need not fear when destruction comes.
+22 You will laugh at destruction and famine,
+    and need not fear the wild animals.
+23 For you will have a covenant with the stones of the field,
+    and the wild animals will be at peace with you.
+24 You will know that your tent is secure;
+    you will take stock of your property and find nothing missing.
+25 You will know that your children will be many,
+    and your descendants like the grass of the earth.
+26 You will come to the grave in full vigor,
+    like sheaves gathered in season.
+
+27 “We have examined this, and it is true.
+    So hear it and apply it to yourself.”
 
 
- <div
+  </p>
+          </div>     
+
+               <div
             className={styles.chapt}
           >
          <h2 className={styles.secondchapter}> Job Chapter VI</h2>
             <p>
-Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
+Job
+6 Then Job replied:
+
+2 “If only my anguish could be weighed
+    and all my misery be placed on the scales!
+3 It would surely outweigh the sand of the seas—
+    no wonder my words have been impetuous.
+4 The arrows of the Almighty are in me,
+    my spirit drinks in their poison;
+    God’s terrors are marshaled against me.
+5 Does a wild donkey bray when it has grass,
+    or an ox bellow when it has fodder?
+6 Is tasteless food eaten without salt,
+    or is there flavor in the sap of the mallow[a]?
+7 I refuse to touch it;
+    such food makes me ill.
+
+8 “Oh, that I might have my request,
+    that God would grant what I hope for,
+9 that God would be willing to crush me,
+    to let loose his hand and cut off my life!
+10 Then I would still have this consolation—
+    my joy in unrelenting pain—
+    that I had not denied the words of the Holy One.
+
+11 “What strength do I have, that I should still hope?
+    What prospects, that I should be patient?
+12 Do I have the strength of stone?
+    Is my flesh bronze?
+13 Do I have any power to help myself,
+    now that success has been driven from me?
+
+14 “Anyone who withholds kindness from a friend
+    forsakes the fear of the Almighty.
+15 But my brothers are as undependable as intermittent streams,
+    as the streams that overflow
+16 when darkened by thawing ice
+    and swollen with melting snow,
+17 but that stop flowing in the dry season,
+    and in the heat vanish from their channels.
+18 Caravans turn aside from their routes;
+    they go off into the wasteland and perish.
+19 The caravans of Tema look for water,
+    the traveling merchants of Sheba look in hope.
+20 They are distressed, because they had been confident;
+    they arrive there, only to be disappointed.
+21 Now you too have proved to be of no help;
+    you see something dreadful and are afraid.
+22 Have I ever said, ‘Give something on my behalf,
+    pay a ransom for me from your wealth,
+23 deliver me from the hand of the enemy,
+    rescue me from the clutches of the ruthless’?
+
+24 “Teach me, and I will be quiet;
+    show me where I have been wrong.
+25 How painful are honest words!
+    But what do your arguments prove?
+26 Do you mean to correct what I say,
+    and treat my desperate words as wind?
+27 You would even cast lots for the fatherless
+    and barter away your friend.
+
+28 “But now be so kind as to look at me.
+    Would I lie to your face?
+29 Relent, do not be unjust;
+    reconsider, for my integrity is at stake.[b]
+30 Is there any wickedness on my lips?
+    Can my mouth not discern malice?
   </p>
-          </div>    
-
-
+          </div>     
+              
+              
                <div
             className={styles.chapt}
           >
          <h2 className={styles.secondchapter}> Job Chapter VII</h2>
             <p>
-Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
-  </p>
-          </div>    
+7 “Do not mortals have hard service on earth?
+    Are not their days like those of hired laborers?
+2 Like a slave longing for the evening shadows,
+    or a hired laborer waiting to be paid,
+3 so I have been allotted months of futility,
+    and nights of misery have been assigned to me.
+4 When I lie down I think, ‘How long before I get up?’
+    The night drags on, and I toss and turn until dawn.
+5 My body is clothed with worms and scabs,
+    my skin is broken and festering.
 
+6 “My days are swifter than a weaver’s shuttle,
+    and they come to an end without hope.
+7 Remember, O God, that my life is but a breath;
+    my eyes will never see happiness again.
+8 The eye that now sees me will see me no longer;
+    you will look for me, but I will be no more.
+9 As a cloud vanishes and is gone,
+    so one who goes down to the grave does not return.
+10 He will never come to his house again;
+    his place will know him no more.
+
+11 “Therefore I will not keep silent;
+    I will speak out in the anguish of my spirit,
+    I will complain in the bitterness of my soul.
+12 Am I the sea, or the monster of the deep,
+    that you put me under guard?
+13 When I think my bed will comfort me
+    and my couch will ease my complaint,
+14 even then you frighten me with dreams
+    and terrify me with visions,
+15 so that I prefer strangling and death,
+    rather than this body of mine.
+16 I despise my life; I would not live forever.
+    Let me alone; my days have no meaning.
+
+17 “What is mankind that you make so much of them,
+    that you give them so much attention,
+18 that you examine them every morning
+    and test them every moment?
+19 Will you never look away from me,
+    or let me alone even for an instant?
+20 If I have sinned, what have I done to you,
+    you who see everything we do?
+Why have you made me your target?
+    Have I become a burden to you?[a]
+21 Why do you not pardon my offenses
+    and forgive my sins?
+For I will soon lie down in the dust;
+    you will search for me, but I will be no more.”
+
+
+      </p>
+          </div>     
+
+              
+               <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter VIII</h2>
+            <p>
+Bildad
+8 Then Bildad the Shuhite replied:
+
+2 “How long will you say such things?
+    Your words are a blustering wind.
+3 Does God pervert justice?
+    Does the Almighty pervert what is right?
+4 When your children sinned against him,
+    he gave them over to the penalty of their sin.
+5 But if you will seek God earnestly
+    and plead with the Almighty,
+6 if you are pure and upright,
+    even now he will rouse himself on your behalf
+    and restore you to your prosperous state.
+7 Your beginnings will seem humble,
+    so prosperous will your future be.
+
+8 “Ask the former generation
+    and find out what their ancestors learned,
+9 for we were born only yesterday and know nothing,
+    and our days on earth are but a shadow.
+10 Will they not instruct you and tell you?
+    Will they not bring forth words from their understanding?
+11 Can papyrus grow tall where there is no marsh?
+    Can reeds thrive without water?
+12 While still growing and uncut,
+    they wither more quickly than grass.
+13 Such is the destiny of all who forget God;
+    so perishes the hope of the godless.
+14 What they trust in is fragile[a];
+    what they rely on is a spider’s web.
+15 They lean on the web, but it gives way;
+    they cling to it, but it does not hold.
+16 They are like a well-watered plant in the sunshine,
+    spreading its shoots over the garden;
+17 it entwines its roots around a pile of rocks
+    and looks for a place among the stones.
+18 But when it is torn from its spot,
+    that place disowns it and says, ‘I never saw you.’
+19 Surely its life withers away,
+    and[b] from the soil other plants grow.
+
+20 “Surely God does not reject one who is blameless
+    or strengthen the hands of evildoers.
+21 He will yet fill your mouth with laughter
+    and your lips with shouts of joy.
+22 Your enemies will be clothed in shame,
+    and the tents of the wicked will be no more.”
+      
+      </p>
+          </div>     
 
                <div
             className={styles.chapt}
           >
          <h2 className={styles.secondchapter}> Job Chapter IX</h2>
             <p>
-Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.      </p>
-          </div>    
+Job
+9 Then Job replied:
+
+2 “Indeed, I know that this is true.
+    But how can mere mortals prove their innocence before God?
+3 Though they wished to dispute with him,
+    they could not answer him one time out of a thousand.
+4 His wisdom is profound, his power is vast.
+    Who has resisted him and come out unscathed?
+5 He moves mountains without their knowing it
+    and overturns them in his anger.
+6 He shakes the earth from its place
+    and makes its pillars tremble.
+7 He speaks to the sun and it does not shine;
+    he seals off the light of the stars.
+8 He alone stretches out the heavens
+    and treads on the waves of the sea.
+9 He is the Maker of the Bear[a] and Orion,
+    the Pleiades and the constellations of the south.
+10 He performs wonders that cannot be fathomed,
+    miracles that cannot be counted.
+11 When he passes me, I cannot see him;
+    when he goes by, I cannot perceive him.
+12 If he snatches away, who can stop him?
+    Who can say to him, ‘What are you doing?’
+13 God does not restrain his anger;
+    even the cohorts of Rahab cowered at his feet.
+
+14 “How then can I dispute with him?
+    How can I find words to argue with him?
+15 Though I were innocent, I could not answer him;
+    I could only plead with my Judge for mercy.
+16 Even if I summoned him and he responded,
+    I do not believe he would give me a hearing.
+17 He would crush me with a storm
+    and multiply my wounds for no reason.
+18 He would not let me catch my breath
+    but would overwhelm me with misery.
+19 If it is a matter of strength, he is mighty!
+    And if it is a matter of justice, who can challenge him[b]?
+20 Even if I were innocent, my mouth would condemn me;
+    if I were blameless, it would pronounce me guilty.
+
+21 “Although I am blameless,
+    I have no concern for myself;
+    I despise my own life.
+22 It is all the same; that is why I say,
+    ‘He destroys both the blameless and the wicked.’
+23 When a scourge brings sudden death,
+    he mocks the despair of the innocent.
+24 When a land falls into the hands of the wicked,
+    he blindfolds its judges.
+    If it is not he, then who is it?
+
+25 “My days are swifter than a runner;
+    they fly away without a glimpse of joy.
+26 They skim past like boats of papyrus,
+    like eagles swooping down on their prey.
+27 If I say, ‘I will forget my complaint,
+    I will change my expression, and smile,’
+28 I still dread all my sufferings,
+    for I know you will not hold me innocent.
+29 Since I am already found guilty,
+    why should I struggle in vain?
+30 Even if I washed myself with soap
+    and my hands with cleansing powder,
+31 you would plunge me into a slime pit
+    so that even my clothes would detest me.
+
+32 “He is not a mere mortal like me that I might answer him,
+    that we might confront each other in court.
+33 If only there were someone to mediate between us,
+    someone to bring us together,
+34 someone to remove God’s rod from me,
+    so that his terror would frighten me no more.
+35 Then I would speak up without fear of him,
+    but as it now stands with me, I cannot.
+
+
+  </p>
+          </div>     
 
 
                <div
@@ -3773,33 +4243,77 @@ Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volut
           >
          <h2 className={styles.secondchapter}> Job Chapter X</h2>
             <p>
-Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.  
-              
+10 “I loathe my very life;
+    therefore I will give free rein to my complaint
+    and speak out in the bitterness of my soul.
+2 I say to God: Do not declare me guilty,
+    but tell me what charges you have against me.
+3 Does it please you to oppress me,
+    to spurn the work of your hands,
+    while you smile on the plans of the wicked?
+4 Do you have eyes of flesh?
+    Do you see as a mortal sees?
+5 Are your days like those of a mortal
+    or your years like those of a strong man,
+6 that you must search out my faults
+    and probe after my sin—
+7 though you know that I am not guilty
+    and that no one can rescue me from your hand?
+
+8 “Your hands shaped me and made me.
+    Will you now turn and destroy me?
+9 Remember that you molded me like clay.
+    Will you now turn me to dust again?
+10 Did you not pour me out like milk
+    and curdle me like cheese,
+11 clothe me with skin and flesh
+    and knit me together with bones and sinews?
+12 You gave me life and showed me kindness,
+    and in your providence watched over my spirit.
+
+13 “But this is what you concealed in your heart,
+    and I know that this was in your mind:
+14 If I sinned, you would be watching me
+    and would not let my offense go unpunished.
+15 If I am guilty—woe to me!
+    Even if I am innocent, I cannot lift my head,
+for I am full of shame
+    and drowned in[a] my affliction.
+16 If I hold my head high, you stalk me like a lion
+    and again display your awesome power against me.
+17 You bring new witnesses against me
+    and increase your anger toward me;
+    your forces come against me wave upon wave.
+
+18 “Why then did you bring me out of the womb?
+    I wish I had died before any eye saw me.
+19 If only I had never come into being,
+    or had been carried straight from the womb to the grave!
+20 Are not my few days almost over?
+    Turn away from me so I can have a moment’s joy
+21 before I go to the place of no return,
+    to the land of gloom and utter darkness,
+22 to the land of deepest night,
+    of utter darkness and disorder,
+    where even the light is like darkness.”
+
+
   </p>
-          </div>    
+          </div>  
 
-
- <div
+       <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XI</h2>
+         <h2 className={styles.secondchapter}> Job Chapter X</h2>
             <p>
-Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
-      </p>
-          </div>    
+Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
- <div
-            className={styles.chapt}
-          >
-         <h2 className={styles.secondchapter}> Job Chapter XII</h2>
-            <p>
+  </p>
+          </div>  
 
-  Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.  </p>
-          </div>    
-                
-                                  
-                                  </div>
+  
+  </div>
   </div>
   </main>
 
