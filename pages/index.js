@@ -3653,7 +3653,7 @@ Fear God and keep his commandments,
         Job is currently under construction....will be finished shortly!!!!!
                                   </p>
              
-                                  <div className={styles.secondnav}>
+                                  <div className={styles.thirdnav}>
                                   <a href="https://jesusparables.vercel.app/">
              <Image 
                                 src="/previous.webp"
@@ -3690,11 +3690,11 @@ Fear God and keep his commandments,
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/GswSg2ohqmA" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                                   </div>             
-        <div className={styles.secondgrid}>
+        <div className={styles.thirdgrid}>
                                     <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter I</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter I</h2>
             <p>
 Prologue
 1 In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil. 2 He had seven sons and three daughters, 3 and he owned seven thousand sheep, three thousand camels, five hundred yoke of oxen and five hundred donkeys, and had a large number of servants. He was the greatest man among all the people of the East.
@@ -3738,7 +3738,7 @@ The Lord gave and the Lord has taken away;
      <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}>  Job Chapter II</h2>
+         <h2 className={styles.thirdchapter}>  Job Chapter II</h2>
             <p>
 2 On another day the angels[a] came to present themselves before the Lord, and Satan also came with them to present himself before him. 2 And the Lord said to Satan, “Where have you come from?”
 
@@ -3767,7 +3767,7 @@ In all this, Job did not sin in what he said.
      <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter III</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter III</h2>
             <p>
 Job Speaks
 3 After this, Job opened his mouth and cursed the day of his birth. 2 He said:
