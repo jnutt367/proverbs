@@ -3735,7 +3735,8 @@ Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volut
          <h2 className={styles.secondchapter}> Job Chapter V</h2>
             <p>
 Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
-          </div>    
+              </p>
+              </div>    
 
 
  <div
@@ -3773,6 +3774,7 @@ Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volut
          <h2 className={styles.secondchapter}> Job Chapter X</h2>
             <p>
 Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.  
+              
   </p>
           </div>    
 
