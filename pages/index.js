@@ -2940,7 +2940,7 @@ I must get it styled correctly...ENJOY!
                                     <div
             className={styles.chapt}
           >
-         <h2 className={styles.chapter}> Ecclesiastes CH I</h2>
+         <h2 className={styles.secondchapter}> Ecclesiastes CH I</h2>
             <p>
 Everything Is Meaningless
 1 The words of the Teacher,[a] son of David, king in Jerusalem:
@@ -2997,7 +2997,7 @@ Wisdom Is Meaningless
      <div
             className={styles.chapt}
           >
-         <h2 className={styles.chapter}>  Ecclesiastes CH II</h2>
+         <h2 className={styles.secondchapter}>  Ecclesiastes CH II</h2>
             <p>
 Pleasures Are Meaningless
 2 I said to myself, “Come now, I will test you with pleasure to find out what is good.” But that also proved to be meaningless. 2 “Laughter,” I said, “is madness. And what does pleasure accomplish?” 3 I tried cheering myself with wine, and embracing folly—my mind still guiding me with wisdom. I wanted to see what was good for people to do under the heavens during the few days of their lives.
@@ -3046,7 +3046,7 @@ Toil Is Meaningless
      <div
             className={styles.chapt}
           >
-         <h2 className={styles.chapter}> Ecclesiastes CH III</h2>
+         <h2 className={styles.secondchapter}> Ecclesiastes CH III</h2>
             <p>
 A Time for Everything
 3 There is a time for everything,
@@ -3095,7 +3095,7 @@ for there will be a time for every activity,
    <div
             className={styles.chapt}
           >
-         <h2 className={styles.chapter}> Ecclesiastes CH IV</h2>
+         <h2 className={styles.secondchapter}> Ecclesiastes CH IV</h2>
             <p>
 Oppression, Toil, Friendlessness
 4 Again I looked and saw all the oppression that was taking place under the sun:
@@ -3154,7 +3154,7 @@ Advancement Is Meaningless
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.chapter}> Ecclesiastes CH V</h2>
+         <h2 className={styles.secondchapter}> Ecclesiastes CH V</h2>
             <p>
 Fulfill Your Vow to God
 5 [a]Guard your steps when you go to the house of God. Go near to listen rather than to offer the sacrifice of fools, who do not know that they do wrong.
@@ -3214,7 +3214,7 @@ As everyone comes, so they depart,
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.chapter}> Ecclesiastes CH VI</h2>
+         <h2 className={styles.secondchapter}> Ecclesiastes CH VI</h2>
             <p>
 6 I have seen another evil under the sun, and it weighs heavily on mankind: 2 God gives some people wealth, possessions and honor, so that they lack nothing their hearts desire, but God does not grant them the ability to enjoy them, and strangers enjoy them instead. This is meaningless, a grievous evil.
 
@@ -3247,7 +3247,7 @@ no one can contend
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.chapter}> Ecclesiastes CH VII</h2>
+         <h2 className={styles.secondchapter}> Ecclesiastes CH VII</h2>
             <p>
 Wisdom
  A good name is better than fine perfume,
@@ -3354,7 +3354,7 @@ I found one upright man among a thousand,
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.chapter}> Ecclesiastes CH VIII</h2>
+         <h2 className={styles.secondchapter}> Ecclesiastes CH VIII</h2>
             <p>
 Who is like the wise?
     Who knows the explanation of things?
@@ -3391,7 +3391,7 @@ As no one is discharged in time of war,
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.chapter}> Ecclesiastes CH IX</h2>
+         <h2 className={styles.secondchapter}> Ecclesiastes CH IX</h2>
             <p>
 A Common Destiny for All
 9 So I reflected on all this and concluded that the righteous and the wise and what they do are in God’s hands, but no one knows whether love or hate awaits them. 2 All share a common destiny—the righteous and the wicked, the good and the bad,[a] the clean and the unclean, those who offer sacrifices and those who do not.
@@ -3444,7 +3444,7 @@ Wisdom Better Than Folly
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.chapter}> Ecclesiastes CH X</h2>
+         <h2 className={styles.secondchapter}> Ecclesiastes CH X</h2>
             <p>
 As dead flies give perfume a bad smell,
     so a little folly outweighs wisdom and honor.
@@ -3514,7 +3514,7 @@ because a bird in the sky may carry your words,
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.chapter}> Ecclesiastes CH XI</h2>
+         <h2 className={styles.secondchapter}> Ecclesiastes CH XI</h2>
             <p>
 Invest in Many Ventures
 11 Ship your grain across the sea;
@@ -3567,7 +3567,7 @@ but know that for all these things
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.chapter}> Ecclesiastes CH XII</h2>
+         <h2 className={styles.secondchapter}> Ecclesiastes CH XII</h2>
             <p>
 Remember your Creator
     in the days of your youth,
