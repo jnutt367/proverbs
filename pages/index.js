@@ -4304,15 +4304,118 @@ for I am full of shame
        <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter X</h2>
+         <h2 className={styles.secondchapter}> Job Chapter XI</h2>
             <p>
-Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+Zophar
+11 Then Zophar the Naamathite replied:
 
+2 “Are all these words to go unanswered?
+    Is this talker to be vindicated?
+3 Will your idle talk reduce others to silence?
+    Will no one rebuke you when you mock?
+4 You say to God, ‘My beliefs are flawless
+    and I am pure in your sight.’
+5 Oh, how I wish that God would speak,
+    that he would open his lips against you
+6 and disclose to you the secrets of wisdom,
+    for true wisdom has two sides.
+    Know this: God has even forgotten some of your sin.
 
+7 “Can you fathom the mysteries of God?
+    Can you probe the limits of the Almighty?
+8 They are higher than the heavens above—what can you do?
+    They are deeper than the depths below—what can you know?
+9 Their measure is longer than the earth
+    and wider than the sea.
+
+10 “If he comes along and confines you in prison
+    and convenes a court, who can oppose him?
+11 Surely he recognizes deceivers;
+    and when he sees evil, does he not take note?
+12 But the witless can no more become wise
+    than a wild donkey’s colt can be born human.[a]
+
+13 “Yet if you devote your heart to him
+    and stretch out your hands to him,
+14 if you put away the sin that is in your hand
+    and allow no evil to dwell in your tent,
+15 then, free of fault, you will lift up your face;
+    you will stand firm and without fear.
+16 You will surely forget your trouble,
+    recalling it only as waters gone by.
+17 Life will be brighter than noonday,
+    and darkness will become like morning.
+18 You will be secure, because there is hope;
+    you will look about you and take your rest in safety.
+19 You will lie down, with no one to make you afraid,
+    and many will court your favor.
+20 But the eyes of the wicked will fail,
+    and escape will elude them;
+    their hope will become a dying gasp.”
   </p>
           </div>  
+     <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
-  
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XIII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XIV</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+              
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XV</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XVI</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XVII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>              
+
+              
   </div>
   </div>
   </main>
