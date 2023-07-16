@@ -2938,7 +2938,7 @@ I must get it styled correctly...ENJOY!
                                   </div>             
         <div className={styles.grid}>
                                     <div
-            className={styles.card}
+            className={styles.chapt}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH I</h2>
             <p>
@@ -2995,7 +2995,7 @@ Wisdom Is Meaningless
 
 
      <div
-            className={styles.card}
+            className={styles.chapt}
           >
          <h2 className={styles.chapter}>  Ecclesiastes CH II</h2>
             <p>
@@ -3044,7 +3044,7 @@ Toil Is Meaningless
 
 
      <div
-            className={styles.card}
+            className={styles.chapt}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH III</h2>
             <p>
@@ -3093,7 +3093,7 @@ for there will be a time for every activity,
             </p>
           </div>    
    <div
-            className={styles.card}
+            className={styles.chapt}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH IV</h2>
             <p>
@@ -3152,7 +3152,7 @@ Advancement Is Meaningless
 
 
  <div
-            className={styles.card}
+            className={styles.chapt}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH V</h2>
             <p>
@@ -3212,7 +3212,7 @@ As everyone comes, so they depart,
 
 
  <div
-            className={styles.card}
+            className={styles.chapt}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH VI</h2>
             <p>
@@ -3245,7 +3245,7 @@ no one can contend
 
 
                <div
-            className={styles.card}
+            className={styles.chapt}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH VII</h2>
             <p>
@@ -3352,7 +3352,7 @@ I found one upright man among a thousand,
           </div>    
 
  <div
-            className={styles.card}
+            className={styles.chapt}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH VIII</h2>
             <p>
@@ -3389,7 +3389,7 @@ As no one is discharged in time of war,
 
 
                <div
-            className={styles.card}
+            className={styles.chapt}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH IX</h2>
             <p>
@@ -3442,7 +3442,7 @@ Wisdom Better Than Folly
 
 
                <div
-            className={styles.card}
+            className={styles.chapt}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH X</h2>
             <p>
@@ -3512,7 +3512,7 @@ because a bird in the sky may carry your words,
 
 
  <div
-            className={styles.card}
+            className={styles.chapt}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH XI</h2>
             <p>
@@ -3565,7 +3565,7 @@ but know that for all these things
 
 
  <div
-            className={styles.card}
+            className={styles.chapt}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH XII</h2>
             <p>
