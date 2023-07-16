@@ -3628,8 +3628,178 @@ Fear God and keep his commandments,
 
 
     
+   <main className={styles.main}>
+        
+        <div className={styles.hero}>
+             <h2 id="ecclesiastes" className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        
+        <h1 className={styles.title}>
+        JOB
+        </h1>
+         <div  className={styles.image}>
+       <Image 
+                                src="/job_2.png"
+                                alt="Scrools and writing gear"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+          </div>
+                           
+                                <p className={styles.parables}>
+        Job is currently under construction....will be finished shortly!!!!!
+                                  </p>
+             
+                                  <div className={styles.secondnav}>
+                                  <a href="https://jesusparables.vercel.app/">
+             <Image 
+                                src="/previous.webp"
+                                alt="left"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+       <a href="https://the-word-of-god.vercel.app/">
+              <Image 
+                                src="/upward_pointing.webp"
+                                alt="me thinking"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+         <a href="https://matthew-coral.vercel.app/">
+           <Image 
+                                src="/next.webp"
+                                alt="right"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+
+      <div className={styles.iframe}>                     
+              <iframe width="100%" height="450" src="https://www.youtube.com/embed/VeUiuSK81-0" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                  
+                                  </div>             
+        <div className={styles.secondgrid}>
+                                    <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter I</h2>
+            <p>
+Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
+            </p>
+          </div>       
 
 
+     <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}>  Job Chapter II</h2>
+            <p>
+Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
+            </p>
+          </div>       
+
+
+     <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter III</h2>
+            <p>
+Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
+            </p>
+          </div>    
+   <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter IV</h2>
+            <p>
+Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
+  </p>
+          </div>    
+
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter V</h2>
+            <p>
+Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
+          </div>    
+
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter VI</h2>
+            <p>
+Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
+  </p>
+          </div>    
+
+
+               <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter VII</h2>
+            <p>
+Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
+  </p>
+          </div>    
+
+
+               <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter IX</h2>
+            <p>
+Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.      </p>
+          </div>    
+
+
+               <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter X</h2>
+            <p>
+Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.  
+  </p>
+          </div>    
+
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XI</h2>
+            <p>
+Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.
+      </p>
+          </div>    
+
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XII</h2>
+            <p>
+
+  Nulla at volutpat diam ut venenatis tellus in metus vulputate. Sagittis eu volutpat odio facilisis. Semper quis lectus nulla at volutpat diam ut. Dui faucibus in ornare quam viverra orci sagittis. Volutpat ac tincidunt vitae semper quis lectus. Est ullamcorper eget nulla facilisi. Commodo odio aenean sed adipiscing diam donec adipiscing. Dignissim diam quis enim lobortis. Integer eget aliquet nibh praesent tristique. Urna id volutpat lacus laoreet. Ac odio tempor orci dapibus. Quis blandit turpis cursus in. Vestibulum mattis ullamcorper velit sed. Feugiat in fermentum posuere urna nec tincidunt praesent. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin.  </p>
+          </div>    
+                
+                                  
+                                  </div>
+  </div>
+  </main>
 
 
 
