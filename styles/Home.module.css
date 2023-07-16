@@ -290,7 +290,7 @@
     justify-content: space-around;
     position: sticky;
 }
-secondnav {
+.secondnav {
     background-color: #AA336A;
     opacity: 1;
     padding: 5px;
