@@ -291,7 +291,7 @@
     position: sticky;
 }
 .secondnav {
-    background-color: grey;
+    background-color: #191970;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -338,7 +338,7 @@
     flex-wrap: wrap;
 }
 .secondgrid {
-    background-color: grey;
+    background-color:#191970;
     color: black;
     display: flex;
     align-items: center;
@@ -430,6 +430,20 @@
 .chapter {
     background-color: #AA336A;
     color: black                         ;
+    opacity: 1;
+    position: sticky;
+    z-index: 1;
+    width: 100%;
+    text-align: center;
+    top: 0px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
+.secondchapter {
+    background-color: #191970;
+    color: white;
     opacity: 1;
     position: sticky;
     z-index: 1;
