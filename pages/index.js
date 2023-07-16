@@ -3834,7 +3834,7 @@ Job Speaks
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter IV</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter IV</h2>
             <p>
 Eliphaz
 4 Then Eliphaz the Temanite replied:
@@ -3890,7 +3890,7 @@ A form stood before my eyes,
                  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter V</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter V</h2>
             <p>
 5 “Call if you will, but who will answer you?
     To which of the holy ones will you turn?
@@ -3958,7 +3958,7 @@ A form stood before my eyes,
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter VI</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter VI</h2>
             <p>
 Job
 6 Then Job replied:
@@ -4035,7 +4035,7 @@ Job
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter VII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter VII</h2>
             <p>
 7 “Do not mortals have hard service on earth?
     Are not their days like those of hired laborers?
@@ -4096,7 +4096,7 @@ For I will soon lie down in the dust;
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter VIII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter VIII</h2>
             <p>
 Bildad
 8 Then Bildad the Shuhite replied:
@@ -4153,7 +4153,7 @@ Bildad
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter IX</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter IX</h2>
             <p>
 Job
 9 Then Job replied:
@@ -4241,7 +4241,7 @@ Job
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter X</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter X</h2>
             <p>
 10 “I loathe my very life;
     therefore I will give free rein to my complaint
@@ -4304,7 +4304,7 @@ for I am full of shame
        <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XI</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XI</h2>
             <p>
 Zophar
 11 Then Zophar the Naamathite replied:
@@ -4357,7 +4357,7 @@ Zophar
      <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XII</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4367,7 +4367,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XIII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XIII</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4377,7 +4377,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XIV</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XIV</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4387,7 +4387,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XV</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XV</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4397,7 +4397,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XVI</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XVI</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4408,7 +4408,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XVII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XVII</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4418,7 +4418,7 @@ Zophar
   <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XVIII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XVIII</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4428,7 +4428,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XIX</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XIX</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4438,7 +4438,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XX</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XX</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4448,7 +4448,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXI</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXI</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4458,7 +4458,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXII</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4469,7 +4469,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXIII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXIII</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4480,7 +4480,7 @@ Zophar
                 <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXIV</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXIV</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4490,7 +4490,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXV</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXV</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4500,70 +4500,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXVI</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
-
-
-              </p>
-    </div>
-              
- <div
-            className={styles.chapt}
-          >
-         <h2 className={styles.secondchapter}> Job Chapter XXVII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
-
-
-              </p>
-    </div>
-
- <div
-            className={styles.chapt}
-          >
-         <h2 className={styles.secondchapter}> Job Chapter XXVIII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
-
-
-              </p>
-    </div>
-
-
- <div
-            className={styles.chapt}
-          >
-         <h2 className={styles.secondchapter}> Job Chapter XXIX</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
-
-
-              </p>
-    </div>    
-
-
-
-                <div
-            className={styles.chapt}
-          >
-         <h2 className={styles.secondchapter}> Job Chapter XXX</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
-
-
-              </p>
-    </div>
-
- <div
-            className={styles.chapt}
-          >
-         <h2 className={styles.secondchapter}> Job Chapter XXXI</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
-
-
-              </p>
-    </div>
-
- <div
-            className={styles.chapt}
-          >
-         <h2 className={styles.secondchapter}> Job Chapter XXXII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXVI</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4573,7 +4510,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXXIII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXVII</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4583,7 +4520,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXXIV</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXVIII</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4594,7 +4531,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXXV</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXIX</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4606,7 +4543,7 @@ Zophar
                 <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXXVI</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXX</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4616,7 +4553,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXXVII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXXI</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4626,7 +4563,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXXVII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXXII</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4636,7 +4573,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XXXIX</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXXIII</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4646,7 +4583,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XL</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XXXIV</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4657,7 +4594,70 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XLI</h2>
+         <h2 className={styles..thirdchapter}> Job Chapter XXXV</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>    
+
+
+
+                <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.thirdchapter}> Job Chapter XXXVI</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.thirdchapter}> Job Chapter XXXVII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.thirdchapter}> Job Chapter XXXVII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+              
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.thirdchapter}> Job Chapter XXXIX</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.thirdchapter}> Job Chapter XL</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.thirdchapter}> Job Chapter XLI</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4667,7 +4667,7 @@ Zophar
 <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XLII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XLII</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4678,7 +4678,7 @@ Zophar
               <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XLIII</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XLIII</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4689,7 +4689,7 @@ Zophar
               <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XLIV</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XLIV</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
@@ -4700,7 +4700,7 @@ Zophar
               <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Job Chapter XLV</h2>
+         <h2 className={styles.thirdchapter}> Job Chapter XLV</h2>
             <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
 
 
