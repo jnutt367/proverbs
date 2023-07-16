@@ -495,6 +495,35 @@
     overflow: scroll;
     font-family: monospace;
 }
+
+
+.chapt h2 {
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.chapt h2:hover {
+    color: silver;
+}
+
+.chapt p {
+    margin: 0;
+    padding: 1.5rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    font-family: monospace;
+}
+
+.chapt p:hover {
+    font-weight: 900;
+}
+
+
+
+
+
+
 .logo {
     height: 1em;
     margin-left: 0.5rem;
