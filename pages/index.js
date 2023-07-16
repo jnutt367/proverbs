@@ -4415,8 +4415,299 @@ Zophar
               </p>
     </div>              
 
+  <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XVIII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XIX</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XX</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
               
-  </div>
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXI</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXIII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>    
+
+
+                <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXIV</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXV</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXVI</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+              
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXVII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXVIII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXIX</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>    
+
+
+
+                <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXX</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXXI</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXXII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+              
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXXIII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXXIV</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXXV</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>    
+
+
+
+                <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXXVI</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXXVII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXXVII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+              
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XXXIX</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XL</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>
+
+
+ <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XLI</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>    
+
+<div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XLII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>    
+
+
+              <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XLIII</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>    
+
+
+              <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XLIV</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>    
+              
+              
+              <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.secondchapter}> Job Chapter XLV</h2>
+            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+
+
+              </p>
+    </div>                  
+              
+              </div>
   </div>
   </main>
 
