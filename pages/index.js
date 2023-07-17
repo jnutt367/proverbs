@@ -5255,8 +5255,40 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXVI</h2>
-            <p>  Praise God, the story is NOT OVER YET...WOW! That is a good place for a selah. Job's journey continues in the chapters under construction!
+              
+            <p> 
+              Job
+26 Then Job replied:
 
+2 “How you have helped the powerless!
+    How you have saved the arm that is feeble!
+3 What advice you have offered to one without wisdom!
+    And what great insight you have displayed!
+4 Who has helped you utter these words?
+    And whose spirit spoke from your mouth?
+
+5 “The dead are in deep anguish,
+    those beneath the waters and all that live in them.
+6 The realm of the dead is naked before God;
+    Destruction[a] lies uncovered.
+7 He spreads out the northern skies over empty space;
+    he suspends the earth over nothing.
+8 He wraps up the waters in his clouds,
+    yet the clouds do not burst under their weight.
+9 He covers the face of the full moon,
+    spreading his clouds over it.
+10 He marks out the horizon on the face of the waters
+    for a boundary between light and darkness.
+11 The pillars of the heavens quake,
+    aghast at his rebuke.
+12 By his power he churned up the sea;
+    by his wisdom he cut Rahab to pieces.
+13 By his breath the skies became fair;
+    his hand pierced the gliding serpent.
+14 And these are but the outer fringe of his works;
+    how faint the whisper we hear of him!
+    Who then can understand the thunder of his power?”              
+            
 
               </p>
     </div>
@@ -5265,9 +5297,56 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXVII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  Job’s Final Word to His Friends
+27 And Job continued his discourse:
 
+2 “As surely as God lives, who has denied me justice,
+    the Almighty, who has made my life bitter,
+3 as long as I have life within me,
+    the breath of God in my nostrils,
+4 my lips will not say anything wicked,
+    and my tongue will not utter lies.
+5 I will never admit you are in the right;
+    till I die, I will not deny my integrity.
+6 I will maintain my innocence and never let go of it;
+    my conscience will not reproach me as long as I live.
 
+7 “May my enemy be like the wicked,
+    my adversary like the unjust!
+8 For what hope have the godless when they are cut off,
+    when God takes away their life?
+9 Does God listen to their cry
+    when distress comes upon them?
+10 Will they find delight in the Almighty?
+    Will they call on God at all times?
+
+11 “I will teach you about the power of God;
+    the ways of the Almighty I will not conceal.
+12 You have all seen this yourselves.
+    Why then this meaningless talk?
+
+13 “Here is the fate God allots to the wicked,
+    the heritage a ruthless man receives from the Almighty:
+14 However many his children, their fate is the sword;
+    his offspring will never have enough to eat.
+15 The plague will bury those who survive him,
+    and their widows will not weep for them.
+16 Though he heaps up silver like dust
+    and clothes like piles of clay,
+17 what he lays up the righteous will wear,
+    and the innocent will divide his silver.
+18 The house he builds is like a moth’s cocoon,
+    like a hut made by a watchman.
+19 He lies down wealthy, but will do so no more;
+    when he opens his eyes, all is gone.
+20 Terrors overtake him like a flood;
+    a tempest snatches him away in the night.
+21 The east wind carries him off, and he is gone;
+    it sweeps him out of his place.
+22 It hurls itself against him without mercy
+    as he flees headlong from its power.
+23 It claps its hands in derision
+    and hisses him out of his place.”
               </p>
     </div>
 
@@ -5275,7 +5354,69 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXVIII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  Interlude: Where Wisdom Is Found
+28 There is a mine for silver
+    and a place where gold is refined.
+2 Iron is taken from the earth,
+    and copper is smelted from ore.
+3 Mortals put an end to the darkness;
+    they search out the farthest recesses
+    for ore in the blackest darkness.
+4 Far from human dwellings they cut a shaft,
+    in places untouched by human feet;
+    far from other people they dangle and sway.
+5 The earth, from which food comes,
+    is transformed below as by fire;
+6 lapis lazuli comes from its rocks,
+    and its dust contains nuggets of gold.
+7 No bird of prey knows that hidden path,
+    no falcon’s eye has seen it.
+8 Proud beasts do not set foot on it,
+    and no lion prowls there.
+9 People assault the flinty rock with their hands
+    and lay bare the roots of the mountains.
+10 They tunnel through the rock;
+    their eyes see all its treasures.
+11 They search[a] the sources of the rivers
+    and bring hidden things to light.
+
+12 But where can wisdom be found?
+    Where does understanding dwell?
+13 No mortal comprehends its worth;
+    it cannot be found in the land of the living.
+14 The deep says, “It is not in me”;
+    the sea says, “It is not with me.”
+15 It cannot be bought with the finest gold,
+    nor can its price be weighed out in silver.
+16 It cannot be bought with the gold of Ophir,
+    with precious onyx or lapis lazuli.
+17 Neither gold nor crystal can compare with it,
+    nor can it be had for jewels of gold.
+18 Coral and jasper are not worthy of mention;
+    the price of wisdom is beyond rubies.
+19 The topaz of Cush cannot compare with it;
+    it cannot be bought with pure gold.
+
+20 Where then does wisdom come from?
+    Where does understanding dwell?
+21 It is hidden from the eyes of every living thing,
+    concealed even from the birds in the sky.
+22 Destruction[b] and Death say,
+    “Only a rumor of it has reached our ears.”
+23 God understands the way to it
+    and he alone knows where it dwells,
+24 for he views the ends of the earth
+    and sees everything under the heavens.
+25 When he established the force of the wind
+    and measured out the waters,
+26 when he made a decree for the rain
+    and a path for the thunderstorm,
+27 then he looked at wisdom and appraised it;
+    he confirmed it and tested it.
+28 And he said to the human race,
+    “The fear of the Lord—that is wisdom,
+    and to shun evil is understanding.”
+
 
 
               </p>
@@ -5286,9 +5427,61 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXIX</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p> Job’s Final Defense
+29 Job continued his discourse:
 
+2 “How I long for the months gone by,
+    for the days when God watched over me,
+3 when his lamp shone on my head
+    and by his light I walked through darkness!
+4 Oh, for the days when I was in my prime,
+    when God’s intimate friendship blessed my house,
+5 when the Almighty was still with me
+    and my children were around me,
+6 when my path was drenched with cream
+    and the rock poured out for me streams of olive oil.
 
+7 “When I went to the gate of the city
+    and took my seat in the public square,
+8 the young men saw me and stepped aside
+    and the old men rose to their feet;
+9 the chief men refrained from speaking
+    and covered their mouths with their hands;
+10 the voices of the nobles were hushed,
+    and their tongues stuck to the roof of their mouths.
+11 Whoever heard me spoke well of me,
+    and those who saw me commended me,
+12 because I rescued the poor who cried for help,
+    and the fatherless who had none to assist them.
+13 The one who was dying blessed me;
+    I made the widow’s heart sing.
+14 I put on righteousness as my clothing;
+    justice was my robe and my turban.
+15 I was eyes to the blind
+    and feet to the lame.
+16 I was a father to the needy;
+    I took up the case of the stranger.
+17 I broke the fangs of the wicked
+    and snatched the victims from their teeth.
+
+18 “I thought, ‘I will die in my own house,
+    my days as numerous as the grains of sand.
+19 My roots will reach to the water,
+    and the dew will lie all night on my branches.
+20 My glory will not fade;
+    the bow will be ever new in my hand.’
+
+21 “People listened to me expectantly,
+    waiting in silence for my counsel.
+22 After I had spoken, they spoke no more;
+    my words fell gently on their ears.
+23 They waited for me as for showers
+    and drank in my words as the spring rain.
+24 When I smiled at them, they scarcely believed it;
+    the light of my face was precious to them.[a]
+25 I chose the way for them and sat as their chief;
+    I dwelt as a king among his troops;
+    I was like one who comforts mourners.
               </p>
     </div>    
 
@@ -5298,7 +5491,80 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXX</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  30 “But now they mock me,
+    men younger than I,
+whose fathers I would have disdained
+    to put with my sheep dogs.
+2 Of what use was the strength of their hands to me,
+    since their vigor had gone from them?
+3 Haggard from want and hunger,
+    they roamed[a] the parched land
+    in desolate wastelands at night.
+4 In the brush they gathered salt herbs,
+    and their food[b] was the root of the broom bush.
+5 They were banished from human society,
+    shouted at as if they were thieves.
+6 They were forced to live in the dry stream beds,
+    among the rocks and in holes in the ground.
+7 They brayed among the bushes
+    and huddled in the undergrowth.
+8 A base and nameless brood,
+    they were driven out of the land.
+
+9 “And now those young men mock me in song;
+    I have become a byword among them.
+10 They detest me and keep their distance;
+    they do not hesitate to spit in my face.
+11 Now that God has unstrung my bow and afflicted me,
+    they throw off restraint in my presence.
+12 On my right the tribe[c] attacks;
+    they lay snares for my feet,
+    they build their siege ramps against me.
+13 They break up my road;
+    they succeed in destroying me.
+    ‘No one can help him,’ they say.
+14 They advance as through a gaping breach;
+    amid the ruins they come rolling in.
+15 Terrors overwhelm me;
+    my dignity is driven away as by the wind,
+    my safety vanishes like a cloud.
+
+16 “And now my life ebbs away;
+    days of suffering grip me.
+17 Night pierces my bones;
+    my gnawing pains never rest.
+18 In his great power God becomes like clothing to me[d];
+    he binds me like the neck of my garment.
+19 He throws me into the mud,
+    and I am reduced to dust and ashes.
+
+20 “I cry out to you, God, but you do not answer;
+    I stand up, but you merely look at me.
+21 You turn on me ruthlessly;
+    with the might of your hand you attack me.
+22 You snatch me up and drive me before the wind;
+    you toss me about in the storm.
+23 I know you will bring me down to death,
+    to the place appointed for all the living.
+
+24 “Surely no one lays a hand on a broken man
+    when he cries for help in his distress.
+25 Have I not wept for those in trouble?
+    Has not my soul grieved for the poor?
+26 Yet when I hoped for good, evil came;
+    when I looked for light, then came darkness.
+27 The churning inside me never stops;
+    days of suffering confront me.
+28 I go about blackened, but not by the sun;
+    I stand up in the assembly and cry for help.
+29 I have become a brother of jackals,
+    a companion of owls.
+30 My skin grows black and peels;
+    my body burns with fever.
+31 My lyre is tuned to mourning,
+    and my pipe to the sound of wailing.
+
+
 
 
               </p>
@@ -5308,9 +5574,100 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXXI</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  31 “I made a covenant with my eyes
+    not to look lustfully at a young woman.
+2 For what is our lot from God above,
+    our heritage from the Almighty on high?
+3 Is it not ruin for the wicked,
+    disaster for those who do wrong?
+4 Does he not see my ways
+    and count my every step?
 
+5 “If I have walked with falsehood
+    or my foot has hurried after deceit—
+6 let God weigh me in honest scales
+    and he will know that I am blameless—
+7 if my steps have turned from the path,
+    if my heart has been led by my eyes,
+    or if my hands have been defiled,
+8 then may others eat what I have sown,
+    and may my crops be uprooted.
 
+9 “If my heart has been enticed by a woman,
+    or if I have lurked at my neighbor’s door,
+10 then may my wife grind another man’s grain,
+    and may other men sleep with her.
+11 For that would have been wicked,
+    a sin to be judged.
+12 It is a fire that burns to Destruction[a];
+    it would have uprooted my harvest.
+
+13 “If I have denied justice to any of my servants,
+    whether male or female,
+    when they had a grievance against me,
+14 what will I do when God confronts me?
+    What will I answer when called to account?
+15 Did not he who made me in the womb make them?
+    Did not the same one form us both within our mothers?
+
+16 “If I have denied the desires of the poor
+    or let the eyes of the widow grow weary,
+17 if I have kept my bread to myself,
+    not sharing it with the fatherless—
+18 but from my youth I reared them as a father would,
+    and from my birth I guided the widow—
+19 if I have seen anyone perishing for lack of clothing,
+    or the needy without garments,
+20 and their hearts did not bless me
+    for warming them with the fleece from my sheep,
+21 if I have raised my hand against the fatherless,
+    knowing that I had influence in court,
+22 then let my arm fall from the shoulder,
+    let it be broken off at the joint.
+23 For I dreaded destruction from God,
+    and for fear of his splendor I could not do such things.
+
+24 “If I have put my trust in gold
+    or said to pure gold, ‘You are my security,’
+25 if I have rejoiced over my great wealth,
+    the fortune my hands had gained,
+26 if I have regarded the sun in its radiance
+    or the moon moving in splendor,
+27 so that my heart was secretly enticed
+    and my hand offered them a kiss of homage,
+28 then these also would be sins to be judged,
+    for I would have been unfaithful to God on high.
+
+29 “If I have rejoiced at my enemy’s misfortune
+    or gloated over the trouble that came to him—
+30 I have not allowed my mouth to sin
+    by invoking a curse against their life—
+31 if those of my household have never said,
+    ‘Who has not been filled with Job’s meat?’—
+32 but no stranger had to spend the night in the street,
+    for my door was always open to the traveler—
+33 if I have concealed my sin as people do,[b]
+    by hiding my guilt in my heart
+34 because I so feared the crowd
+    and so dreaded the contempt of the clans
+    that I kept silent and would not go outside—
+
+35 (“Oh, that I had someone to hear me!
+    I sign now my defense—let the Almighty answer me;
+    let my accuser put his indictment in writing.
+36 Surely I would wear it on my shoulder,
+    I would put it on like a crown.
+37 I would give him an account of my every step;
+    I would present it to him as to a ruler.)—
+
+38 “if my land cries out against me
+    and all its furrows are wet with tears,
+39 if I have devoured its yield without payment
+    or broken the spirit of its tenants,
+40 then let briers come up instead of wheat
+    and stinkweed instead of barley.”
+
+The words of Job are ended.
               </p>
     </div>
 
@@ -5318,8 +5675,51 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXXII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p> Elihu
+32 So these three men stopped answering Job, because he was righteous in his own eyes. 2 But Elihu son of Barakel the Buzite, of the family of Ram, became very angry with Job for justifying himself rather than God. 3 He was also angry with the three friends, because they had found no way to refute Job, and yet had condemned him.[a] 4 Now Elihu had waited before speaking to Job because they were older than he. 5 But when he saw that the three men had nothing more to say, his anger was aroused.
 
+6 So Elihu son of Barakel the Buzite said:
+
+“I am young in years,
+    and you are old;
+that is why I was fearful,
+    not daring to tell you what I know.
+7 I thought, ‘Age should speak;
+    advanced years should teach wisdom.’
+8 But it is the spirit[b] in a person,
+    the breath of the Almighty, that gives them understanding.
+9 It is not only the old[c] who are wise,
+    not only the aged who understand what is right.
+
+10 “Therefore I say: Listen to me;
+    I too will tell you what I know.
+11 I waited while you spoke,
+    I listened to your reasoning;
+while you were searching for words,
+12     I gave you my full attention.
+But not one of you has proved Job wrong;
+    none of you has answered his arguments.
+13 Do not say, ‘We have found wisdom;
+    let God, not a man, refute him.’
+14 But Job has not marshaled his words against me,
+    and I will not answer him with your arguments.
+
+15 “They are dismayed and have no more to say;
+    words have failed them.
+16 Must I wait, now that they are silent,
+    now that they stand there with no reply?
+17 I too will have my say;
+    I too will tell what I know.
+18 For I am full of words,
+    and the spirit within me compels me;
+19 inside I am like bottled-up wine,
+    like new wineskins ready to burst.
+20 I must speak and find relief;
+    I must open my lips and reply.
+21 I will show no partiality,
+    nor will I flatter anyone;
+22 for if I were skilled in flattery,
+    my Maker would soon take me away.
 
               </p>
     </div>
@@ -5328,9 +5728,82 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXXIII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  33 “But now, Job, listen to my words;
+    pay attention to everything I say.
+2 I am about to open my mouth;
+    my words are on the tip of my tongue.
+3 My words come from an upright heart;
+    my lips sincerely speak what I know.
+4 The Spirit of God has made me;
+    the breath of the Almighty gives me life.
+5 Answer me then, if you can;
+    stand up and argue your case before me.
+6 I am the same as you in God’s sight;
+    I too am a piece of clay.
+7 No fear of me should alarm you,
+    nor should my hand be heavy on you.
 
+8 “But you have said in my hearing—
+    I heard the very words—
+9 ‘I am pure, I have done no wrong;
+    I am clean and free from sin.
+10 Yet God has found fault with me;
+    he considers me his enemy.
+11 He fastens my feet in shackles;
+    he keeps close watch on all my paths.’
 
+12 “But I tell you, in this you are not right,
+    for God is greater than any mortal.
+13 Why do you complain to him
+    that he responds to no one’s words[a]?
+14 For God does speak—now one way, now another—
+    though no one perceives it.
+15 In a dream, in a vision of the night,
+    when deep sleep falls on people
+    as they slumber in their beds,
+16 he may speak in their ears
+    and terrify them with warnings,
+17 to turn them from wrongdoing
+    and keep them from pride,
+18 to preserve them from the pit,
+    their lives from perishing by the sword.[b]
+
+19 “Or someone may be chastened on a bed of pain
+    with constant distress in their bones,
+20 so that their body finds food repulsive
+    and their soul loathes the choicest meal.
+21 Their flesh wastes away to nothing,
+    and their bones, once hidden, now stick out.
+22 They draw near to the pit,
+    and their life to the messengers of death.[c]
+23 Yet if there is an angel at their side,
+    a messenger, one out of a thousand,
+    sent to tell them how to be upright,
+24 and he is gracious to that person and says to God,
+    ‘Spare them from going down to the pit;
+    I have found a ransom for them—
+25 let their flesh be renewed like a child’s;
+    let them be restored as in the days of their youth’—
+26 then that person can pray to God and find favor with him,
+    they will see God’s face and shout for joy;
+    he will restore them to full well-being.
+27 And they will go to others and say,
+    ‘I have sinned, I have perverted what is right,
+    but I did not get what I deserved.
+28 God has delivered me from going down to the pit,
+    and I shall live to enjoy the light of life.’
+
+29 “God does all these things to a person—
+    twice, even three times—
+30 to turn them back from the pit,
+    that the light of life may shine on them.
+
+31 “Pay attention, Job, and listen to me;
+    be silent, and I will speak.
+32 If you have anything to say, answer me;
+    speak up, for I want to vindicate you.
+33 But if not, then listen to me;
+    be silent, and I will teach you wisdom.”
               </p>
     </div>
 
@@ -5338,9 +5811,95 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXXIV</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  34 Then Elihu said:
 
+2 “Hear my words, you wise men;
+    listen to me, you men of learning.
+3 For the ear tests words
+    as the tongue tastes food.
+4 Let us discern for ourselves what is right;
+    let us learn together what is good.
 
+5 “Job says, ‘I am innocent,
+    but God denies me justice.
+6 Although I am right,
+    I am considered a liar;
+although I am guiltless,
+    his arrow inflicts an incurable wound.’
+7 Is there anyone like Job,
+    who drinks scorn like water?
+8 He keeps company with evildoers;
+    he associates with the wicked.
+9 For he says, ‘There is no profit
+    in trying to please God.’
+
+10 “So listen to me, you men of understanding.
+    Far be it from God to do evil,
+    from the Almighty to do wrong.
+11 He repays everyone for what they have done;
+    he brings on them what their conduct deserves.
+12 It is unthinkable that God would do wrong,
+    that the Almighty would pervert justice.
+13 Who appointed him over the earth?
+    Who put him in charge of the whole world?
+14 If it were his intention
+    and he withdrew his spirit[a] and breath,
+15 all humanity would perish together
+    and mankind would return to the dust.
+
+16 “If you have understanding, hear this;
+    listen to what I say.
+17 Can someone who hates justice govern?
+    Will you condemn the just and mighty One?
+18 Is he not the One who says to kings, ‘You are worthless,’
+    and to nobles, ‘You are wicked,’
+19 who shows no partiality to princes
+    and does not favor the rich over the poor,
+    for they are all the work of his hands?
+20 They die in an instant, in the middle of the night;
+    the people are shaken and they pass away;
+    the mighty are removed without human hand.
+
+21 “His eyes are on the ways of mortals;
+    he sees their every step.
+22 There is no deep shadow, no utter darkness,
+    where evildoers can hide.
+23 God has no need to examine people further,
+    that they should come before him for judgment.
+24 Without inquiry he shatters the mighty
+    and sets up others in their place.
+25 Because he takes note of their deeds,
+    he overthrows them in the night and they are crushed.
+26 He punishes them for their wickedness
+    where everyone can see them,
+27 because they turned from following him
+    and had no regard for any of his ways.
+28 They caused the cry of the poor to come before him,
+    so that he heard the cry of the needy.
+29 But if he remains silent, who can condemn him?
+    If he hides his face, who can see him?
+Yet he is over individual and nation alike,
+30     to keep the godless from ruling,
+    from laying snares for the people.
+
+31 “Suppose someone says to God,
+    ‘I am guilty but will offend no more.
+32 Teach me what I cannot see;
+    if I have done wrong, I will not do so again.’
+33 Should God then reward you on your terms,
+    when you refuse to repent?
+You must decide, not I;
+    so tell me what you know.
+
+34 “Men of understanding declare,
+    wise men who hear me say to me,
+35 ‘Job speaks without knowledge;
+    his words lack insight.’
+36 Oh, that Job might be tested to the utmost
+    for answering like a wicked man!
+37 To his sin he adds rebellion;
+    scornfully he claps his hands among us
+    and multiplies his words against God.”
               </p>
     </div>
 
@@ -5349,9 +5908,42 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXXV</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  35 Then Elihu said:
 
+2 “Do you think this is just?
+    You say, ‘I am in the right, not God.’
+3 Yet you ask him, ‘What profit is it to me,[a]
+    and what do I gain by not sinning?’
 
+4 “I would like to reply to you
+    and to your friends with you.
+5 Look up at the heavens and see;
+    gaze at the clouds so high above you.
+6 If you sin, how does that affect him?
+    If your sins are many, what does that do to him?
+7 If you are righteous, what do you give to him,
+    or what does he receive from your hand?
+8 Your wickedness only affects humans like yourself,
+    and your righteousness only other people.
+
+9 “People cry out under a load of oppression;
+    they plead for relief from the arm of the powerful.
+10 But no one says, ‘Where is God my Maker,
+    who gives songs in the night,
+11 who teaches us more than he teaches[b] the beasts of the earth
+    and makes us wiser than[c] the birds in the sky?’
+12 He does not answer when people cry out
+    because of the arrogance of the wicked.
+13 Indeed, God does not listen to their empty plea;
+    the Almighty pays no attention to it.
+14 How much less, then, will he listen
+    when you say that you do not see him,
+that your case is before him
+    and you must wait for him,
+15 and further, that his anger never punishes
+    and he does not take the least notice of wickedness.[d]
+16 So Job opens his mouth with empty talk;
+    without knowledge he multiplies words.”
               </p>
     </div>    
 
@@ -5361,8 +5953,81 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXXVI</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p> 36 Elihu continued:
 
+2 “Bear with me a little longer and I will show you
+    that there is more to be said in God’s behalf.
+3 I get my knowledge from afar;
+    I will ascribe justice to my Maker.
+4 Be assured that my words are not false;
+    one who has perfect knowledge is with you.
+
+5 “God is mighty, but despises no one;
+    he is mighty, and firm in his purpose.
+6 He does not keep the wicked alive
+    but gives the afflicted their rights.
+7 He does not take his eyes off the righteous;
+    he enthrones them with kings
+    and exalts them forever.
+8 But if people are bound in chains,
+    held fast by cords of affliction,
+9 he tells them what they have done—
+    that they have sinned arrogantly.
+10 He makes them listen to correction
+    and commands them to repent of their evil.
+11 If they obey and serve him,
+    they will spend the rest of their days in prosperity
+    and their years in contentment.
+12 But if they do not listen,
+    they will perish by the sword[a]
+    and die without knowledge.
+
+13 “The godless in heart harbor resentment;
+    even when he fetters them, they do not cry for help.
+14 They die in their youth,
+    among male prostitutes of the shrines.
+15 But those who suffer he delivers in their suffering;
+    he speaks to them in their affliction.
+
+16 “He is wooing you from the jaws of distress
+    to a spacious place free from restriction,
+    to the comfort of your table laden with choice food.
+17 But now you are laden with the judgment due the wicked;
+    judgment and justice have taken hold of you.
+18 Be careful that no one entices you by riches;
+    do not let a large bribe turn you aside.
+19 Would your wealth or even all your mighty efforts
+    sustain you so you would not be in distress?
+20 Do not long for the night,
+    to drag people away from their homes.[b]
+21 Beware of turning to evil,
+    which you seem to prefer to affliction.
+
+22 “God is exalted in his power.
+    Who is a teacher like him?
+23 Who has prescribed his ways for him,
+    or said to him, ‘You have done wrong’?
+24 Remember to extol his work,
+    which people have praised in song.
+25 All humanity has seen it;
+    mortals gaze on it from afar.
+26 How great is God—beyond our understanding!
+    The number of his years is past finding out.
+
+27 “He draws up the drops of water,
+    which distill as rain to the streams[c];
+28 the clouds pour down their moisture
+    and abundant showers fall on mankind.
+29 Who can understand how he spreads out the clouds,
+    how he thunders from his pavilion?
+30 See how he scatters his lightning about him,
+    bathing the depths of the sea.
+31 This is the way he governs[d] the nations
+    and provides food in abundance.
+32 He fills his hands with lightning
+    and commands it to strike its mark.
+33 His thunder announces the coming storm;
+    even the cattle make known its approach.
 
               </p>
     </div>
@@ -5371,18 +6036,163 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXXVII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p> 
+37 “At this my heart pounds
+    and leaps from its place.
+2 Listen! Listen to the roar of his voice,
+    to the rumbling that comes from his mouth.
+3 He unleashes his lightning beneath the whole heaven
+    and sends it to the ends of the earth.
+4 After that comes the sound of his roar;
+    he thunders with his majestic voice.
+When his voice resounds,
+    he holds nothing back.
+5 God’s voice thunders in marvelous ways;
+    he does great things beyond our understanding.
+6 He says to the snow, ‘Fall on the earth,’
+    and to the rain shower, ‘Be a mighty downpour.’
+7 So that everyone he has made may know his work,
+    he stops all people from their labor.[a]
+8 The animals take cover;
+    they remain in their dens.
+9 The tempest comes out from its chamber,
+    the cold from the driving winds.
+10 The breath of God produces ice,
+    and the broad waters become frozen.
+11 He loads the clouds with moisture;
+    he scatters his lightning through them.
+12 At his direction they swirl around
+    over the face of the whole earth
+    to do whatever he commands them.
+13 He brings the clouds to punish people,
+    or to water his earth and show his love.
 
+14 “Listen to this, Job;
+    stop and consider God’s wonders.
+15 Do you know how God controls the clouds
+    and makes his lightning flash?
+16 Do you know how the clouds hang poised,
+    those wonders of him who has perfect knowledge?
+17 You who swelter in your clothes
+    when the land lies hushed under the south wind,
+18 can you join him in spreading out the skies,
+    hard as a mirror of cast bronze?
 
-              </p>
+19 “Tell us what we should say to him;
+    we cannot draw up our case because of our darkness.
+20 Should he be told that I want to speak?
+    Would anyone ask to be swallowed up?
+21 Now no one can look at the sun,
+    bright as it is in the skies
+    after the wind has swept them clean.
+22 Out of the north he comes in golden splendor;
+    God comes in awesome majesty.
+23 The Almighty is beyond our reach and exalted in power;
+    in his justice and great righteousness, he does not oppress.
+24 Therefore, people revere him,
+    for does he not have regard for all the wise in heart?
+  
+  </p>
     </div>
 
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXXVII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+         <h2 className={styles.thirdchapter}> Job Chapter XXXVIII</h2>
+            <p>  The Lord Speaks
+38 Then the Lord spoke to Job out of the storm. He said:
 
+2 “Who is this that obscures my plans
+    with words without knowledge?
+3 Brace yourself like a man;
+    I will question you,
+    and you shall answer me.
+
+4 “Where were you when I laid the earth’s foundation?
+    Tell me, if you understand.
+5 Who marked off its dimensions? Surely you know!
+    Who stretched a measuring line across it?
+6 On what were its footings set,
+    or who laid its cornerstone—
+7 while the morning stars sang together
+    and all the angels[a] shouted for joy?
+
+8 “Who shut up the sea behind doors
+    when it burst forth from the womb,
+9 when I made the clouds its garment
+    and wrapped it in thick darkness,
+10 when I fixed limits for it
+    and set its doors and bars in place,
+11 when I said, ‘This far you may come and no farther;
+    here is where your proud waves halt’?
+
+12 “Have you ever given orders to the morning,
+    or shown the dawn its place,
+13 that it might take the earth by the edges
+    and shake the wicked out of it?
+14 The earth takes shape like clay under a seal;
+    its features stand out like those of a garment.
+15 The wicked are denied their light,
+    and their upraised arm is broken.
+
+16 “Have you journeyed to the springs of the sea
+    or walked in the recesses of the deep?
+17 Have the gates of death been shown to you?
+    Have you seen the gates of the deepest darkness?
+18 Have you comprehended the vast expanses of the earth?
+    Tell me, if you know all this.
+
+19 “What is the way to the abode of light?
+    And where does darkness reside?
+20 Can you take them to their places?
+    Do you know the paths to their dwellings?
+21 Surely you know, for you were already born!
+    You have lived so many years!
+
+22 “Have you entered the storehouses of the snow
+    or seen the storehouses of the hail,
+23 which I reserve for times of trouble,
+    for days of war and battle?
+24 What is the way to the place where the lightning is dispersed,
+    or the place where the east winds are scattered over the earth?
+25 Who cuts a channel for the torrents of rain,
+    and a path for the thunderstorm,
+26 to water a land where no one lives,
+    an uninhabited desert,
+27 to satisfy a desolate wasteland
+    and make it sprout with grass?
+28 Does the rain have a father?
+    Who fathers the drops of dew?
+29 From whose womb comes the ice?
+    Who gives birth to the frost from the heavens
+30 when the waters become hard as stone,
+    when the surface of the deep is frozen?
+
+31 “Can you bind the chains[b] of the Pleiades?
+    Can you loosen Orion’s belt?
+32 Can you bring forth the constellations in their seasons[c]
+    or lead out the Bear[d] with its cubs?
+33 Do you know the laws of the heavens?
+    Can you set up God’s[e] dominion over the earth?
+
+34 “Can you raise your voice to the clouds
+    and cover yourself with a flood of water?
+35 Do you send the lightning bolts on their way?
+    Do they report to you, ‘Here we are’?
+36 Who gives the ibis wisdom[f]
+    or gives the rooster understanding?[g]
+37 Who has the wisdom to count the clouds?
+    Who can tip over the water jars of the heavens
+38 when the dust becomes hard
+    and the clods of earth stick together?
+
+39 “Do you hunt the prey for the lioness
+    and satisfy the hunger of the lions
+40 when they crouch in their dens
+    or lie in wait in a thicket?
+41 Who provides food for the raven
+    when its young cry out to God
+    and wander about for lack of food?
 
               </p>
     </div>
@@ -5422,7 +6232,8 @@ the wicked are no longer remembered
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XLII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>    Praise God, the story is NOT OVER YET...WOW! That is a good place for a selah. Job's journey continues in the chapters under construction!
+
 
 
               </p>
