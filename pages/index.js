@@ -4358,8 +4358,62 @@ Zophar
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  12 Then Job replied:
 
+2 “Doubtless you are the only people who matter,
+    and wisdom will die with you!
+3 But I have a mind as well as you;
+    I am not inferior to you.
+    Who does not know all these things?
+
+4 “I have become a laughingstock to my friends,
+    though I called on God and he answered—
+    a mere laughingstock, though righteous and blameless!
+5 Those who are at ease have contempt for misfortune
+    as the fate of those whose feet are slipping.
+6 The tents of marauders are undisturbed,
+    and those who provoke God are secure—
+    those God has in his hand.[a]
+
+7 “But ask the animals, and they will teach you,
+    or the birds in the sky, and they will tell you;
+8 or speak to the earth, and it will teach you,
+    or let the fish in the sea inform you.
+9 Which of all these does not know
+    that the hand of the Lord has done this?
+10 In his hand is the life of every creature
+    and the breath of all mankind.
+11 Does not the ear test words
+    as the tongue tastes food?
+12 Is not wisdom found among the aged?
+    Does not long life bring understanding?
+
+13 “To God belong wisdom and power;
+    counsel and understanding are his.
+14 What he tears down cannot be rebuilt;
+    those he imprisons cannot be released.
+15 If he holds back the waters, there is drought;
+    if he lets them loose, they devastate the land.
+16 To him belong strength and insight;
+    both deceived and deceiver are his.
+17 He leads rulers away stripped
+    and makes fools of judges.
+18 He takes off the shackles put on by kings
+    and ties a loincloth[b] around their waist.
+19 He leads priests away stripped
+    and overthrows officials long established.
+20 He silences the lips of trusted advisers
+    and takes away the discernment of elders.
+21 He pours contempt on nobles
+    and disarms the mighty.
+22 He reveals the deep things of darkness
+    and brings utter darkness into the light.
+23 He makes nations great, and destroys them;
+    he enlarges nations, and disperses them.
+24 He deprives the leaders of the earth of their reason;
+    he makes them wander in a trackless waste.
+25 They grope in darkness with no light;
+    he makes them stagger like drunkards.
 
               </p>
     </div>
@@ -4368,7 +4422,68 @@ Zophar
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XIII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  13 “My eyes have seen all this,
+    my ears have heard and understood it.
+2 What you know, I also know;
+    I am not inferior to you.
+3 But I desire to speak to the Almighty
+    and to argue my case with God.
+4 You, however, smear me with lies;
+    you are worthless physicians, all of you!
+5 If only you would be altogether silent!
+    For you, that would be wisdom.
+6 Hear now my argument;
+    listen to the pleas of my lips.
+7 Will you speak wickedly on God’s behalf?
+    Will you speak deceitfully for him?
+8 Will you show him partiality?
+    Will you argue the case for God?
+9 Would it turn out well if he examined you?
+    Could you deceive him as you might deceive a mortal?
+10 He would surely call you to account
+    if you secretly showed partiality.
+11 Would not his splendor terrify you?
+    Would not the dread of him fall on you?
+12 Your maxims are proverbs of ashes;
+    your defenses are defenses of clay.
+
+13 “Keep silent and let me speak;
+    then let come to me what may.
+14 Why do I put myself in jeopardy
+    and take my life in my hands?
+15 Though he slay me, yet will I hope in him;
+    I will surely[a] defend my ways to his face.
+16 Indeed, this will turn out for my deliverance,
+    for no godless person would dare come before him!
+17 Listen carefully to what I say;
+    let my words ring in your ears.
+18 Now that I have prepared my case,
+    I know I will be vindicated.
+19 Can anyone bring charges against me?
+    If so, I will be silent and die.
+
+20 “Only grant me these two things, God,
+    and then I will not hide from you:
+21 Withdraw your hand far from me,
+    and stop frightening me with your terrors.
+22 Then summon me and I will answer,
+    or let me speak, and you reply to me.
+23 How many wrongs and sins have I committed?
+    Show me my offense and my sin.
+24 Why do you hide your face
+    and consider me your enemy?
+25 Will you torment a windblown leaf?
+    Will you chase after dry chaff?
+26 For you write down bitter things against me
+    and make me reap the sins of my youth.
+27 You fasten my feet in shackles;
+    you keep close watch on all my paths
+    by putting marks on the soles of my feet.
+
+28 “So man wastes away like something rotten,
+    like a garment eaten by moths.
+
+
 
 
               </p>
@@ -4378,8 +4493,60 @@ Zophar
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XIV</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p> 14 “Mortals, born of woman,
+    are of few days and full of trouble.
+2 They spring up like flowers and wither away;
+    like fleeting shadows, they do not endure.
+3 Do you fix your eye on them?
+    Will you bring them[a] before you for judgment?
+4 Who can bring what is pure from the impure?
+    No one!
+5 A person’s days are determined;
+    you have decreed the number of his months
+    and have set limits he cannot exceed.
+6 So look away from him and let him alone,
+    till he has put in his time like a hired laborer.
 
+7 “At least there is hope for a tree:
+    If it is cut down, it will sprout again,
+    and its new shoots will not fail.
+8 Its roots may grow old in the ground
+    and its stump die in the soil,
+9 yet at the scent of water it will bud
+    and put forth shoots like a plant.
+10 But a man dies and is laid low;
+    he breathes his last and is no more.
+11 As the water of a lake dries up
+    or a riverbed becomes parched and dry,
+12 so he lies down and does not rise;
+    till the heavens are no more, people will not awake
+    or be roused from their sleep.
+
+13 “If only you would hide me in the grave
+    and conceal me till your anger has passed!
+If only you would set me a time
+    and then remember me!
+14 If someone dies, will they live again?
+    All the days of my hard service
+    I will wait for my renewal[b] to come.
+15 You will call and I will answer you;
+    you will long for the creature your hands have made.
+16 Surely then you will count my steps
+    but not keep track of my sin.
+17 My offenses will be sealed up in a bag;
+    you will cover over my sin.
+
+18 “But as a mountain erodes and crumbles
+    and as a rock is moved from its place,
+19 as water wears away stones
+    and torrents wash away the soil,
+    so you destroy a person’s hope.
+20 You overpower them once for all, and they are gone;
+    you change their countenance and send them away.
+21 If their children are honored, they do not know it;
+    if their offspring are brought low, they do not see it.
+22 They feel but the pain of their own bodies
+    and mourn only for themselves.”
 
               </p>
     </div>
@@ -4388,7 +4555,83 @@ Zophar
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XV</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  Eliphaz
+15 Then Eliphaz the Temanite replied:
+
+2 “Would a wise person answer with empty notions
+    or fill their belly with the hot east wind?
+3 Would they argue with useless words,
+    with speeches that have no value?
+4 But you even undermine piety
+    and hinder devotion to God.
+5 Your sin prompts your mouth;
+    you adopt the tongue of the crafty.
+6 Your own mouth condemns you, not mine;
+    your own lips testify against you.
+
+7 “Are you the first man ever born?
+    Were you brought forth before the hills?
+8 Do you listen in on God’s council?
+    Do you have a monopoly on wisdom?
+9 What do you know that we do not know?
+    What insights do you have that we do not have?
+10 The gray-haired and the aged are on our side,
+    men even older than your father.
+11 Are God’s consolations not enough for you,
+    words spoken gently to you?
+12 Why has your heart carried you away,
+    and why do your eyes flash,
+13 so that you vent your rage against God
+    and pour out such words from your mouth?
+
+14 “What are mortals, that they could be pure,
+    or those born of woman, that they could be righteous?
+15 If God places no trust in his holy ones,
+    if even the heavens are not pure in his eyes,
+16 how much less mortals, who are vile and corrupt,
+    who drink up evil like water!
+
+17 “Listen to me and I will explain to you;
+    let me tell you what I have seen,
+18 what the wise have declared,
+    hiding nothing received from their ancestors
+19 (to whom alone the land was given
+    when no foreigners moved among them):
+20 All his days the wicked man suffers torment,
+    the ruthless man through all the years stored up for him.
+21 Terrifying sounds fill his ears;
+    when all seems well, marauders attack him.
+22 He despairs of escaping the realm of darkness;
+    he is marked for the sword.
+23 He wanders about for food like a vulture;
+    he knows the day of darkness is at hand.
+24 Distress and anguish fill him with terror;
+    troubles overwhelm him, like a king poised to attack,
+25 because he shakes his fist at God
+    and vaunts himself against the Almighty,
+26 defiantly charging against him
+    with a thick, strong shield.
+
+27 “Though his face is covered with fat
+    and his waist bulges with flesh,
+28 he will inhabit ruined towns
+    and houses where no one lives,
+    houses crumbling to rubble.
+29 He will no longer be rich and his wealth will not endure,
+    nor will his possessions spread over the land.
+30 He will not escape the darkness;
+    a flame will wither his shoots,
+    and the breath of God’s mouth will carry him away.
+31 Let him not deceive himself by trusting what is worthless,
+    for he will get nothing in return.
+32 Before his time he will wither,
+    and his branches will not flourish.
+33 He will be like a vine stripped of its unripe grapes,
+    like an olive tree shedding its blossoms.
+34 For the company of the godless will be barren,
+    and fire will consume the tents of those who love bribes.
+35 They conceive trouble and give birth to evil;
+    their womb fashions deceit.”
 
 
               </p>
@@ -4398,7 +4641,61 @@ Zophar
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XVI</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  Job
+16 Then Job replied:
+
+2 “I have heard many things like these;
+    you are miserable comforters, all of you!
+3 Will your long-winded speeches never end?
+    What ails you that you keep on arguing?
+4 I also could speak like you,
+    if you were in my place;
+I could make fine speeches against you
+    and shake my head at you.
+5 But my mouth would encourage you;
+    comfort from my lips would bring you relief.
+
+6 “Yet if I speak, my pain is not relieved;
+    and if I refrain, it does not go away.
+7 Surely, God, you have worn me out;
+    you have devastated my entire household.
+8 You have shriveled me up—and it has become a witness;
+    my gauntness rises up and testifies against me.
+9 God assails me and tears me in his anger
+    and gnashes his teeth at me;
+    my opponent fastens on me his piercing eyes.
+10 People open their mouths to jeer at me;
+    they strike my cheek in scorn
+    and unite together against me.
+11 God has turned me over to the ungodly
+    and thrown me into the clutches of the wicked.
+12 All was well with me, but he shattered me;
+    he seized me by the neck and crushed me.
+He has made me his target;
+13     his archers surround me.
+Without pity, he pierces my kidneys
+    and spills my gall on the ground.
+14 Again and again he bursts upon me;
+    he rushes at me like a warrior.
+
+15 “I have sewed sackcloth over my skin
+    and buried my brow in the dust.
+16 My face is red with weeping,
+    dark shadows ring my eyes;
+17 yet my hands have been free of violence
+    and my prayer is pure.
+
+18 “Earth, do not cover my blood;
+    may my cry never be laid to rest!
+19 Even now my witness is in heaven;
+    my advocate is on high.
+20 My intercessor is my friend[a]
+    as my eyes pour out tears to God;
+21 on behalf of a man he pleads with God
+    as one pleads for a friend.
+
+22 “Only a few years will pass
+    before I take the path of no return.
 
 
               </p>
@@ -4409,8 +4706,42 @@ Zophar
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XVII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p> 17 1 My spirit is broken,
+    my days are cut short,
+    the grave awaits me.
+2 Surely mockers surround me;
+    my eyes must dwell on their hostility.
 
+3 “Give me, O God, the pledge you demand.
+    Who else will put up security for me?
+4 You have closed their minds to understanding;
+    therefore you will not let them triumph.
+5 If anyone denounces their friends for reward,
+    the eyes of their children will fail.
+
+6 “God has made me a byword to everyone,
+    a man in whose face people spit.
+7 My eyes have grown dim with grief;
+    my whole frame is but a shadow.
+8 The upright are appalled at this;
+    the innocent are aroused against the ungodly.
+9 Nevertheless, the righteous will hold to their ways,
+    and those with clean hands will grow stronger.
+
+10 “But come on, all of you, try again!
+    I will not find a wise man among you.
+11 My days have passed, my plans are shattered.
+    Yet the desires of my heart
+12 turn night into day;
+    in the face of the darkness light is near.
+13 If the only home I hope for is the grave,
+    if I spread out my bed in the realm of darkness,
+14 if I say to corruption, ‘You are my father,’
+    and to the worm, ‘My mother’ or ‘My sister,’
+15 where then is my hope—
+    who can see any hope for me?
+16 Will it go down to the gates of death?
+    Will we descend together into the dust?”
 
               </p>
     </div>              
@@ -4419,7 +4750,53 @@ Zophar
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XVIII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p> Bildad
+18 Then Bildad the Shuhite replied:
+
+2 “When will you end these speeches?
+    Be sensible, and then we can talk.
+3 Why are we regarded as cattle
+    and considered stupid in your sight?
+4 You who tear yourself to pieces in your anger,
+    is the earth to be abandoned for your sake?
+    Or must the rocks be moved from their place?
+
+5 “The lamp of a wicked man is snuffed out;
+    the flame of his fire stops burning.
+6 The light in his tent becomes dark;
+    the lamp beside him goes out.
+7 The vigor of his step is weakened;
+    his own schemes throw him down.
+8 His feet thrust him into a net;
+    he wanders into its mesh.
+9 A trap seizes him by the heel;
+    a snare holds him fast.
+10 A noose is hidden for him on the ground;
+    a trap lies in his path.
+11 Terrors startle him on every side
+    and dog his every step.
+12 Calamity is hungry for him;
+    disaster is ready for him when he falls.
+13 It eats away parts of his skin;
+    death’s firstborn devours his limbs.
+14 He is torn from the security of his tent
+    and marched off to the king of terrors.
+15 Fire resides[a] in his tent;
+    burning sulfur is scattered over his dwelling.
+16 His roots dry up below
+    and his branches wither above.
+17 The memory of him perishes from the earth;
+    he has no name in the land.
+18 He is driven from light into the realm of darkness
+    and is banished from the world.
+19 He has no offspring or descendants among his people,
+    no survivor where once he lived.
+20 People of the west are appalled at his fate;
+    those of the east are seized with horror.
+21 Surely such is the dwelling of an evil man;
+    such is the place of one who does not know God.”
+
+
 
 
               </p>
@@ -4429,8 +4806,73 @@ Zophar
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XIX</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  Job
+19 Then Job replied:
 
+2 “How long will you torment me
+    and crush me with words?
+3 Ten times now you have reproached me;
+    shamelessly you attack me.
+4 If it is true that I have gone astray,
+    my error remains my concern alone.
+5 If indeed you would exalt yourselves above me
+    and use my humiliation against me,
+6 then know that God has wronged me
+    and drawn his net around me.
+
+7 “Though I cry, ‘Violence!’ I get no response;
+    though I call for help, there is no justice.
+8 He has blocked my way so I cannot pass;
+    he has shrouded my paths in darkness.
+9 He has stripped me of my honor
+    and removed the crown from my head.
+10 He tears me down on every side till I am gone;
+    he uproots my hope like a tree.
+11 His anger burns against me;
+    he counts me among his enemies.
+12 His troops advance in force;
+    they build a siege ramp against me
+    and encamp around my tent.
+
+13 “He has alienated my family from me;
+    my acquaintances are completely estranged from me.
+14 My relatives have gone away;
+    my closest friends have forgotten me.
+15 My guests and my female servants count me a foreigner;
+    they look on me as on a stranger.
+16 I summon my servant, but he does not answer,
+    though I beg him with my own mouth.
+17 My breath is offensive to my wife;
+    I am loathsome to my own family.
+18 Even the little boys scorn me;
+    when I appear, they ridicule me.
+19 All my intimate friends detest me;
+    those I love have turned against me.
+20 I am nothing but skin and bones;
+    I have escaped only by the skin of my teeth.[a]
+
+21 “Have pity on me, my friends, have pity,
+    for the hand of God has struck me.
+22 Why do you pursue me as God does?
+    Will you never get enough of my flesh?
+
+23 “Oh, that my words were recorded,
+    that they were written on a scroll,
+24 that they were inscribed with an iron tool on[b] lead,
+    or engraved in rock forever!
+25 I know that my redeemer[c] lives,
+    and that in the end he will stand on the earth.[d]
+26 And after my skin has been destroyed,
+    yet[e] in[f] my flesh I will see God;
+27 I myself will see him
+    with my own eyes—I, and not another.
+    How my heart yearns within me!
+
+28 “If you say, ‘How we will hound him,
+    since the root of the trouble lies in him,[g]’
+29 you should fear the sword yourselves;
+    for wrath will bring punishment by the sword,
+    and then you will know that there is judgment.”
 
               </p>
     </div>
@@ -4439,7 +4881,73 @@ Zophar
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XX</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  Zophar
+20 Then Zophar the Naamathite replied:
+
+2 “My troubled thoughts prompt me to answer
+    because I am greatly disturbed.
+3 I hear a rebuke that dishonors me,
+    and my understanding inspires me to reply.
+
+4 “Surely you know how it has been from of old,
+    ever since mankind[a] was placed on the earth,
+5 that the mirth of the wicked is brief,
+    the joy of the godless lasts but a moment.
+6 Though the pride of the godless person reaches to the heavens
+    and his head touches the clouds,
+7 he will perish forever, like his own dung;
+    those who have seen him will say, ‘Where is he?’
+8 Like a dream he flies away, no more to be found,
+    banished like a vision of the night.
+9 The eye that saw him will not see him again;
+    his place will look on him no more.
+10 His children must make amends to the poor;
+    his own hands must give back his wealth.
+11 The youthful vigor that fills his bones
+    will lie with him in the dust.
+
+12 “Though evil is sweet in his mouth
+    and he hides it under his tongue,
+13 though he cannot bear to let it go
+    and lets it linger in his mouth,
+14 yet his food will turn sour in his stomach;
+    it will become the venom of serpents within him.
+15 He will spit out the riches he swallowed;
+    God will make his stomach vomit them up.
+16 He will suck the poison of serpents;
+    the fangs of an adder will kill him.
+17 He will not enjoy the streams,
+    the rivers flowing with honey and cream.
+18 What he toiled for he must give back uneaten;
+    he will not enjoy the profit from his trading.
+19 For he has oppressed the poor and left them destitute;
+    he has seized houses he did not build.
+
+20 “Surely he will have no respite from his craving;
+    he cannot save himself by his treasure.
+21 Nothing is left for him to devour;
+    his prosperity will not endure.
+22 In the midst of his plenty, distress will overtake him;
+    the full force of misery will come upon him.
+23 When he has filled his belly,
+    God will vent his burning anger against him
+    and rain down his blows on him.
+24 Though he flees from an iron weapon,
+    a bronze-tipped arrow pierces him.
+25 He pulls it out of his back,
+    the gleaming point out of his liver.
+Terrors will come over him;
+26     total darkness lies in wait for his treasures.
+A fire unfanned will consume him
+    and devour what is left in his tent.
+27 The heavens will expose his guilt;
+    the earth will rise up against him.
+28 A flood will carry off his house,
+    rushing waters[b] on the day of God’s wrath.
+29 Such is the fate God allots the wicked,
+    the heritage appointed for them by God.”
+
+
 
 
               </p>
