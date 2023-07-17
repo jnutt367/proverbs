@@ -3650,7 +3650,7 @@ Fear God and keep his commandments,
           </div>
                            
                                 <p className={styles.parables}>
-        Job is currently under construction....will be finished shortly!!!!!
+        Job questions the reason for sufferring, especially sufferring of people who love God & do good works...
                                   </p>
              
                                   <div className={styles.thirdnav}>
@@ -3685,8 +3685,16 @@ Fear God and keep his commandments,
         </a> 
          
                </div>
-
-      <div className={styles.iframe}>                     
+<div className={styles.cashapp}>
+                                  <a href="https://cash.app/$JNutt367">
+                         DONATE    
+                               
+                                 
+                                  </a>                                  
+           
+                 </div>      
+                                  
+                                  <div className={styles.iframe}>                     
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/GswSg2ohqmA?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                                   </div>             
