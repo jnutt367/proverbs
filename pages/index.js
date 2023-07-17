@@ -6201,7 +6201,73 @@ When his voice resounds,
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXXIX</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  39 “Do you know when the mountain goats give birth?
+    Do you watch when the doe bears her fawn?
+2 Do you count the months till they bear?
+    Do you know the time they give birth?
+3 They crouch down and bring forth their young;
+    their labor pains are ended.
+4 Their young thrive and grow strong in the wilds;
+    they leave and do not return.
+
+5 “Who let the wild donkey go free?
+    Who untied its ropes?
+6 I gave it the wasteland as its home,
+    the salt flats as its habitat.
+7 It laughs at the commotion in the town;
+    it does not hear a driver’s shout.
+8 It ranges the hills for its pasture
+    and searches for any green thing.
+
+9 “Will the wild ox consent to serve you?
+    Will it stay by your manger at night?
+10 Can you hold it to the furrow with a harness?
+    Will it till the valleys behind you?
+11 Will you rely on it for its great strength?
+    Will you leave your heavy work to it?
+12 Can you trust it to haul in your grain
+    and bring it to your threshing floor?
+
+13 “The wings of the ostrich flap joyfully,
+    though they cannot compare
+    with the wings and feathers of the stork.
+14 She lays her eggs on the ground
+    and lets them warm in the sand,
+15 unmindful that a foot may crush them,
+    that some wild animal may trample them.
+16 She treats her young harshly, as if they were not hers;
+    she cares not that her labor was in vain,
+17 for God did not endow her with wisdom
+    or give her a share of good sense.
+18 Yet when she spreads her feathers to run,
+    she laughs at horse and rider.
+
+19 “Do you give the horse its strength
+    or clothe its neck with a flowing mane?
+20 Do you make it leap like a locust,
+    striking terror with its proud snorting?
+21 It paws fiercely, rejoicing in its strength,
+    and charges into the fray.
+22 It laughs at fear, afraid of nothing;
+    it does not shy away from the sword.
+23 The quiver rattles against its side,
+    along with the flashing spear and lance.
+24 In frenzied excitement it eats up the ground;
+    it cannot stand still when the trumpet sounds.
+25 At the blast of the trumpet it snorts, ‘Aha!’
+    It catches the scent of battle from afar,
+    the shout of commanders and the battle cry.
+
+26 “Does the hawk take flight by your wisdom
+    and spread its wings toward the south?
+27 Does the eagle soar at your command
+    and build its nest on high?
+28 It dwells on a cliff and stays there at night;
+    a rocky crag is its stronghold.
+29 From there it looks for food;
+    its eyes detect it from afar.
+30 Its young ones feast on blood,
+    and where the slain are, there it is.”
 
 
               </p>
@@ -6211,8 +6277,60 @@ When his voice resounds,
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XL</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  40 The Lord said to Job:
 
+2 “Will the one who contends with the Almighty correct him?
+    Let him who accuses God answer him!”
+
+3 Then Job answered the Lord:
+
+4 “I am unworthy—how can I reply to you?
+    I put my hand over my mouth.
+5 I spoke once, but I have no answer—
+    twice, but I will say no more.”
+
+6 Then the Lord spoke to Job out of the storm:
+
+7 “Brace yourself like a man;
+    I will question you,
+    and you shall answer me.
+
+8 “Would you discredit my justice?
+    Would you condemn me to justify yourself?
+9 Do you have an arm like God’s,
+    and can your voice thunder like his?
+10 Then adorn yourself with glory and splendor,
+    and clothe yourself in honor and majesty.
+11 Unleash the fury of your wrath,
+    look at all who are proud and bring them low,
+12 look at all who are proud and humble them,
+    crush the wicked where they stand.
+13 Bury them all in the dust together;
+    shroud their faces in the grave.
+14 Then I myself will admit to you
+    that your own right hand can save you.
+
+15 “Look at Behemoth,
+    which I made along with you
+    and which feeds on grass like an ox.
+16 What strength it has in its loins,
+    what power in the muscles of its belly!
+17 Its tail sways like a cedar;
+    the sinews of its thighs are close-knit.
+18 Its bones are tubes of bronze,
+    its limbs like rods of iron.
+19 It ranks first among the works of God,
+    yet its Maker can approach it with his sword.
+20 The hills bring it their produce,
+    and all the wild animals play nearby.
+21 Under the lotus plants it lies,
+    hidden among the reeds in the marsh.
+22 The lotuses conceal it in their shadow;
+    the poplars by the stream surround it.
+23 A raging river does not alarm it;
+    it is secure, though the Jordan should surge against its mouth.
+24 Can anyone capture it by the eyes,
+    or trap it and pierce its nose?
 
               </p>
     </div>
@@ -6222,7 +6340,75 @@ When his voice resounds,
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XLI</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  41 [a]“Can you pull in Leviathan with a fishhook
+    or tie down its tongue with a rope?
+2 Can you put a cord through its nose
+    or pierce its jaw with a hook?
+3 Will it keep begging you for mercy?
+    Will it speak to you with gentle words?
+4 Will it make an agreement with you
+    for you to take it as your slave for life?
+5 Can you make a pet of it like a bird
+    or put it on a leash for the young women in your house?
+6 Will traders barter for it?
+    Will they divide it up among the merchants?
+7 Can you fill its hide with harpoons
+    or its head with fishing spears?
+8 If you lay a hand on it,
+    you will remember the struggle and never do it again!
+9 Any hope of subduing it is false;
+    the mere sight of it is overpowering.
+10 No one is fierce enough to rouse it.
+    Who then is able to stand against me?
+11 Who has a claim against me that I must pay?
+    Everything under heaven belongs to me.
+
+12 “I will not fail to speak of Leviathan’s limbs,
+    its strength and its graceful form.
+13 Who can strip off its outer coat?
+    Who can penetrate its double coat of armor[b]?
+14 Who dares open the doors of its mouth,
+    ringed about with fearsome teeth?
+15 Its back has[c] rows of shields
+    tightly sealed together;
+16 each is so close to the next
+    that no air can pass between.
+17 They are joined fast to one another;
+    they cling together and cannot be parted.
+18 Its snorting throws out flashes of light;
+    its eyes are like the rays of dawn.
+19 Flames stream from its mouth;
+    sparks of fire shoot out.
+20 Smoke pours from its nostrils
+    as from a boiling pot over burning reeds.
+21 Its breath sets coals ablaze,
+    and flames dart from its mouth.
+22 Strength resides in its neck;
+    dismay goes before it.
+23 The folds of its flesh are tightly joined;
+    they are firm and immovable.
+24 Its chest is hard as rock,
+    hard as a lower millstone.
+25 When it rises up, the mighty are terrified;
+    they retreat before its thrashing.
+26 The sword that reaches it has no effect,
+    nor does the spear or the dart or the javelin.
+27 Iron it treats like straw
+    and bronze like rotten wood.
+28 Arrows do not make it flee;
+    slingstones are like chaff to it.
+29 A club seems to it but a piece of straw;
+    it laughs at the rattling of the lance.
+30 Its undersides are jagged potsherds,
+    leaving a trail in the mud like a threshing sledge.
+31 It makes the depths churn like a boiling caldron
+    and stirs up the sea like a pot of ointment.
+32 It leaves a glistening wake behind it;
+    one would think the deep had white hair.
+33 Nothing on earth is its equal—
+    a creature without fear.
+34 It looks down on all that are haughty;
+    it is king over all that are proud.”
 
 
               </p>
@@ -6232,9 +6418,43 @@ When his voice resounds,
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XLII</h2>
-            <p>    Praise God, the story is NOT OVER YET...WOW! That is a good place for a selah. Job's journey continues in the chapters under construction!
+            <p>   
+Job
+42 Then Job replied to the Lord:
+
+2 “I know that you can do all things;
+    no purpose of yours can be thwarted.
+3 You asked, ‘Who is this that obscures my plans without knowledge?’
+    Surely I spoke of things I did not understand,
+    things too wonderful for me to know.
+
+4 “You said, ‘Listen now, and I will speak;
+    I will question you,
+    and you shall answer me.’
+5 My ears had heard of you
+    but now my eyes have seen you.
+6 Therefore I despise myself
+    and repent in dust and ashes.”
+
+Epilogue
+7 After the Lord had said these things to Job, he said to Eliphaz the Temanite, “I am angry with you and your two friends, because you have not spoken the truth about me, as my servant Job has. 8 So now take seven bulls and seven rams and go to my servant Job and sacrifice a burnt offering for yourselves. My servant Job will pray for you, and I will accept his prayer and not deal with you according to your folly. You have not spoken the truth about me, as my servant Job has.” 9 So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite did what the Lord told them; and the Lord accepted Job’s prayer.
+
+10 After Job had prayed for his friends, the Lord restored his fortunes and gave him twice as much as he had before. 11 All his brothers and sisters and everyone who had known him before came and ate with him in his house. They comforted and consoled him over all the trouble the Lord had brought on him, and each one gave him a piece of silver[a] and a gold ring.
+
+12 The Lord blessed the latter part of Job’s life more than the former part. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand donkeys. 13 And he also had seven sons and three daughters. 14 The first daughter he named Jemimah, the second Keziah and the third Keren-Happuch. 15 Nowhere in all the land were there found women as beautiful as Job’s daughters, and their father granted them an inheritance along with their brothers.
+
+16 After this, Job lived a hundred and forty years; he saw his children and their children to the fourth generation. 17 And so Job died, an old man and full of years.
+  
+  </p>
+    </div>    
 
 
+              <div
+            className={styles.chapt}
+          >
+         <h2 className={styles.thirdchapter}> Become a Subscriber</h2>
+            <p> 
+Here I will go into details about the Youtube community connected to the app when I am finished with this portion here! 
 
               </p>
     </div>    
@@ -6243,34 +6463,23 @@ When his voice resounds,
               <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XLIII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
-
-
-              </p>
-    </div>    
-
-
-              <div
-            className={styles.chapt}
-          >
-         <h2 className={styles.thirdchapter}> Job Chapter XLIV</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+         <h2 className={styles.thirdchapter}> More to come</h2>
+            <p>  Praise God, the story is NOT OVER YET...
 
 
               </p>
     </div>    
               
               
-              <div
+                <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XLV</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+         <h2 className={styles.thirdchapter}> More to come</h2>
+            <p>  Praise God, the story is NOT OVER YET...
 
 
               </p>
-    </div>                  
+    </div>         
               
               </div>
   </div>
