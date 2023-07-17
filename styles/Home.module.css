@@ -308,6 +308,18 @@
     justify-content: space-around;
     position: sticky;    
 }
+
+.cashapp {
+    color: white;
+    top: -150px;
+    background-color: #8a0303;
+    z-index:10;
+    position: relative;
+    text-align: center;
+    font-size: 32px;
+    font-family: cursive, fantasy, Ariel;
+}  
+
 .nav a:hover {
     scale: 1.1;
     background-color: black;
