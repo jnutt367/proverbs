@@ -6463,31 +6463,29 @@ Epilogue
          <h2 className={styles.thirdchapter}> Become a Subscriber</h2>
             <p> 
 Here I will go into details about the Youtube community connected to the app when I am finished with this portion here! 
+              ALL ideas for this app are welcome. Become a part of the Word of God that is living and active as we share our journies with each other!!!
+
+                
 
               </p>
     </div>    
 
 
-              <div
+             
+ <a href="https://myproverbs.vercel.app/#job">
+    <div
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> More to come</h2>
-            <p>  Praise God, the story is NOT OVER YET...
-
+            <p>  Praise God, the story is NOT OVER YET...what book should we ADD NEXT? I want YOUR OPINION on anything that you would think honors and uplifts the kingdom of our God!... OR just a style idea for the app lol!!
+              I appreciate feedback and welcome constructive criticiscm. God bless y'all! 
 
               </p>
     </div>    
+</a>
               
               
-                <div
-            className={styles.chapt}
-          >
-         <h2 className={styles.thirdchapter}> More to come</h2>
-            <p>  Praise God, the story is NOT OVER YET...
-
-
-              </p>
-    </div>         
+          
               
               </div>
   </div>
