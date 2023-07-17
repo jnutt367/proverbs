@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>PROVERBS, The WORD of GOD Risen</title>
+        <title>Wisdom Literature: PROVERBS, ECCLESIASTES & JOB</title>
         <meta name="description" content="Proverbs" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -4957,8 +4957,82 @@ A fire unfanned will consume him
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXI</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  Job
+21 Then Job replied:
 
+2 “Listen carefully to my words;
+    let this be the consolation you give me.
+3 Bear with me while I speak,
+    and after I have spoken, mock on.
+
+4 “Is my complaint directed to a human being?
+    Why should I not be impatient?
+5 Look at me and be appalled;
+    clap your hand over your mouth.
+6 When I think about this, I am terrified;
+    trembling seizes my body.
+7 Why do the wicked live on,
+    growing old and increasing in power?
+8 They see their children established around them,
+    their offspring before their eyes.
+9 Their homes are safe and free from fear;
+    the rod of God is not on them.
+10 Their bulls never fail to breed;
+    their cows calve and do not miscarry.
+11 They send forth their children as a flock;
+    their little ones dance about.
+12 They sing to the music of timbrel and lyre;
+    they make merry to the sound of the pipe.
+13 They spend their years in prosperity
+    and go down to the grave in peace.[a]
+14 Yet they say to God, ‘Leave us alone!
+    We have no desire to know your ways.
+15 Who is the Almighty, that we should serve him?
+    What would we gain by praying to him?’
+16 But their prosperity is not in their own hands,
+    so I stand aloof from the plans of the wicked.
+
+17 “Yet how often is the lamp of the wicked snuffed out?
+    How often does calamity come upon them,
+    the fate God allots in his anger?
+18 How often are they like straw before the wind,
+    like chaff swept away by a gale?
+19 It is said, ‘God stores up the punishment of the wicked for their children.’
+    Let him repay the wicked, so that they themselves will experience it!
+20 Let their own eyes see their destruction;
+    let them drink the cup of the wrath of the Almighty.
+21 For what do they care about the families they leave behind
+    when their allotted months come to an end?
+
+22 “Can anyone teach knowledge to God,
+    since he judges even the highest?
+23 One person dies in full vigor,
+    completely secure and at ease,
+24 well nourished in body,[b]
+    bones rich with marrow.
+25 Another dies in bitterness of soul,
+    never having enjoyed anything good.
+26 Side by side they lie in the dust,
+    and worms cover them both.
+
+27 “I know full well what you are thinking,
+    the schemes by which you would wrong me.
+28 You say, ‘Where now is the house of the great,
+    the tents where the wicked lived?’
+29 Have you never questioned those who travel?
+    Have you paid no regard to their accounts—
+30 that the wicked are spared from the day of calamity,
+    that they are delivered from[c] the day of wrath?
+31 Who denounces their conduct to their face?
+    Who repays them for what they have done?
+32 They are carried to the grave,
+    and watch is kept over their tombs.
+33 The soil in the valley is sweet to them;
+    everyone follows after them,
+    and a countless throng goes[d] before them.
+
+34 “So how can you console me with your nonsense?
+    Nothing is left of your answers but falsehood!”
 
               </p>
     </div>
@@ -4967,7 +5041,70 @@ A fire unfanned will consume him
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p> Eliphaz
+22 Then Eliphaz the Temanite replied:
+
+2 “Can a man be of benefit to God?
+    Can even a wise person benefit him?
+3 What pleasure would it give the Almighty if you were righteous?
+    What would he gain if your ways were blameless?
+
+4 “Is it for your piety that he rebukes you
+    and brings charges against you?
+5 Is not your wickedness great?
+    Are not your sins endless?
+6 You demanded security from your relatives for no reason;
+    you stripped people of their clothing, leaving them naked.
+7 You gave no water to the weary
+    and you withheld food from the hungry,
+8 though you were a powerful man, owning land—
+    an honored man, living on it.
+9 And you sent widows away empty-handed
+    and broke the strength of the fatherless.
+10 That is why snares are all around you,
+    why sudden peril terrifies you,
+11 why it is so dark you cannot see,
+    and why a flood of water covers you.
+
+12 “Is not God in the heights of heaven?
+    And see how lofty are the highest stars!
+13 Yet you say, ‘What does God know?
+    Does he judge through such darkness?
+14 Thick clouds veil him, so he does not see us
+    as he goes about in the vaulted heavens.’
+15 Will you keep to the old path
+    that the wicked have trod?
+16 They were carried off before their time,
+    their foundations washed away by a flood.
+17 They said to God, ‘Leave us alone!
+    What can the Almighty do to us?’
+18 Yet it was he who filled their houses with good things,
+    so I stand aloof from the plans of the wicked.
+19 The righteous see their ruin and rejoice;
+    the innocent mock them, saying,
+20 ‘Surely our foes are destroyed,
+    and fire devours their wealth.’
+
+21 “Submit to God and be at peace with him;
+    in this way prosperity will come to you.
+22 Accept instruction from his mouth
+    and lay up his words in your heart.
+23 If you return to the Almighty, you will be restored:
+    If you remove wickedness far from your tent
+24 and assign your nuggets to the dust,
+    your gold of Ophir to the rocks in the ravines,
+25 then the Almighty will be your gold,
+    the choicest silver for you.
+26 Surely then you will find delight in the Almighty
+    and will lift up your face to God.
+27 You will pray to him, and he will hear you,
+    and you will fulfill your vows.
+28 What you decide on will be done,
+    and light will shine on your ways.
+29 When people are brought low and you say, ‘Lift them up!’
+    then he will save the downcast.
+30 He will deliver even one who is not innocent,
+    who will be delivered through the cleanness of your hands.”
 
 
               </p>
@@ -4978,8 +5115,43 @@ A fire unfanned will consume him
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXIII</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  Job
+23 Then Job replied:
 
+2 “Even today my complaint is bitter;
+    his hand[a] is heavy in spite of[b] my groaning.
+3 If only I knew where to find him;
+    if only I could go to his dwelling!
+4 I would state my case before him
+    and fill my mouth with arguments.
+5 I would find out what he would answer me,
+    and consider what he would say to me.
+6 Would he vigorously oppose me?
+    No, he would not press charges against me.
+7 There the upright can establish their innocence before him,
+    and there I would be delivered forever from my judge.
+
+8 “But if I go to the east, he is not there;
+    if I go to the west, I do not find him.
+9 When he is at work in the north, I do not see him;
+    when he turns to the south, I catch no glimpse of him.
+10 But he knows the way that I take;
+    when he has tested me, I will come forth as gold.
+11 My feet have closely followed his steps;
+    I have kept to his way without turning aside.
+12 I have not departed from the commands of his lips;
+    I have treasured the words of his mouth more than my daily bread.
+
+13 “But he stands alone, and who can oppose him?
+    He does whatever he pleases.
+14 He carries out his decree against me,
+    and many such plans he still has in store.
+15 That is why I am terrified before him;
+    when I think of all this, I fear him.
+16 God has made my heart faint;
+    the Almighty has terrified me.
+17 Yet I am not silenced by the darkness,
+    by the thick darkness that covers my face.
 
               </p>
     </div>    
@@ -4989,7 +5161,69 @@ A fire unfanned will consume him
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXIV</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p> 24 “Why does the Almighty not set times for judgment?
+    Why must those who know him look in vain for such days?
+2 There are those who move boundary stones;
+    they pasture flocks they have stolen.
+3 They drive away the orphan’s donkey
+    and take the widow’s ox in pledge.
+4 They thrust the needy from the path
+    and force all the poor of the land into hiding.
+5 Like wild donkeys in the desert,
+    the poor go about their labor of foraging food;
+    the wasteland provides food for their children.
+6 They gather fodder in the fields
+    and glean in the vineyards of the wicked.
+7 Lacking clothes, they spend the night naked;
+    they have nothing to cover themselves in the cold.
+8 They are drenched by mountain rains
+    and hug the rocks for lack of shelter.
+9 The fatherless child is snatched from the breast;
+    the infant of the poor is seized for a debt.
+10 Lacking clothes, they go about naked;
+    they carry the sheaves, but still go hungry.
+11 They crush olives among the terraces[a];
+    they tread the winepresses, yet suffer thirst.
+12 The groans of the dying rise from the city,
+    and the souls of the wounded cry out for help.
+    But God charges no one with wrongdoing.
+
+13 “There are those who rebel against the light,
+    who do not know its ways
+    or stay in its paths.
+14 When daylight is gone, the murderer rises up,
+    kills the poor and needy,
+    and in the night steals forth like a thief.
+15 The eye of the adulterer watches for dusk;
+    he thinks, ‘No eye will see me,’
+    and he keeps his face concealed.
+16 In the dark, thieves break into houses,
+    but by day they shut themselves in;
+    they want nothing to do with the light.
+17 For all of them, midnight is their morning;
+    they make friends with the terrors of darkness.
+
+18 “Yet they are foam on the surface of the water;
+    their portion of the land is cursed,
+    so that no one goes to the vineyards.
+19 As heat and drought snatch away the melted snow,
+    so the grave snatches away those who have sinned.
+20 The womb forgets them,
+    the worm feasts on them;
+the wicked are no longer remembered
+    but are broken like a tree.
+21 They prey on the barren and childless woman,
+    and to the widow they show no kindness.
+22 But God drags away the mighty by his power;
+    though they become established, they have no assurance of life.
+23 He may let them rest in a feeling of security,
+    but his eyes are on their ways.
+24 For a little while they are exalted, and then they are gone;
+    they are brought low and gathered up like all others;
+    they are cut off like heads of grain.
+
+25 “If this is not so, who can prove me false
+    and reduce my words to nothing?”
 
 
               </p>
@@ -4999,7 +5233,19 @@ A fire unfanned will consume him
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXV</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p> Bildad
+25 Then Bildad the Shuhite replied:
+
+2 “Dominion and awe belong to God;
+    he establishes order in the heights of heaven.
+3 Can his forces be numbered?
+    On whom does his light not rise?
+4 How then can a mortal be righteous before God?
+    How can one born of woman be pure?
+5 If even the moon is not bright
+    and the stars are not pure in his eyes,
+6 how much less a mortal, who is but a maggot—
+    a human being, who is only a worm!”
 
 
               </p>
@@ -5009,7 +5255,7 @@ A fire unfanned will consume him
             className={styles.chapt}
           >
          <h2 className={styles.thirdchapter}> Job Chapter XXVI</h2>
-            <p>  Praise God, the story is NOT OVER YET...Job's journey continues in the chapters under construction!
+            <p>  Praise God, the story is NOT OVER YET...WOW! That is a good place for a selah. Job's journey continues in the chapters under construction!
 
 
               </p>
