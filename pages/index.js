@@ -3685,14 +3685,7 @@ Fear God and keep his commandments,
         </a> 
          
                </div>
-<div className={styles.cashapp}>
-                                  <a href="https://cash.app/$JNutt367">
-                         DONATE    
-                               
-                                 
-                                  </a>                                  
-           
-                 </div>      
+
                                   
                                   <div className={styles.iframe}>                     
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/GswSg2ohqmA?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -6487,12 +6480,19 @@ Here I will go into details about the Youtube community connected to the app whe
         </a>
                 
        </div>    
-
-              
+           
               
           
               
               </div>
+                <div className={styles.cashapp}>
+                                  <a href="https://cash.app/$JNutt367">
+                         DONATE    
+                               
+                                 
+                                  </a>                                  
+           
+                 </div>                         
   </div>
   </main>
 
