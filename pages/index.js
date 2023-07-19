@@ -49,8 +49,8 @@ export default function Home() {
 
        <a href="https://the-word-of-god.vercel.app/">
               <Image 
-                                src="/upward_pointing.webp"
-                                alt="me thinking"
+                                src="/home.webp"
+                                alt="me praising"
                                 height={75}
                                 width={90}
                                 priority
