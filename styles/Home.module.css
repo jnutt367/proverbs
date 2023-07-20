@@ -319,11 +319,14 @@
     font-size: 32px;
     font-family: cursive, fantasy, Ariel;
 }  
+.nav a {
+    opacity: 0.9;
+}
 
 .nav a:hover {
     scale: 1.1;
-    background-color: black;
-    opacity: 0.9;
+    background-color: transparent;
+    opacity: 1;
     border: 2px dotted whitesmoke;
     border-radius: 50%;
 }
