@@ -6521,7 +6521,7 @@ Here I will go into details about the Youtube community connected to the app whe
           Song of Songs was nearly left out, thanks Carlos, for the accountability. A good brother in Christ!
                                   </p>
              
-                                  <div className={styles.secondnav}>
+                                  <div className={styles.nav2}>
                                   <a href="https://jesusparables.vercel.app/">
              <Image 
                                 src="/previous.webp"
@@ -6558,7 +6558,7 @@ Here I will go into details about the Youtube community connected to the app whe
              <iframe width="100%" height="315" src="https://www.youtube.com/embed/4KC7xE4fgOw?si=ufG24MxFIlzMMM5q?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                                   </div>             
-        <div className={styles.secondgrid}>
+        <div className={styles.grid2}>
                                     <div
             className={styles.chapt}
           >
