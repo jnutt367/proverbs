@@ -22,14 +22,8 @@ export default function Home() {
         <h1 className={styles.title}>
        PROVERBS
         </h1>
-         <div  className={styles.image}>
-       <Image 
-                                src="/proverbs.png"
-                                alt="Scrools and writing gear"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+         <div  className={styles.iframe}>
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/npSz9qLVy8o?si=VPczdKgBgLJllD9Y?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
                            
                                 <p className={styles.parables}>
