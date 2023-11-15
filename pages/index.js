@@ -32,7 +32,7 @@ export default function Home() {
              
                                   <div className={styles.nav}>
                                   <a href="https://jesusparables.vercel.app/">
-                                    <p>Previous</p>    
+                                    <p>Prev</p>    
              <Image 
                                 src="/previous.webp"
                                 alt="left"
