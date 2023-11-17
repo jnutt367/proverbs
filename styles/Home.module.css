@@ -173,7 +173,9 @@
     padding-top: 3rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
+.nav p {
+    color:gold;
+}
 .donateButton {
     width: 200px;
 }
@@ -502,7 +504,7 @@
 .chapter {
     background-color: #AA336A;
     background-image: linear-gradient(to bottom right, black, #8a0303);
-    color: black;
+    color: gold;
     opacity: 1;
     position: sticky;
     z-index: 1;
