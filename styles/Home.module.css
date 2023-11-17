@@ -283,6 +283,7 @@
 
 .nav {
     background-color: #AA336A;
+    background-image: linear-gradient(to bottom right, black, #8a0303);
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -382,6 +383,7 @@
 
 .grid {
     background-color: #AA336A;
+    background-image: linear-gradient(to bottom right, black, #8a0303);    
     color: black;
     display: flex;
     align-items: center;
@@ -499,7 +501,8 @@
 
 .chapter {
     background-color: #AA336A;
-    color: black                         ;
+    background-image: linear-gradient(to bottom right, black, #8a0303);
+    color: black;
     opacity: 1;
     position: sticky;
     z-index: 1;
