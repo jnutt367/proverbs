@@ -23,8 +23,9 @@ export default function Home() {
        PROVERBS
         </h1>
          <div  className={styles.iframe}>
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/J5csl8rEJvA?si=imkzSfC209DR58qz?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        </div>
+   
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/jFyGB3UBaL4?si=a8t0gDt_yT_1GkKx?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
                            
                                 <p className={styles.parables}>
           "For understanding proverbs & parables, sayings & riddles of the wise. The fear of the Lord is the beginning of knowledge"
