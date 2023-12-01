@@ -212,6 +212,10 @@ export default function Home() {
 
       </p>
           </div>
+                                 
+
+
+
 
           <div
             className={styles.card}
@@ -735,8 +739,9 @@ export default function Home() {
                             that her guests are deep in the realm of the dead. 
             </p>
           </div>                             
-                   
-
+                          </div>
+                          <div className={styles.grid}>
+                          
      <div
             className={styles.card}
           >
@@ -2656,7 +2661,11 @@ export default function Home() {
                                                           27 The righteous detest the dishonest;
                                                               the wicked detest the upright.
             </p>
-          </div>       
+          </div>   
+                                                                </div>
+
+
+<div className={styles.grid}>
      <div
             className={styles.card}
           >
@@ -2843,16 +2852,7 @@ export default function Home() {
           </div>  
             
 
-         <div
-            className={styles.card}
-          >
-         <h2 className={styles.chapter}> Proverbs Closing Statement</h2>
-            <p>
-               So, I put on Proverbs in order to get motivated to code out the rest of proverbs and WOULDNT YA KNOW IT... HE gave me the energy to do the whole build!!! Praise God now 
-I must get it styled correctly...ENJOY!    
-
-  
-            </p>
+      
 
   <p>
   And now...It is finished! Enjoy the new styles everyone & let me know what you think!! I am always seeking feedback. Hallelujah! Praise be to the Lord! I Jason, write this letter with my own hand
@@ -2862,8 +2862,14 @@ I must get it styled correctly...ENJOY!
     Keep scrolling down for the continuation of God's wisdom literature...Here is Ecclesiastes, the wise old teacher
     </p>
           </div>  
+    </div>
     
         </div>
+
+
+
+
+    
 
                               
                                   </div>
