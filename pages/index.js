@@ -71,7 +71,7 @@ export default function Home() {
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Gab04dPs_uA?autoplay=1&mute=1" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
                                   </div>             
         <div className={styles.grid}>
-          <div href="https://nextjs.org/docs" className={styles.card}>
+          <div href="" className={styles.card}>
             <h2 className={styles.chapter}> Proverbs I &darr;</h2>
             <p>
                                 1 The proverbs of Solomon son of David, king of Israel:
@@ -212,12 +212,13 @@ export default function Home() {
 
       </p>
           </div>
+                                  </div>
                                  
 
 
 
-
-          <div
+<div className={styles.grid}>
+                                  <div
             className={styles.card}
           >
             <h2 className={styles.chapter}>  Proverbs III &darr;</h2>
@@ -2662,10 +2663,10 @@ export default function Home() {
                                                               the wicked detest the upright.
             </p>
           </div>   
-                                                                </div>
+                                                       
 
 
-<div className={styles.grid}>
+
      <div
             className={styles.card}
           >
@@ -7110,7 +7111,7 @@ or like a young stag
           </p>
           </div>    
 
-
+      </div>
 
                 
                                   
