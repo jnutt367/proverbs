@@ -3645,30 +3645,33 @@ Fear God and keep his commandments,
              
                                   <div className={styles.nav}>
                                   <a href="https://jesusparables.vercel.app/">
+ <p>Parables</p>  
              <Image 
                                 src="/previous.webp"
                                 alt="left"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
-       <a href="https://the-word-of-god.vercel.app/">
+         <a href="https://cash.app/$JNutt367">
+                                  <p>Give</p>
               <Image 
-                                src="/upward_pointing.webp"
-                                alt="me thinking"
-                                height={75}
-                                width={90}
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://matthew-coral.vercel.app/">
+ <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="right"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
