@@ -71,8 +71,8 @@ export default function Home() {
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Gab04dPs_uA?autoplay=1&mute=1" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
                                   </div>             
      <div className={styles.grid}>
-          <div href="https://nextjs.org/docs" className={styles.card}>
-            <h2 className={styles.chapter}> Proverbs I &darr;</h2>
+          <div href="https://youtu.be/86IePTjWgcY?si=bQc_2hyBs7BY4xAj" className={styles.card}>
+            <h2 href="https://youtu.be/86IePTjWgcY?si=bQc_2hyBs7BY4xAj"className={styles.chapter}> Proverbs I</h2>
             <p>
                                 1 The proverbs of Solomon son of David, king of Israel:
 
@@ -157,7 +157,7 @@ export default function Home() {
   </div>
 
           <div className={styles.card}>
-            <h2 className={styles.chapter}> Proverbs II &darr;</h2>
+            <h2 className={styles.chapter}> Proverbs II</h2>
             <p>
                                            Moral Benefits of Wisdom
                                 2 My son, if you accept my words
@@ -216,7 +216,7 @@ export default function Home() {
           <div
             className={styles.card}
           >
-            <h2 className={styles.chapter}>  Proverbs III &darr;</h2>
+            <h2 className={styles.chapter}>  Proverbs III</h2>
             <p>
                                             Wisdom Bestows Well-Being
                               3 My son, do not forget my teaching,
