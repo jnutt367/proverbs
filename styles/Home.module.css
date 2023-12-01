@@ -8,7 +8,8 @@
 
 .container {
   background-color: #EC4091;
-  background-image: linear-gradient(to bottom right, #EC4091, #8A4766);  width: 100%;
+  background-image: linear-gradient(to bottom right, #8F1A51 , #8A3F62);  
+  width: 100%;
   display: grid;
   align-items: center;
   justify-content: center;
@@ -213,10 +214,10 @@
 
 
 .title {
-  color: white;
+  color: gold;
   position: sticky; 
-  background-color: black;
-  opacity: 0.5;
+  background-color: transparent;
+  opacity: 0.8;
   padding-top: 40px;
   z-index: 2;
   top: -45px;
@@ -285,7 +286,7 @@
 
 .nav {
     background-color: #AA336A;
-    background-image: linear-gradient(to bottom right, #8A4766, #EC4091);
+    background-image: linear-gradient(to bottom right, #8A3F62, #8F1A51); 
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -385,7 +386,7 @@
 
 .grid {
     background-color: #AA336A;
-    background-image: linear-gradient(to bottom right, #8A4766, #EC4091);   
+    background-image: linear-gradient(to bottom right, #8A3F62, #8F1A51); 
     color: black;
     display: flex;
     align-items: center;
@@ -503,7 +504,7 @@
 
 .chapter {
     background-color: #AA336A;
-    background-image: linear-gradient(to bottom right, #EC4091, #8A4766);
+    background-image: linear-gradient(to bottom right, #8F1A51, #8A3F62); 
     color: gold;
     opacity: 1;
     position: sticky;
