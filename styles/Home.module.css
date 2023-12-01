@@ -317,11 +317,12 @@
     color: white;
     top: 50px;
     background-color: #8a0303;
+    background-image: linear-gradient(to bottom right, #9A838E, #8A3F62);  
     z-index:10;
     position: relative;
     text-align: center;
     font-size: 32px;
-    font-family: cursive, fantasy, Ariel;
+    font-family: fantasy, Ariel;
 }  
 .nav a {
     opacity: 0.9;
