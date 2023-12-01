@@ -6476,7 +6476,7 @@ Here I will go into details about the Youtube community connected to the app whe
               </div>
                 <div className={styles.cashapp}>
                                   <a href="https://cash.app/$JNutt367">
-                         DONATE    
+                         FREE WILL OFFERINGS!
                                
                                  
                                   </a>                                  
