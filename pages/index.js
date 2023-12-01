@@ -70,8 +70,8 @@ export default function Home() {
       <div className={styles.iframe}>                     
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Gab04dPs_uA?autoplay=1&mute=1" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
                                   </div>             
-        <div className={styles.grid}>
-          <div href="" className={styles.card}>
+    <div className={styles.grid}>
+          <div href="https://nextjs.org/docs" className={styles.card}>
             <h2 className={styles.chapter}> Proverbs I &darr;</h2>
             <p>
                                 1 The proverbs of Solomon son of David, king of Israel:
@@ -212,13 +212,8 @@ export default function Home() {
 
       </p>
           </div>
-                                  </div>
-                                 
 
-
-
-<div className={styles.grid}>
-                                  <div
+          <div
             className={styles.card}
           >
             <h2 className={styles.chapter}>  Proverbs III &darr;</h2>
@@ -740,9 +735,8 @@ export default function Home() {
                             that her guests are deep in the realm of the dead. 
             </p>
           </div>                             
-                          </div>
-                          <div className={styles.grid}>
-                          
+                   
+
      <div
             className={styles.card}
           >
@@ -2662,11 +2656,7 @@ export default function Home() {
                                                           27 The righteous detest the dishonest;
                                                               the wicked detest the upright.
             </p>
-          </div>   
-                                                       
-
-
-
+          </div>       
      <div
             className={styles.card}
           >
@@ -2853,7 +2843,16 @@ export default function Home() {
           </div>  
             
 
-      
+         <div
+            className={styles.card}
+          >
+         <h2 className={styles.chapter}> Proverbs Closing Statement</h2>
+            <p>
+               So, I put on Proverbs in order to get motivated to code out the rest of proverbs and WOULDNT YA KNOW IT... HE gave me the energy to do the whole build!!! Praise God now 
+I must get it styled correctly...ENJOY!    
+
+  
+            </p>
 
   <p>
   And now...It is finished! Enjoy the new styles everyone & let me know what you think!! I am always seeking feedback. Hallelujah! Praise be to the Lord! I Jason, write this letter with my own hand
@@ -2863,14 +2862,8 @@ export default function Home() {
     Keep scrolling down for the continuation of God's wisdom literature...Here is Ecclesiastes, the wise old teacher
     </p>
           </div>  
-    </div>
     
-      
-
-
-
-
-    
+        </div>
 
                               
                                   </div>
