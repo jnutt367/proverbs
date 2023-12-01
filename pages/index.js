@@ -3632,14 +3632,8 @@ Fear God and keep his commandments,
         <h1 className={styles.title}>
         JOB
         </h1>
-         <div  className={styles.image}>
-       <Image 
-                                src="/job_2.png"
-                                alt="Scrools and writing gear"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+         <div  className={styles.iframe}>
+     <iframe width="100%" height="315" src="https://www.youtube.com/embed/xQwnH8th_fs?si=k6LYw7DsqlrHFAEQ&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
                            
                                 <p className={styles.parables}>
@@ -6500,14 +6494,8 @@ Here I will go into details about the Youtube community connected to the app whe
         <h1 className={styles.title}>
        SONG of SONGS
         </h1>
-         <div  className={styles.image}>
-       <Image 
-                                src="/song_of_songs.png"
-                                alt="Scrools and writing gear"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+         <div  className={styles.iframe}>
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/WJgt1vRkPbI?si=OUKR4VZ-blXPfkAU&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
                            
                                 <p className={styles.parables}>
