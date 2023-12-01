@@ -2883,21 +2883,16 @@ I must get it styled correctly...ENJOY!
         <h1 className={styles.title}>
        ECCLESIASTES
         </h1>
-         <div  className={styles.image}>
-       <Image 
-                                src="/ecclesiastes.png"
-                                alt="Scrools and writing gear"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+         <div  className={styles.iframe}>
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/lrsQ1tc-2wk?si=hwXazjFTEGnOCbrP&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
           </div>
                            
                                 <p className={styles.parables}>
           The "teacher" looks at wisdom, pleasure, work, power, riches, regilgion & more. All of which are meaningless if we are not living for God
                                   </p>
              
-                                  <div className={styles.secondnav}>
+                                  <div className={styles.nav}>
                                   <a href="https://jesusparables.vercel.app/">
              <Image 
                                 src="/previous.webp"
@@ -2934,11 +2929,11 @@ I must get it styled correctly...ENJOY!
               <iframe width="100%" height="315" src="https://www.youtube.com/embed/VeUiuSK81-0" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                                   </div>             
-        <div className={styles.secondgrid}>
+        <div className={styles.grid}>
                                     <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Ecclesiastes CH I</h2>
+         <h2 className={styles.chapter}> Ecclesiastes CH I</h2>
             <p>
 Everything Is Meaningless
 1 The words of the Teacher,[a] son of David, king in Jerusalem:
@@ -2995,7 +2990,7 @@ Wisdom Is Meaningless
      <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}>  Ecclesiastes CH II</h2>
+         <h2 className={styles.chapter}>  Ecclesiastes CH II</h2>
             <p>
 Pleasures Are Meaningless
 2 I said to myself, “Come now, I will test you with pleasure to find out what is good.” But that also proved to be meaningless. 2 “Laughter,” I said, “is madness. And what does pleasure accomplish?” 3 I tried cheering myself with wine, and embracing folly—my mind still guiding me with wisdom. I wanted to see what was good for people to do under the heavens during the few days of their lives.
@@ -3044,7 +3039,7 @@ Toil Is Meaningless
      <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Ecclesiastes CH III</h2>
+         <h2 className={styles.chapter}> Ecclesiastes CH III</h2>
             <p>
 A Time for Everything
 3 There is a time for everything,
@@ -3093,7 +3088,7 @@ for there will be a time for every activity,
    <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Ecclesiastes CH IV</h2>
+         <h2 className={styles.chapter}> Ecclesiastes CH IV</h2>
             <p>
 Oppression, Toil, Friendlessness
 4 Again I looked and saw all the oppression that was taking place under the sun:
@@ -3152,7 +3147,7 @@ Advancement Is Meaningless
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Ecclesiastes CH V</h2>
+         <h2 className={styles.chapter}> Ecclesiastes CH V</h2>
             <p>
 Fulfill Your Vow to God
 5 [a]Guard your steps when you go to the house of God. Go near to listen rather than to offer the sacrifice of fools, who do not know that they do wrong.
@@ -3212,7 +3207,7 @@ As everyone comes, so they depart,
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Ecclesiastes CH VI</h2>
+         <h2 className={styles.chapter}> Ecclesiastes CH VI</h2>
             <p>
 6 I have seen another evil under the sun, and it weighs heavily on mankind: 2 God gives some people wealth, possessions and honor, so that they lack nothing their hearts desire, but God does not grant them the ability to enjoy them, and strangers enjoy them instead. This is meaningless, a grievous evil.
 
@@ -3245,7 +3240,7 @@ no one can contend
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Ecclesiastes CH VII</h2>
+         <h2 className={styles.chapter}> Ecclesiastes CH VII</h2>
             <p>
 Wisdom
  A good name is better than fine perfume,
@@ -3352,7 +3347,7 @@ I found one upright man among a thousand,
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Ecclesiastes CH VIII</h2>
+         <h2 className={styles.chapter}> Ecclesiastes CH VIII</h2>
             <p>
 Who is like the wise?
     Who knows the explanation of things?
@@ -3389,7 +3384,7 @@ As no one is discharged in time of war,
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Ecclesiastes CH IX</h2>
+         <h2 className={styles.chapter}> Ecclesiastes CH IX</h2>
             <p>
 A Common Destiny for All
 9 So I reflected on all this and concluded that the righteous and the wise and what they do are in God’s hands, but no one knows whether love or hate awaits them. 2 All share a common destiny—the righteous and the wicked, the good and the bad,[a] the clean and the unclean, those who offer sacrifices and those who do not.
@@ -3442,7 +3437,7 @@ Wisdom Better Than Folly
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Ecclesiastes CH X</h2>
+         <h2 className={styles.chapter}> Ecclesiastes CH X</h2>
             <p>
 As dead flies give perfume a bad smell,
     so a little folly outweighs wisdom and honor.
@@ -3512,7 +3507,7 @@ because a bird in the sky may carry your words,
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Ecclesiastes CH XI</h2>
+         <h2 className={styles.chapter}> Ecclesiastes CH XI</h2>
             <p>
 Invest in Many Ventures
 11 Ship your grain across the sea;
@@ -3565,7 +3560,7 @@ but know that for all these things
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}> Ecclesiastes CH XII</h2>
+         <h2 className={styles.chapter}> Ecclesiastes CH XII</h2>
             <p>
 Remember your Creator
     in the days of your youth,
@@ -3651,7 +3646,7 @@ Fear God and keep his commandments,
         Job questions the reason for suffering, especially suffering of the people who do love God & do good works...
                                   </p>
              
-                                  <div className={styles.thirdnav}>
+                                  <div className={styles.nav}>
                                   <a href="https://jesusparables.vercel.app/">
              <Image 
                                 src="/previous.webp"
@@ -3689,11 +3684,11 @@ Fear God and keep his commandments,
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/GswSg2ohqmA?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                                   </div>             
-        <div className={styles.thirdgrid}>
+        <div className={styles.grid}>
                                     <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter I</h2>
+         <h2 className={styles.chapter}> Job Chapter I</h2>
             <p>
 Prologue
 1 In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil. 2 He had seven sons and three daughters, 3 and he owned seven thousand sheep, three thousand camels, five hundred yoke of oxen and five hundred donkeys, and had a large number of servants. He was the greatest man among all the people of the East.
@@ -3737,7 +3732,7 @@ The Lord gave and the Lord has taken away;
      <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}>  Job Chapter II</h2>
+         <h2 className={styles.chapter}>  Job Chapter II</h2>
             <p>
 2 On another day the angels[a] came to present themselves before the Lord, and Satan also came with them to present himself before him. 2 And the Lord said to Satan, “Where have you come from?”
 
@@ -3766,7 +3761,7 @@ In all this, Job did not sin in what he said.
      <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter III</h2>
+         <h2 className={styles.chapter}> Job Chapter III</h2>
             <p>
 Job Speaks
 3 After this, Job opened his mouth and cursed the day of his birth. 2 He said:
@@ -3833,7 +3828,7 @@ Job Speaks
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter IV</h2>
+         <h2 className={styles.chapter}> Job Chapter IV</h2>
             <p>
 Eliphaz
 4 Then Eliphaz the Temanite replied:
@@ -3889,7 +3884,7 @@ A form stood before my eyes,
                  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter V</h2>
+         <h2 className={styles.chapter}> Job Chapter V</h2>
             <p>
 5 “Call if you will, but who will answer you?
     To which of the holy ones will you turn?
@@ -3957,7 +3952,7 @@ A form stood before my eyes,
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter VI</h2>
+         <h2 className={styles.chapter}> Job Chapter VI</h2>
             <p>
 Job
 6 Then Job replied:
@@ -4034,7 +4029,7 @@ Job
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter VII</h2>
+         <h2 className={styles.chapter}> Job Chapter VII</h2>
             <p>
 7 “Do not mortals have hard service on earth?
     Are not their days like those of hired laborers?
@@ -4095,7 +4090,7 @@ For I will soon lie down in the dust;
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter VIII</h2>
+         <h2 className={styles.chapter}> Job Chapter VIII</h2>
             <p>
 Bildad
 8 Then Bildad the Shuhite replied:
@@ -4152,7 +4147,7 @@ Bildad
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter IX</h2>
+         <h2 className={styles.chapter}> Job Chapter IX</h2>
             <p>
 Job
 9 Then Job replied:
@@ -4240,7 +4235,7 @@ Job
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter X</h2>
+         <h2 className={styles.chapter}> Job Chapter X</h2>
             <p>
 10 “I loathe my very life;
     therefore I will give free rein to my complaint
@@ -4303,7 +4298,7 @@ for I am full of shame
        <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XI</h2>
+         <h2 className={styles.chapter}> Job Chapter XI</h2>
             <p>
 Zophar
 11 Then Zophar the Naamathite replied:
@@ -4356,7 +4351,7 @@ Zophar
      <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XII</h2>
+         <h2 className={styles.chapter}> Job Chapter XII</h2>
             <p>  12 Then Job replied:
 
 2 “Doubtless you are the only people who matter,
@@ -4420,7 +4415,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XIII</h2>
+         <h2 className={styles.chapter}> Job Chapter XIII</h2>
             <p>  13 “My eyes have seen all this,
     my ears have heard and understood it.
 2 What you know, I also know;
@@ -4491,7 +4486,7 @@ Zophar
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XIV</h2>
+         <h2 className={styles.chapter}> Job Chapter XIV</h2>
             <p> 14 “Mortals, born of woman,
     are of few days and full of trouble.
 2 They spring up like flowers and wither away;
@@ -4553,7 +4548,7 @@ If only you would set me a time
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XV</h2>
+         <h2 className={styles.chapter}> Job Chapter XV</h2>
             <p>  Eliphaz
 15 Then Eliphaz the Temanite replied:
 
@@ -4639,7 +4634,7 @@ If only you would set me a time
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XVI</h2>
+         <h2 className={styles.chapter}> Job Chapter XVI</h2>
             <p>  Job
 16 Then Job replied:
 
@@ -4704,7 +4699,7 @@ Without pity, he pierces my kidneys
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XVII</h2>
+         <h2 className={styles.chapter}> Job Chapter XVII</h2>
             <p> 17 1 My spirit is broken,
     my days are cut short,
     the grave awaits me.
@@ -4748,7 +4743,7 @@ Without pity, he pierces my kidneys
   <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XVIII</h2>
+         <h2 className={styles.chapter}> Job Chapter XVIII</h2>
             <p> Bildad
 18 Then Bildad the Shuhite replied:
 
@@ -4804,7 +4799,7 @@ Without pity, he pierces my kidneys
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XIX</h2>
+         <h2 className={styles.chapter}> Job Chapter XIX</h2>
             <p>  Job
 19 Then Job replied:
 
@@ -4879,7 +4874,7 @@ Without pity, he pierces my kidneys
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XX</h2>
+         <h2 className={styles.chapter}> Job Chapter XX</h2>
             <p>  Zophar
 20 Then Zophar the Naamathite replied:
 
@@ -4955,7 +4950,7 @@ A fire unfanned will consume him
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXI</h2>
+         <h2 className={styles.chapter}> Job Chapter XXI</h2>
             <p>  Job
 21 Then Job replied:
 
@@ -5039,7 +5034,7 @@ A fire unfanned will consume him
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXII</h2>
+         <h2 className={styles.chapter}> Job Chapter XXII</h2>
             <p> Eliphaz
 22 Then Eliphaz the Temanite replied:
 
@@ -5113,7 +5108,7 @@ A fire unfanned will consume him
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXIII</h2>
+         <h2 className={styles.chapter}> Job Chapter XXIII</h2>
             <p>  Job
 23 Then Job replied:
 
@@ -5159,7 +5154,7 @@ A fire unfanned will consume him
                 <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXIV</h2>
+         <h2 className={styles.chapter}> Job Chapter XXIV</h2>
             <p> 24 “Why does the Almighty not set times for judgment?
     Why must those who know him look in vain for such days?
 2 There are those who move boundary stones;
@@ -5231,7 +5226,7 @@ the wicked are no longer remembered
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXV</h2>
+         <h2 className={styles.chapter}> Job Chapter XXV</h2>
             <p> Bildad
 25 Then Bildad the Shuhite replied:
 
@@ -5253,7 +5248,7 @@ the wicked are no longer remembered
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXVI</h2>
+         <h2 className={styles.chapter}> Job Chapter XXVI</h2>
               
             <p> 
               Job
@@ -5295,7 +5290,7 @@ the wicked are no longer remembered
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXVII</h2>
+         <h2 className={styles.chapter}> Job Chapter XXVII</h2>
             <p>  Job’s Final Word to His Friends
 27 And Job continued his discourse:
 
@@ -5352,7 +5347,7 @@ the wicked are no longer remembered
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXVIII</h2>
+         <h2 className={styles.chapter}> Job Chapter XXVIII</h2>
             <p>  Interlude: Where Wisdom Is Found
 28 There is a mine for silver
     and a place where gold is refined.
@@ -5425,7 +5420,7 @@ the wicked are no longer remembered
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXIX</h2>
+         <h2 className={styles.chapter}> Job Chapter XXIX</h2>
             <p> Job’s Final Defense
 29 Job continued his discourse:
 
@@ -5489,7 +5484,7 @@ the wicked are no longer remembered
                 <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXX</h2>
+         <h2 className={styles.chapter}> Job Chapter XXX</h2>
             <p>  30 “But now they mock me,
     men younger than I,
 whose fathers I would have disdained
@@ -5572,7 +5567,7 @@ whose fathers I would have disdained
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXXI</h2>
+         <h2 className={styles.chapter}> Job Chapter XXXI</h2>
             <p>  31 “I made a covenant with my eyes
     not to look lustfully at a young woman.
 2 For what is our lot from God above,
@@ -5673,7 +5668,7 @@ The words of Job are ended.
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXXII</h2>
+         <h2 className={styles.chapter}> Job Chapter XXXII</h2>
             <p> Elihu
 32 So these three men stopped answering Job, because he was righteous in his own eyes. 2 But Elihu son of Barakel the Buzite, of the family of Ram, became very angry with Job for justifying himself rather than God. 3 He was also angry with the three friends, because they had found no way to refute Job, and yet had condemned him.[a] 4 Now Elihu had waited before speaking to Job because they were older than he. 5 But when he saw that the three men had nothing more to say, his anger was aroused.
 
@@ -5726,7 +5721,7 @@ But not one of you has proved Job wrong;
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXXIII</h2>
+         <h2 className={styles.chapter}> Job Chapter XXXIII</h2>
             <p>  33 “But now, Job, listen to my words;
     pay attention to everything I say.
 2 I am about to open my mouth;
@@ -5809,7 +5804,7 @@ But not one of you has proved Job wrong;
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXXIV</h2>
+         <h2 className={styles.chapter}> Job Chapter XXXIV</h2>
             <p>  34 Then Elihu said:
 
 2 “Hear my words, you wise men;
@@ -5906,7 +5901,7 @@ You must decide, not I;
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXXV</h2>
+         <h2 className={styles.chapter}> Job Chapter XXXV</h2>
             <p>  35 Then Elihu said:
 
 2 “Do you think this is just?
@@ -5951,7 +5946,7 @@ that your case is before him
                 <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXXVI</h2>
+         <h2 className={styles.chapter}> Job Chapter XXXVI</h2>
             <p> 36 Elihu continued:
 
 2 “Bear with me a little longer and I will show you
@@ -6034,7 +6029,7 @@ that your case is before him
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXXVII</h2>
+         <h2 className={styles.chapter}> Job Chapter XXXVII</h2>
             <p> 
 37 “At this my heart pounds
     and leaps from its place.
@@ -6097,7 +6092,7 @@ When his voice resounds,
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXXVIII</h2>
+         <h2 className={styles.chapter}> Job Chapter XXXVIII</h2>
             <p>  The Lord Speaks
 38 Then the Lord spoke to Job out of the storm. He said:
 
@@ -6199,7 +6194,7 @@ When his voice resounds,
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XXXIX</h2>
+         <h2 className={styles.chapter}> Job Chapter XXXIX</h2>
             <p>  39 “Do you know when the mountain goats give birth?
     Do you watch when the doe bears her fawn?
 2 Do you count the months till they bear?
@@ -6275,7 +6270,7 @@ When his voice resounds,
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XL</h2>
+         <h2 className={styles.chapter}> Job Chapter XL</h2>
             <p>  40 The Lord said to Job:
 
 2 “Will the one who contends with the Almighty correct him?
@@ -6338,7 +6333,7 @@ When his voice resounds,
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XLI</h2>
+         <h2 className={styles.chapter}> Job Chapter XLI</h2>
             <p>  41 [a]“Can you pull in Leviathan with a fishhook
     or tie down its tongue with a rope?
 2 Can you put a cord through its nose
@@ -6416,7 +6411,7 @@ When his voice resounds,
 <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Job Chapter XLII</h2>
+         <h2 className={styles.chapter}> Job Chapter XLII</h2>
             <p>   
 Job
 42 Then Job replied to the Lord:
@@ -6451,7 +6446,7 @@ Epilogue
               <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> Become a Subscriber</h2>
+         <h2 className={styles.chapter}> Become a Subscriber</h2>
            <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
               <p> 
 Here I will go into details about the Youtube community connected to the app when I am finished with this portion here! 
@@ -6469,7 +6464,7 @@ Here I will go into details about the Youtube community connected to the app whe
     <div
             className={styles.chapt}
           >
-         <h2 className={styles.thirdchapter}> More to come</h2>
+         <h2 className={styles.chapter}> More to come</h2>
          <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
               <p>  Praise God, the story is NOT OVER YET...what book should we ADD NEXT? I want YOUR OPINION on anything that you would think honors and uplifts the kingdom of our God!... OR just a style idea for the app lol!!
               I appreciate feedback and welcome constructive criticiscm. God bless y'all! 
@@ -6519,7 +6514,7 @@ Here I will go into details about the Youtube community connected to the app whe
           Song of Songs was nearly left out, thanks Carlos, for the accountability. A good brother in Christ!
                                   </p>
              
-                                  <div className={styles.nav2}>
+                                  <div className={styles.nav}>
                                   <a href="https://jesusparables.vercel.app/">
              <Image 
                                 src="/previous.webp"
@@ -6556,11 +6551,11 @@ Here I will go into details about the Youtube community connected to the app whe
              <iframe width="100%" height="315" src="https://www.youtube.com/embed/4KC7xE4fgOw?si=ufG24MxFIlzMMM5q?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                                   </div>             
-        <div className={styles.grid2}>
+        <div className={styles.grid}>
                                     <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}>Song of Songs CH I</h2>
+         <h2 className={styles.chapter}>Song of Songs CH I</h2>
             <p>
 1 Solomon’s Song of Songs.
 
@@ -6637,7 +6632,7 @@ He
      <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}>Song of Songs CH II</h2>
+         <h2 className={styles.chapter}>Song of Songs CH II</h2>
             <p>
 She[a]
 2 I am a rose[b] of Sharon,
@@ -6714,7 +6709,7 @@ or like a young stag
      <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}>Song of Songs CH III</h2>
+         <h2 className={styles.chapter}>Song of Songs CH III</h2>
             <p>
 3 All night long on my bed
     I looked for the one my heart loves;
@@ -6764,7 +6759,7 @@ on the day of his wedding,
    <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}>Song of Songs CH IV</h2>
+         <h2 className={styles.chapter}>Song of Songs CH IV</h2>
             <p>
 He
 4 How beautiful you are, my darling!
@@ -6841,7 +6836,7 @@ Let my beloved come into his garden
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}>Song of Songs CH V</h2>
+         <h2 className={styles.chapter}>Song of Songs CH V</h2>
             <p>
 He
 5 I have come into my garden, my sister, my bride;
@@ -6925,7 +6920,7 @@ This is my beloved, this is my friend,
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}>Song of Songs CH VI</h2>
+         <h2 className={styles.chapter}>Song of Songs CH VI</h2>
             <p>
 Friends
 6 Where has your beloved gone,
@@ -6992,7 +6987,7 @@ Why would you gaze on the Shulammite
                <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}>Song of Songs CH VII</h2>
+         <h2 className={styles.chapter}>Song of Songs CH VII</h2>
             <p>
 7 [a]How beautiful your sandaled feet,
     O prince’s daughter!
@@ -7045,7 +7040,7 @@ both new and old,
  <div
             className={styles.chapt}
           >
-         <h2 className={styles.secondchapter}>Song of Songs CH VIII</h2>
+         <h2 className={styles.chapter}>Song of Songs CH VIII</h2>
             <p>
 8 If only you were to me like a brother,
     who was nursed at my mother’s breasts!
