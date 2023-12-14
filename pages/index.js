@@ -3648,7 +3648,7 @@ Fear God and keep his commandments,
           </div>
                            
                                 <p className={styles.parables}>
-        Job questions the reason for suffering, especially suffering of the people who do love God & do good works...
+        Job questions the reason for suffering, especially suffering of people who love God & do good works.
                                   </p>
              
                                   <div className={styles.nav}>
