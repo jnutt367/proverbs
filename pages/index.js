@@ -33,7 +33,7 @@ export default function Home() {
     </div>
                            
                                 <p className={styles.parables}>
-          "For understanding proverbs & parables, sayings & riddles of the wise."
+Proverbs of Solomon "For understanding proverbs & parables, sayings & riddles of the wise."
                                   </p>
              
                                   <div className={styles.nav}>
