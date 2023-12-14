@@ -2912,7 +2912,7 @@ I must get it styled correctly...ENJOY!
                               />
        </a>
 
-       <a href="https://the-word-of-god.vercel.app/">
+       <a href="https://thewordofgodrisen.vercel.app/">
  <p>Give</p>                                  
               <Image 
                                 src="/upward_pointing.webp"
@@ -2942,7 +2942,7 @@ I must get it styled correctly...ENJOY!
                                   </div>             
         <div className={styles.grid}>
                                     <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH I</h2>
             <p>
@@ -2999,7 +2999,7 @@ Wisdom Is Meaningless
 
 
      <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}>  Ecclesiastes CH II</h2>
             <p>
@@ -3048,7 +3048,7 @@ Toil Is Meaningless
 
 
      <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH III</h2>
             <p>
@@ -3097,7 +3097,7 @@ for there will be a time for every activity,
             </p>
           </div>    
    <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH IV</h2>
             <p>
@@ -3156,7 +3156,7 @@ Advancement Is Meaningless
 
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH V</h2>
             <p>
@@ -3216,7 +3216,7 @@ As everyone comes, so they depart,
 
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH VI</h2>
             <p>
@@ -3249,7 +3249,7 @@ no one can contend
 
 
                <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH VII</h2>
             <p>
@@ -3356,7 +3356,7 @@ I found one upright man among a thousand,
           </div>    
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH VIII</h2>
             <p>
@@ -3393,7 +3393,7 @@ As no one is discharged in time of war,
 
 
                <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH IX</h2>
             <p>
@@ -3446,7 +3446,7 @@ Wisdom Better Than Folly
 
 
                <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH X</h2>
             <p>
@@ -3516,7 +3516,7 @@ because a bird in the sky may carry your words,
 
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH XI</h2>
             <p>
@@ -3569,7 +3569,7 @@ but know that for all these things
 
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Ecclesiastes CH XII</h2>
             <p>
@@ -3694,7 +3694,7 @@ Fear God and keep his commandments,
                                   </div>             
         <div className={styles.grid}>
                                     <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter I</h2>
             <p>
@@ -3738,7 +3738,7 @@ The Lord gave and the Lord has taken away;
 
 
      <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}>  Job Chapter II</h2>
             <p>
@@ -3767,7 +3767,7 @@ In all this, Job did not sin in what he said.
 
 
      <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter III</h2>
             <p>
@@ -3834,7 +3834,7 @@ Job Speaks
   
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter IV</h2>
             <p>
@@ -3890,7 +3890,7 @@ A form stood before my eyes,
   </p>
           </div>          
                  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter V</h2>
             <p>
@@ -3958,7 +3958,7 @@ A form stood before my eyes,
           </div>     
 
                <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter VI</h2>
             <p>
@@ -4035,7 +4035,7 @@ Job
               
               
                <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter VII</h2>
             <p>
@@ -4096,7 +4096,7 @@ For I will soon lie down in the dust;
 
               
                <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter VIII</h2>
             <p>
@@ -4153,7 +4153,7 @@ Bildad
           </div>     
 
                <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter IX</h2>
             <p>
@@ -4241,7 +4241,7 @@ Job
 
 
                <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter X</h2>
             <p>
@@ -4304,7 +4304,7 @@ for I am full of shame
           </div>  
 
        <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XI</h2>
             <p>
@@ -4357,7 +4357,7 @@ Zophar
   </p>
           </div>  
      <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XII</h2>
             <p>  12 Then Job replied:
@@ -4421,7 +4421,7 @@ Zophar
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XIII</h2>
             <p>  13 “My eyes have seen all this,
@@ -4492,7 +4492,7 @@ Zophar
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XIV</h2>
             <p> 14 “Mortals, born of woman,
@@ -4554,7 +4554,7 @@ If only you would set me a time
     </div>
               
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XV</h2>
             <p>  Eliphaz
@@ -4640,7 +4640,7 @@ If only you would set me a time
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XVI</h2>
             <p>  Job
@@ -4705,7 +4705,7 @@ Without pity, he pierces my kidneys
 
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XVII</h2>
             <p> 17 1 My spirit is broken,
@@ -4749,7 +4749,7 @@ Without pity, he pierces my kidneys
     </div>              
 
   <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XVIII</h2>
             <p> Bildad
@@ -4805,7 +4805,7 @@ Without pity, he pierces my kidneys
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XIX</h2>
             <p>  Job
@@ -4880,7 +4880,7 @@ Without pity, he pierces my kidneys
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XX</h2>
             <p>  Zophar
@@ -4956,7 +4956,7 @@ A fire unfanned will consume him
     </div>
               
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXI</h2>
             <p>  Job
@@ -5040,7 +5040,7 @@ A fire unfanned will consume him
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXII</h2>
             <p> Eliphaz
@@ -5114,7 +5114,7 @@ A fire unfanned will consume him
 
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXIII</h2>
             <p>  Job
@@ -5160,7 +5160,7 @@ A fire unfanned will consume him
 
 
                 <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXIV</h2>
             <p> 24 “Why does the Almighty not set times for judgment?
@@ -5232,7 +5232,7 @@ the wicked are no longer remembered
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXV</h2>
             <p> Bildad
@@ -5254,7 +5254,7 @@ the wicked are no longer remembered
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXVI</h2>
               
@@ -5296,7 +5296,7 @@ the wicked are no longer remembered
     </div>
               
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXVII</h2>
             <p>  Job’s Final Word to His Friends
@@ -5353,7 +5353,7 @@ the wicked are no longer remembered
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXVIII</h2>
             <p>  Interlude: Where Wisdom Is Found
@@ -5426,7 +5426,7 @@ the wicked are no longer remembered
 
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXIX</h2>
             <p> Job’s Final Defense
@@ -5490,7 +5490,7 @@ the wicked are no longer remembered
 
 
                 <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXX</h2>
             <p>  30 “But now they mock me,
@@ -5573,7 +5573,7 @@ whose fathers I would have disdained
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXXI</h2>
             <p>  31 “I made a covenant with my eyes
@@ -5674,7 +5674,7 @@ The words of Job are ended.
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXXII</h2>
             <p> Elihu
@@ -5727,7 +5727,7 @@ But not one of you has proved Job wrong;
     </div>
               
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXXIII</h2>
             <p>  33 “But now, Job, listen to my words;
@@ -5810,7 +5810,7 @@ But not one of you has proved Job wrong;
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXXIV</h2>
             <p>  34 Then Elihu said:
@@ -5907,7 +5907,7 @@ You must decide, not I;
 
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXXV</h2>
             <p>  35 Then Elihu said:
@@ -5952,7 +5952,7 @@ that your case is before him
 
 
                 <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXXVI</h2>
             <p> 36 Elihu continued:
@@ -6035,7 +6035,7 @@ that your case is before him
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXXVII</h2>
             <p> 
@@ -6098,7 +6098,7 @@ When his voice resounds,
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXXVIII</h2>
             <p>  The Lord Speaks
@@ -6200,7 +6200,7 @@ When his voice resounds,
     </div>
               
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XXXIX</h2>
             <p>  39 “Do you know when the mountain goats give birth?
@@ -6276,7 +6276,7 @@ When his voice resounds,
     </div>
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XL</h2>
             <p>  40 The Lord said to Job:
@@ -6339,7 +6339,7 @@ When his voice resounds,
 
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XLI</h2>
             <p>  41 [a]“Can you pull in Leviathan with a fishhook
@@ -6417,7 +6417,7 @@ When his voice resounds,
     </div>    
 
 <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Job Chapter XLII</h2>
             <p>   
@@ -6452,7 +6452,7 @@ Epilogue
 
 
               <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> Become a Subscriber</h2>
            <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
@@ -6470,7 +6470,7 @@ Here I will go into details about the Youtube community connected to the app whe
              
  
     <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}> More to come</h2>
          <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
@@ -6508,8 +6508,8 @@ Here I will go into details about the Youtube community connected to the app whe
         <h1 className={styles.title}>
        SONG of SONGS
         </h1>
-         <div  className={styles.iframe}>
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/WJgt1vRkPbI?si=OUKR4VZ-blXPfkAU&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+         <div  className={styles.iframe1}>
+      <iframe width="100%" height="300" src="https://www.youtube.com/embed/WJgt1vRkPbI?si=OUKR4VZ-blXPfkAU&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
                            
                                 <p className={styles.parables}>
@@ -6518,30 +6518,34 @@ Here I will go into details about the Youtube community connected to the app whe
              
                                   <div className={styles.nav}>
                                   <a href="https://jesusparables.vercel.app/">
+                                  <p>Prev</p>                
              <Image 
                                 src="/previous.webp"
                                 alt="left"
-                                 height={75}
-                                width={90}
+                                 height={72}
+                                width={25}
                                 priority
                               />
        </a>
 
        <a href="https://the-word-of-god.vercel.app/">
+                                  <p>Give</p>
               <Image 
                                 src="/upward_pointing.webp"
                                 alt="me thinking"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://matthew-coral.vercel.app/">
+
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="right"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -6550,12 +6554,12 @@ Here I will go into details about the Youtube community connected to the app whe
                </div>
 
       <div className={styles.iframe}>                     
-             <iframe width="100%" height="315" src="https://www.youtube.com/embed/4KC7xE4fgOw?si=ufG24MxFIlzMMM5q?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+             <iframe width="100%" height="315" src="https://www.youtube.com/embed/4KC7xE4fgOw?si=ufG24MxFIlzMMM5q&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                                   </div>             
         <div className={styles.grid}>
                                     <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}>Song of Songs CH I</h2>
             <p>
@@ -6632,7 +6636,7 @@ He
 
 
      <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}>Song of Songs CH II</h2>
             <p>
@@ -6709,7 +6713,7 @@ or like a young stag
 
 
      <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}>Song of Songs CH III</h2>
             <p>
@@ -6759,7 +6763,7 @@ on the day of his wedding,
             </p>
           </div>    
    <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}>Song of Songs CH IV</h2>
             <p>
@@ -6836,7 +6840,7 @@ Let my beloved come into his garden
 
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}>Song of Songs CH V</h2>
             <p>
@@ -6920,7 +6924,7 @@ This is my beloved, this is my friend,
 
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}>Song of Songs CH VI</h2>
             <p>
@@ -6987,7 +6991,7 @@ Why would you gaze on the Shulammite
 
 
                <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}>Song of Songs CH VII</h2>
             <p>
@@ -7040,7 +7044,7 @@ both new and old,
           </div>    
 
  <div
-            className={styles.chapt}
+            className={styles.card}
           >
          <h2 className={styles.chapter}>Song of Songs CH VIII</h2>
             <p>
