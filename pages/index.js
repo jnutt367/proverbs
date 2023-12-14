@@ -20,20 +20,20 @@ export default function Home() {
         <div className={styles.hero}>
              <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://thewordofgodrisen.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
        PROVERBS
         </h1>
-         <div  className={styles.iframe}>
-   <iframe width="100%" height="315" src="https://www.youtube.com/embed/-nGsKeY0Nio?si=jsCd7rgXVDVllKz1&autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/AzmYV8GNAIM?si=x-GRGggPjePtJ2Pa&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+         <div  className={styles.iframe1}>
+  
+    <iframe width="100%" height="300" src="https://www.youtube.com/embed/AzmYV8GNAIM?si=x-GRGggPjePtJ2Pa&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     
     </div>
                            
                                 <p className={styles.parables}>
-          "For understanding proverbs & parables, sayings & riddles of the wise. The fear of the Lord is the beginning of knowledge"
+          "..understanding proverbs & parables, sayings & riddles of the wise. Fear of the Lord is the beginning of knowledge"
                                   </p>
              
                                   <div className={styles.nav}>
@@ -2884,47 +2884,51 @@ I must get it styled correctly...ENJOY!
         <div className={styles.hero}>
              <h2 id="ecclesiastes" className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://thewordofgodrisen.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
        ECCLESIASTES
         </h1>
-         <div  className={styles.iframe}>
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/lrsQ1tc-2wk?si=hwXazjFTEGnOCbrP&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+         <div  className={styles.iframe1}>
+      <iframe width="100%" height="300" src="https://www.youtube.com/embed/lrsQ1tc-2wk?si=hwXazjFTEGnOCbrP&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     
           </div>
                            
                                 <p className={styles.parables}>
-          The "teacher" looks at wisdom, pleasure, work, power, riches, regilgion & more. All of which are meaningless if we are not living for God
+          The "wise old teacher" looks at wisdom, pleasure, work, power, riches, regilgion & more.
                                   </p>
              
                                   <div className={styles.nav}>
                                   <a href="https://jesusparables.vercel.app/">
+            <p>Prev</p>
+    
              <Image 
                                 src="/previous.webp"
                                 alt="left"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
        <a href="https://the-word-of-god.vercel.app/">
+ <p>Give</p>                                  
               <Image 
                                 src="/upward_pointing.webp"
                                 alt="me thinking"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://matthew-coral.vercel.app/">
+ <p>Next</p>                                  
            <Image 
                                 src="/next.webp"
                                 alt="right"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -2933,7 +2937,7 @@ I must get it styled correctly...ENJOY!
                </div>
 
       <div className={styles.iframe}>                     
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/VeUiuSK81-0?si=vk5edqXgxd_34Qc0&autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/VeUiuSK81-0?si=vk5edqXgxd_34Qc0&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                                   </div>             
         <div className={styles.grid}>
@@ -3633,14 +3637,14 @@ Fear God and keep his commandments,
         <div className={styles.hero}>
              <h2 id="job" className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://thewordofgodrisen.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
         JOB
         </h1>
-         <div  className={styles.iframe}>
-     <iframe width="100%" height="315" src="https://www.youtube.com/embed/xQwnH8th_fs?si=k6LYw7DsqlrHFAEQ&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+         <div  className={styles.iframe1}>
+     <iframe width="100%" height="300" src="https://www.youtube.com/embed/xQwnH8th_fs?si=k6LYw7DsqlrHFAEQ&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
                            
                                 <p className={styles.parables}>
@@ -3649,7 +3653,7 @@ Fear God and keep his commandments,
              
                                   <div className={styles.nav}>
                                   <a href="https://jesusparables.vercel.app/">
- <p>Parables</p>  
+ <p>Prev</p>  
              <Image 
                                 src="/previous.webp"
                                 alt="left"
