@@ -27,9 +27,15 @@ export default function Home() {
        PROVERBS
         </h1>
 
-              <div className={styles.iframe}>
+           <div className={styles.iframe}>
                  <iframe src="https://api.chatlab.com/aichat/iframe?apiKey=d5a4bf57-ad50-41c9-a2df-fc39065dceba&iFrameMode=true" width="100%" height="300px"></iframe> 
           </div>
+
+         <div  className={styles.iframe1}>
+  
+    <iframe width="100%" height="300" src="https://www.youtube.com/embed/AzmYV8GNAIM?si=x-GRGggPjePtJ2Pa&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
+    </div>
          
                            
                                 <p className={styles.parables}>
